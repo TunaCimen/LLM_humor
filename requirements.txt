@@ -1,0 +1,6 @@
+datasets
+Pillow
+openai
+dotenv
+tqdm
+load

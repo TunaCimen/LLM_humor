@@ -1,0 +1,539 @@
+[
+  {
+    "contest number": 130,
+    "snowman": {
+      "synonyms": [
+        "frosty figure",
+        "ice sculpture",
+        "winter figure",
+        "snow figure",
+        "snow creature"
+      ],
+      "antonyms": [
+        "melting",
+        "water",
+        "liquid",
+        "summer",
+        "heat"
+      ],
+      "word_groups": [
+        "snowman contest",
+        "snowman building",
+        "classic snowman",
+        "snowman hat",
+        "snowman carrot"
+      ],
+      "same_vibe": [
+        "warm cocoa",
+        "holiday cheer",
+        "winter wonderland",
+        "cozy fireplace",
+        "frosty air"
+      ],
+      "idioms": [
+        "like a snowflake in a blizzard",
+        "snowed under",
+        "walking on thin ice",
+        "cold as ice",
+        "snowball effect"
+      ],
+      "cultural_references": [
+        "Frosty the Snowman",
+        "The Snowman (film)",
+        "The Snowman (book)",
+        "A Charlie Brown Christmas",
+        "Winter Wonderland"
+      ]
+    },
+    "human": {
+      "synonyms": [
+        "person",
+        "individual",
+        "being",
+        "folk",
+        "character"
+      ],
+      "antonyms": [
+        "animal",
+        "machine",
+        "alien",
+        "creature",
+        "robot"
+      ],
+      "word_groups": [
+        "human nature",
+        "human rights",
+        "human connection",
+        "human behavior",
+        "human experience"
+      ],
+      "same_vibe": [
+        "community warmth",
+        "friendship bonds",
+        "shared laughter",
+        "emotional connection",
+        "life's journey"
+      ],
+      "idioms": [
+        "to err is human",
+        "only human",
+        "a human touch",
+        "like a human in a zoo",
+        "the human condition"
+      ],
+      "cultural_references": [
+        "The Human League",
+        "The Hitchhiker's Guide to the Galaxy",
+        "Human (Katy Perry)",
+        "The Truman Show",
+        "Humanity (video game)"
+      ]
+    },
+    "the yard": {
+      "synonyms": [
+        "garden",
+        "outdoor space",
+        "lawn",
+        "backyard",
+        "green area"
+      ],
+      "antonyms": [
+        "indoor",
+        "building",
+        "enclosure",
+        "cage",
+        "fortress"
+      ],
+      "word_groups": [
+        "yard work",
+        "front yard",
+        "backyard barbecue",
+        "yard sale",
+        "playground yard"
+      ],
+      "same_vibe": [
+        "picnic blankets",
+        "summer afternoons",
+        "children playing",
+        "nature sounds",
+        "sunshine"
+      ],
+      "idioms": [
+        "a yardstick to measure",
+        "in someone's backyard",
+        "make hay while the sun shines",
+        "good fences make good neighbors",
+        "clearing the weeds"
+      ],
+      "cultural_references": [
+        "The Secret Garden",
+        "Edward Scissorhands (yard scenes)",
+        "Backyardigans",
+        "The Great Outdoors",
+        "A Walk in the Clouds"
+      ]
+    },
+    "looking out a window": {
+      "synonyms": [
+        "gazing out",
+        "peering through",
+        "observing from",
+        "watching from",
+        "viewing through"
+      ],
+      "antonyms": [
+        "closing the window",
+        "turning away",
+        "ignoring",
+        "shutting in",
+        "shunning"
+      ],
+      "word_groups": [
+        "looking out window to the world",
+        "looking out window at life",
+        "day dreaming by the window",
+        "watching the passage of time",
+        "window of opportunity"
+      ],
+      "same_vibe": [
+        "contemplating life",
+        "daydreaming",
+        "nostalgic reflections",
+        "feeling introspective",
+        "waiting for change"
+      ],
+      "idioms": [
+        "a window of hope",
+        "looking through rose-colored glasses",
+        "on the other side of the window",
+        "watching the world go by",
+        "a window into the soul"
+      ],
+      "cultural_references": [
+        "The Sound of Music (window scenes)",
+        "Look Out for the Little Guy (film)",
+        "The Window (short story)",
+        "Windows (Microsoft)",
+        "The Great Gatsby ('the green light' by the window)"
+      ]
+    }
+  },
+  {
+    "contest number": 338,
+    "Novel": {
+      "synonyms": [
+        "book",
+        "tale",
+        "story",
+        "narrative",
+        "fiction"
+      ],
+      "antonyms": [
+        "reality",
+        "nonfiction",
+        "fact",
+        "truth",
+        "history"
+      ],
+      "word_groups": [
+        "novel idea",
+        "novel approach",
+        "novel reading",
+        "novel genre",
+        "novel character"
+      ],
+      "same_vibe": [
+        "fantasy",
+        "imagination",
+        "creativity",
+        "adventure",
+        "escape"
+      ],
+      "idioms": [
+        "turn the page",
+        "the plot thickens",
+        "out of the blue",
+        "between the lines",
+        "a whole new chapter"
+      ],
+      "cultural_references": [
+        "Moby Dick",
+        "Pride and Prejudice",
+        "War and Peace",
+        "The Great Gatsby",
+        "To Kill a Mockingbird"
+      ]
+    },
+    "Giant": {
+      "synonyms": [
+        "huge",
+        "massive",
+        "enormous",
+        "colossal",
+        "gigantic"
+      ],
+      "antonyms": [
+        "tiny",
+        "small",
+        "petite",
+        "minute",
+        "miniature"
+      ],
+      "word_groups": [
+        "giant leap",
+        "giant of industry",
+        "giant mistake",
+        "giant wave",
+        "giant panda"
+      ],
+      "same_vibe": [
+        "oversized",
+        "imposing",
+        "humongous",
+        "intimidating",
+        "magnificent"
+      ],
+      "idioms": [
+        "big fish in a small pond",
+        "go big or go home",
+        "the bigger they are, the harder they fall",
+        "reach for the stars",
+        "take giant strides"
+      ],
+      "cultural_references": [
+        "Jack and the Beanstalk",
+        "Gulliver's Travels",
+        "The BFG",
+        "Atlas Shrugged",
+        "King Kong"
+      ]
+    },
+    "Giant Book": {
+      "synonyms": [
+        "enormous tome",
+        "massive manuscript",
+        "colossal volume",
+        "huge text",
+        "oversized book"
+      ],
+      "antonyms": [
+        "pocket book",
+        "small pamphlet",
+        "mini book",
+        "compact text",
+        "tiny novel"
+      ],
+      "word_groups": [
+        "coffee table book",
+        "illustrated book",
+        "reference book",
+        "picture book",
+        "textbook"
+      ],
+      "same_vibe": [
+        "wonder",
+        "curiosity",
+        "surprise",
+        "fascination",
+        "imagination"
+      ],
+      "idioms": [
+        "bigger than life",
+        "open a whole new world",
+        "writings on the wall",
+        "a whole new realm",
+        "larger than life"
+      ],
+      "cultural_references": [
+        "The Book Thief",
+        "Harry Potter series",
+        "The Bible",
+        "The Chronicles of Narnia",
+        "War and Peace"
+      ]
+    },
+    "residential home": {
+      "synonyms": [
+        "house",
+        "dwelling",
+        "abode",
+        "residence",
+        "homestead"
+      ],
+      "antonyms": [
+        "office",
+        "commercial space",
+        "institution",
+        "public building",
+        "vacant lot"
+      ],
+      "word_groups": [
+        "family home",
+        "apartment building",
+        "single-family house",
+        "townhouse",
+        "rental property"
+      ],
+      "same_vibe": [
+        "comfort",
+        "safety",
+        "belonging",
+        "warmth",
+        "community"
+      ],
+      "idioms": [
+        "home sweet home",
+        "put down roots",
+        "make yourself at home",
+        "there's no place like home",
+        "home is where the heart is"
+      ],
+      "cultural_references": [
+        "The Great Gatsby",
+        "Little House on the Prairie",
+        "Home Alone",
+        "The House on Mango Street",
+        "The Address Book"
+      ]
+    }
+  },
+  {
+    "contest number": 619,
+    "sword": {
+      "synonyms": [
+        "blade",
+        "weapon",
+        "cutlass",
+        "sabre",
+        "rapier"
+      ],
+      "antonyms": [
+        "peace",
+        "diplomacy",
+        "safety",
+        "non-violence",
+        "kindness"
+      ],
+      "word_groups": [
+        "sword fight",
+        "swordsmanship",
+        "court sword",
+        "short sword",
+        "sword and shield"
+      ],
+      "same_vibe": [
+        "medieval times",
+        "warrior spirit",
+        "battleground",
+        "chivalry",
+        "fantasy realms"
+      ],
+      "idioms": [
+        "the pen is mightier than the sword",
+        "cross swords",
+        "sword of Damocles",
+        "take up the sword",
+        "fall on one's sword"
+      ],
+      "cultural_references": [
+        "Excalibur",
+        "The Sword in the Stone",
+        "Game of Thrones",
+        "The Three Musketeers",
+        "The Lord of the Rings"
+      ]
+    },
+    "businessperson": {
+      "synonyms": [
+        "executive",
+        "entrepreneur",
+        "professional",
+        "manager",
+        "corporate leader"
+      ],
+      "antonyms": [
+        "employee",
+        "worker",
+        "intern",
+        "junior",
+        "subordinate"
+      ],
+      "word_groups": [
+        "business meeting",
+        "business attire",
+        "business strategy",
+        "business card",
+        "business proposal"
+      ],
+      "same_vibe": [
+        "corporate culture",
+        "office politics",
+        "power dynamics",
+        "boardroom decisions",
+        "networking events"
+      ],
+      "idioms": [
+        "climbing the corporate ladder",
+        "think outside the box",
+        "cut to the chase",
+        "get down to business",
+        "bring home the bacon"
+      ],
+      "cultural_references": [
+        "Wall Street",
+        "The Office",
+        "Mad Men",
+        "The Wolf of Wall Street",
+        "Silicon Valley"
+      ]
+    },
+    "corporate office": {
+      "synonyms": [
+        "office space",
+        "workspace",
+        "business hub",
+        "workplace",
+        "administrative center"
+      ],
+      "antonyms": [
+        "home",
+        "field",
+        "remote work",
+        "non-office",
+        "outdoor"
+      ],
+      "word_groups": [
+        "office supplies",
+        "office politics",
+        "open office",
+        "office hours",
+        "office setup"
+      ],
+      "same_vibe": [
+        "professional environment",
+        "working atmosphere",
+        "corporate culture",
+        "business district",
+        "commercial space"
+      ],
+      "idioms": [
+        "office gossip",
+        "in the loop",
+        "on the same page",
+        "think on your feet",
+        "a paper trail"
+      ],
+      "cultural_references": [
+        "Dunder Mifflin",
+        "The Office (US)",
+        "Office Space",
+        "9 to 5",
+        "Horrible Bosses"
+      ]
+    },
+    "sticking sword out of desk": {
+      "synonyms": [
+        "sword lodged",
+        "blade embedded",
+        "weapon protruding",
+        "sword insertion",
+        "instrument stuck"
+      ],
+      "antonyms": [
+        "sword removed",
+        "weapon withdrawn",
+        "deserted desk",
+        "empty space",
+        "pristine surface"
+      ],
+      "word_groups": [
+        "sword in the stone",
+        "embedded weapon",
+        "improvised decor",
+        "office oddity",
+        "medieval confidence"
+      ],
+      "same_vibe": [
+        "unexpected surprise",
+        "quirky humor",
+        "absurd situation",
+        "humorous conflict",
+        "ironical twist"
+      ],
+      "idioms": [
+        "a knife in the back",
+        "bury the hatchet",
+        "cutting remarks",
+        "a double-edged sword",
+        "sharp end of the stick"
+      ],
+      "cultural_references": [
+        "Monty Python",
+        "Game of Thrones",
+        "The Hitchhiker's Guide to the Galaxy",
+        "The Office (UK)",
+        "RoboCop"
+      ]
+    }
+  }
+]
