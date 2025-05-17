@@ -4,44 +4,51 @@
     "snowman": {
       "synonyms": [
         "frosty figure",
-        "ice sculpture",
-        "winter figure",
         "snow figure",
-        "snow creature"
+        "ice sculpture",
+        "winter creation",
+        "snow sculpture"
       ],
       "antonyms": [
-        "melting",
-        "water",
-        "liquid",
-        "summer",
-        "heat"
+        "melted puddle",
+        "rain",
+        "bare ground",
+        "heat wave",
+        "summer"
       ],
       "word_groups": [
-        "snowman contest",
         "snowman building",
-        "classic snowman",
-        "snowman hat",
-        "snowman carrot"
+        "snowman contest",
+        "snowman decorations",
+        "snowman family",
+        "snowman hat"
       ],
       "same_vibe": [
-        "warm cocoa",
-        "holiday cheer",
         "winter wonderland",
-        "cozy fireplace",
-        "frosty air"
+        "holiday cheer",
+        "cozy indoors",
+        "frosty air",
+        "childhood memories"
       ],
       "idioms": [
-        "like a snowflake in a blizzard",
-        "snowed under",
-        "walking on thin ice",
-        "cold as ice",
-        "snowball effect"
+        "beyond the pale",
+        "as cold as ice",
+        "when hell freezes over",
+        "snow job",
+        "walking on thin ice"
+      ],
+      "related_mundane_terms": [
+        "snow day",
+        "cold front",
+        "frozen ground",
+        "winter jacket",
+        "hot cocoa"
       ],
       "cultural_references": [
         "Frosty the Snowman",
-        "The Snowman (film)",
-        "The Snowman (book)",
-        "A Charlie Brown Christmas",
+        "cool as ice",
+        "chill factor",
+        "Christmas special",
         "Winter Wonderland"
       ]
     },
@@ -50,266 +57,359 @@
         "person",
         "individual",
         "being",
-        "folk",
-        "character"
+        "character",
+        "homo sapien"
       ],
       "antonyms": [
         "animal",
         "machine",
+        "robot",
         "alien",
-        "creature",
-        "robot"
+        "abstract"
       ],
       "word_groups": [
-        "human nature",
         "human rights",
-        "human connection",
-        "human behavior",
-        "human experience"
+        "human nature",
+        "human experience",
+        "human resources",
+        "human touch"
       ],
       "same_vibe": [
-        "community warmth",
-        "friendship bonds",
+        "community spirit",
+        "compassionate actions",
         "shared laughter",
-        "emotional connection",
-        "life's journey"
+        "social connections",
+        "caring interactions"
       ],
       "idioms": [
-        "to err is human",
         "only human",
+        "to err is human",
         "a human touch",
-        "like a human in a zoo",
+        "like a bull in a china shop",
         "the human condition"
       ],
-      "cultural_references": [
-        "The Human League",
-        "The Hitchhiker's Guide to the Galaxy",
-        "Human (Katy Perry)",
-        "The Truman Show",
-        "Humanity (video game)"
-      ]
-    },
-    "the yard": {
-      "synonyms": [
-        "garden",
-        "outdoor space",
-        "lawn",
-        "backyard",
-        "green area"
-      ],
-      "antonyms": [
-        "indoor",
-        "building",
-        "enclosure",
-        "cage",
-        "fortress"
-      ],
-      "word_groups": [
-        "yard work",
-        "front yard",
-        "backyard barbecue",
-        "yard sale",
-        "playground yard"
-      ],
-      "same_vibe": [
-        "picnic blankets",
-        "summer afternoons",
-        "children playing",
-        "nature sounds",
-        "sunshine"
-      ],
-      "idioms": [
-        "a yardstick to measure",
-        "in someone's backyard",
-        "make hay while the sun shines",
-        "good fences make good neighbors",
-        "clearing the weeds"
+      "related_mundane_terms": [
+        "human resources",
+        "humanitarian aid",
+        "human behavior",
+        "human anatomy",
+        "social experiment"
       ],
       "cultural_references": [
-        "The Secret Garden",
-        "Edward Scissorhands (yard scenes)",
-        "Backyardigans",
-        "The Great Outdoors",
-        "A Walk in the Clouds"
+        "The Human Condition (painting)",
+        "Gattaca (film)",
+        "The Matrix (film)",
+        "The Human League (band)",
+        "Human (video game)"
       ]
     },
     "looking out a window": {
       "synonyms": [
         "gazing out",
-        "peering through",
-        "observing from",
-        "watching from",
-        "viewing through"
+        "peering out",
+        "watching outside",
+        "observing",
+        "glancing outside"
       ],
       "antonyms": [
-        "closing the window",
         "turning away",
         "ignoring",
-        "shutting in",
-        "shunning"
+        "closing eyes",
+        "shutting window",
+        "concealing"
       ],
       "word_groups": [
-        "looking out window to the world",
-        "looking out window at life",
-        "day dreaming by the window",
-        "watching the passage of time",
-        "window of opportunity"
+        "window viewing",
+        "window shopping",
+        "window treatment",
+        "window display",
+        "window sill"
       ],
       "same_vibe": [
-        "contemplating life",
+        "contemplative moments",
         "daydreaming",
+        "serene sights",
         "nostalgic reflections",
-        "feeling introspective",
-        "waiting for change"
+        "quiet observation"
       ],
       "idioms": [
-        "a window of hope",
+        "a window of opportunity",
         "looking through rose-colored glasses",
-        "on the other side of the window",
-        "watching the world go by",
-        "a window into the soul"
+        "the world is your oyster",
+        "sitting on the fence",
+        "out of sight, out of mind"
+      ],
+      "related_mundane_terms": [
+        "window frame",
+        "curtains drawn",
+        "viewing point",
+        "window latch",
+        "pane glass"
       ],
       "cultural_references": [
-        "The Sound of Music (window scenes)",
-        "Look Out for the Little Guy (film)",
+        "The Sound of Music (film)",
+        "Window to the World (exhibition)",
+        "Big Bens of London (landmark)",
         "The Window (short story)",
-        "Windows (Microsoft)",
-        "The Great Gatsby ('the green light' by the window)"
+        "The Great Gatsby (novel)"
+      ]
+    },
+    "the yard": {
+      "synonyms": [
+        "garden",
+        "lawn",
+        "outdoor space",
+        "play area",
+        "grounds"
+      ],
+      "antonyms": [
+        "indoor",
+        "inside",
+        "enclosed space",
+        "room",
+        "building"
+      ],
+      "word_groups": [
+        "yard work",
+        "backyard barbecue",
+        "front yard decorations",
+        "yard sale",
+        "playground yard"
+      ],
+      "same_vibe": [
+        "fresh air",
+        "outdoor fun",
+        "family gatherings",
+        "nature strolls",
+        "child's play"
+      ],
+      "idioms": [
+        "keeping up with the Joneses",
+        "a yardstick measure",
+        "the grass is greener",
+        "holding court in the yard",
+        "not my backyard"
+      ],
+      "related_mundane_terms": [
+        "lawnmower",
+        "flower beds",
+        "garden hose",
+        "deck chairs",
+        "patio furniture"
+      ],
+      "cultural_references": [
+        "The Secret Garden (novel)",
+        "To Kill a Mockingbird (novel)",
+        "Good Will Hunting (film)",
+        "American Beauty (film)",
+        "Yardbird (jazz term)"
       ]
     }
   },
   {
     "contest number": 338,
-    "Novel": {
+    "man": {
       "synonyms": [
-        "book",
-        "tale",
-        "story",
-        "narrative",
-        "fiction"
+        "male",
+        "gentleman",
+        "guy",
+        "fellow",
+        "dude"
       ],
       "antonyms": [
-        "reality",
-        "nonfiction",
-        "fact",
-        "truth",
-        "history"
+        "woman",
+        "female",
+        "lady",
+        "girl",
+        "girl"
       ],
       "word_groups": [
-        "novel idea",
-        "novel approach",
-        "novel reading",
-        "novel genre",
-        "novel character"
+        "man cave",
+        "man power",
+        "man on the street",
+        "man of honor",
+        "man about town"
       ],
       "same_vibe": [
-        "fantasy",
-        "imagination",
-        "creativity",
-        "adventure",
-        "escape"
+        "confident",
+        "assertive",
+        "inquisitive",
+        "enthusiastic",
+        "expressive"
       ],
       "idioms": [
-        "turn the page",
-        "the plot thickens",
-        "out of the blue",
-        "between the lines",
-        "a whole new chapter"
+        "man down",
+        "man up",
+        "the man in charge",
+        "man for the job",
+        "man of few words"
+      ],
+      "related_mundane_terms": [
+        "work suit",
+        "social gathering",
+        "conversation starter",
+        "home office",
+        "reading buddy"
       ],
       "cultural_references": [
-        "Moby Dick",
-        "Pride and Prejudice",
-        "War and Peace",
-        "The Great Gatsby",
-        "To Kill a Mockingbird"
+        "Superman",
+        "Batman",
+        "The Man in the Iron Mask",
+        "The Man Who Knew Too Much",
+        "The Man Show"
       ]
     },
-    "Giant": {
+    "woman": {
+      "synonyms": [
+        "female",
+        "lady",
+        "girl",
+        "gal",
+        "womanhood"
+      ],
+      "antonyms": [
+        "man",
+        "boy",
+        "male",
+        "gentleman",
+        "dude"
+      ],
+      "word_groups": [
+        "woman power",
+        "woman of the year",
+        "woman's right",
+        "woman on a mission",
+        "woman of wisdom"
+      ],
+      "same_vibe": [
+        "curious",
+        "observant",
+        "patient",
+        "thoughtful",
+        "interested"
+      ],
+      "idioms": [
+        "behind every great man",
+        "woman's intuition",
+        "a woman scorned",
+        "the weaker sex",
+        "woman of substance"
+      ],
+      "related_mundane_terms": [
+        "home decor",
+        "personal space",
+        "gathering spot",
+        "entryway conversation",
+        "curiosity piqued"
+      ],
+      "cultural_references": [
+        "Wonder Woman",
+        "The Woman in White",
+        "Women\u2019s Rights Movement",
+        "The Women\u2019s Room",
+        "The Witching Hour"
+      ]
+    },
+    "giant": {
       "synonyms": [
         "huge",
         "massive",
         "enormous",
         "colossal",
-        "gigantic"
+        "immense"
       ],
       "antonyms": [
         "tiny",
         "small",
-        "petite",
-        "minute",
-        "miniature"
+        "miniature",
+        "insignificant",
+        "petite"
       ],
       "word_groups": [
         "giant leap",
-        "giant of industry",
-        "giant mistake",
-        "giant wave",
-        "giant panda"
+        "giant panda",
+        "giant steps",
+        "giant of a man",
+        "giant market"
       ],
       "same_vibe": [
-        "oversized",
-        "imposing",
-        "humongous",
-        "intimidating",
-        "magnificent"
+        "extraordinary",
+        "unusual",
+        "impressive",
+        "bizarre",
+        "overwhelming"
       ],
       "idioms": [
-        "big fish in a small pond",
+        "giant's causeway",
+        "a giant among men",
+        "giant slayer",
         "go big or go home",
-        "the bigger they are, the harder they fall",
-        "reach for the stars",
-        "take giant strides"
+        "you've made a mountain out of a molehill"
+      ],
+      "related_mundane_terms": [
+        "size comparison",
+        "market trends",
+        "unexpected events",
+        "size matters",
+        "larger than life"
       ],
       "cultural_references": [
         "Jack and the Beanstalk",
         "Gulliver's Travels",
         "The BFG",
-        "Atlas Shrugged",
-        "King Kong"
+        "Giant Man (Marvel)",
+        "Giant\u2019s Causeway"
       ]
     },
-    "Giant Book": {
+    "novel": {
       "synonyms": [
-        "enormous tome",
-        "massive manuscript",
-        "colossal volume",
-        "huge text",
-        "oversized book"
+        "book",
+        "tome",
+        "tale",
+        "story",
+        "narrative"
       ],
       "antonyms": [
-        "pocket book",
-        "small pamphlet",
-        "mini book",
-        "compact text",
-        "tiny novel"
+        "nonfiction",
+        "article",
+        "report",
+        "manual",
+        "guideline"
       ],
       "word_groups": [
-        "coffee table book",
-        "illustrated book",
-        "reference book",
-        "picture book",
-        "textbook"
+        "novel idea",
+        "graphic novel",
+        "historical novel",
+        "novel approach",
+        "short novel"
       ],
       "same_vibe": [
-        "wonder",
-        "curiosity",
-        "surprise",
-        "fascination",
-        "imagination"
+        "creative",
+        "imaginative",
+        "thought-provoking",
+        "immersive",
+        "artistic"
       ],
       "idioms": [
-        "bigger than life",
-        "open a whole new world",
-        "writings on the wall",
-        "a whole new realm",
-        "larger than life"
+        "to write the next chapter",
+        "plot twist",
+        "turn the page",
+        "the story unfolds",
+        "read between the lines"
+      ],
+      "related_mundane_terms": [
+        "reading list",
+        "book club",
+        "author's style",
+        "story arc",
+        "literary workshop"
       ],
       "cultural_references": [
-        "The Book Thief",
-        "Harry Potter series",
-        "The Bible",
-        "The Chronicles of Narnia",
-        "War and Peace"
+        "Pride and Prejudice",
+        "Moby Dick",
+        "1984",
+        "To Kill a Mockingbird",
+        "The Great Gatsby"
       ]
     },
     "residential home": {
@@ -318,42 +418,100 @@
         "dwelling",
         "abode",
         "residence",
-        "homestead"
+        "property"
       ],
       "antonyms": [
         "office",
         "commercial space",
-        "institution",
         "public building",
+        "warehouse",
         "vacant lot"
       ],
       "word_groups": [
+        "home sweet home",
         "family home",
-        "apartment building",
-        "single-family house",
-        "townhouse",
-        "rental property"
+        "single-family home",
+        "mobile home",
+        "dream home"
       ],
       "same_vibe": [
-        "comfort",
-        "safety",
-        "belonging",
-        "warmth",
-        "community"
+        "cozy",
+        "comfortable",
+        "familiar",
+        "secure",
+        "personal"
       ],
       "idioms": [
-        "home sweet home",
-        "put down roots",
-        "make yourself at home",
-        "there's no place like home",
-        "home is where the heart is"
+        "there\u2019s no place like home",
+        "home is where the heart is",
+        "bring it home",
+        "home run",
+        "feeling at home"
+      ],
+      "related_mundane_terms": [
+        "front porch",
+        "backyard",
+        "living room",
+        "small talk",
+        "homeowner's association"
       ],
       "cultural_references": [
-        "The Great Gatsby",
-        "Little House on the Prairie",
+        "The Brady Bunch",
         "Home Alone",
-        "The House on Mango Street",
-        "The Address Book"
+        "The Fresh Prince of Bel-Air",
+        "This Old House",
+        "The American Dream"
+      ]
+    },
+    "pointing to text": {
+      "synonyms": [
+        "indicating",
+        "signaling",
+        "directing",
+        "showing",
+        "gesturing"
+      ],
+      "antonyms": [
+        "hiding",
+        "ignoring",
+        "withholding",
+        "dismissing",
+        "concealing"
+      ],
+      "word_groups": [
+        "pointing finger",
+        "pointing out",
+        "pointing the way",
+        "pointing device",
+        "pointer dog"
+      ],
+      "same_vibe": [
+        "communicative",
+        "engaging",
+        "interactive",
+        "demonstrative",
+        "expressive"
+      ],
+      "idioms": [
+        "point of no return",
+        "to the point",
+        "point out the obvious",
+        "the tipping point",
+        "turning the tables"
+      ],
+      "related_mundane_terms": [
+        "presentation skills",
+        "interactive discussion",
+        "explanatory gesture",
+        "reading aid",
+        "keynote speaker"
+      ],
+      "cultural_references": [
+        "Paint the Town Red",
+        "Point Break",
+        "The Point",
+        "Point of View (POV)",
+        "Point and Click Games"
       ]
     }
   },
@@ -364,43 +522,3359 @@
         "blade",
         "weapon",
         "cutlass",
-        "sabre",
-        "rapier"
+        "saber",
+        "foil"
       ],
       "antonyms": [
+        "shield",
         "peace",
-        "diplomacy",
-        "safety",
-        "non-violence",
-        "kindness"
+        "calm",
+        "tranquility",
+        "defenselessness"
       ],
       "word_groups": [
         "sword fight",
-        "swordsmanship",
-        "court sword",
-        "short sword",
-        "sword and shield"
+        "swordplay",
+        "double-edged sword",
+        "sword in the stone",
+        "sword of destiny"
       ],
       "same_vibe": [
-        "medieval times",
-        "warrior spirit",
-        "battleground",
-        "chivalry",
-        "fantasy realms"
+        "medieval fantasy",
+        "chivalric romance",
+        "epic battle",
+        "heroic quest",
+        "daring adventure"
       ],
       "idioms": [
-        "the pen is mightier than the sword",
         "cross swords",
         "sword of Damocles",
-        "take up the sword",
-        "fall on one's sword"
+        "swing a double-edged sword",
+        "sword-fighting tale",
+        "swordplay banter"
+      ],
+      "related_mundane_terms": [
+        "blade runner",
+        "sword maintenance",
+        "sword collection",
+        "swordsmanship lessons",
+        "sword exhibition"
       ],
       "cultural_references": [
         "Excalibur",
-        "The Sword in the Stone",
+        "The Lord of the Rings",
         "Game of Thrones",
         "The Three Musketeers",
-        "The Lord of the Rings"
+        "Zorro"
+      ]
+    },
+    "businessperson": {
+      "synonyms": [
+        "executive",
+        "entrepreneur",
+        "staff member",
+        "corporate individual",
+        "professional"
+      ],
+      "antonyms": [
+        "employee",
+        "intern",
+        "subordinate",
+        "junior",
+        "amateur"
+      ],
+      "word_groups": [
+        "business meeting",
+        "business casual",
+        "business attire",
+        "business deal",
+        "business card"
+      ],
+      "same_vibe": [
+        "corporate culture",
+        "office politics",
+        "professional networking",
+        "career advancement",
+        "work-life balance"
+      ],
+      "idioms": [
+        "climbing the corporate ladder",
+        "business as usual",
+        "cutthroat competition",
+        "keeping your head above water",
+        "dressing for success"
+      ],
+      "related_mundane_terms": [
+        "office hours",
+        "team building",
+        "performance review",
+        "work ethic",
+        "company retreat"
+      ],
+      "cultural_references": [
+        "The Office",
+        "Wall Street",
+        "Mad Men",
+        "The Pursuit of Happyness",
+        "Silicon Valley"
+      ]
+    },
+    "office": {
+      "synonyms": [
+        "workspace",
+        "cubicle",
+        "bureau",
+        "workspace",
+        "administrative center"
+      ],
+      "antonyms": [
+        "home",
+        "outdoors",
+        "worksite",
+        "field",
+        "vacation spot"
+      ],
+      "word_groups": [
+        "office supplies",
+        "office hours",
+        "office politics",
+        "office equipment",
+        "office party"
+      ],
+      "same_vibe": [
+        "professional environment",
+        "productivity",
+        "business setting",
+        "collaboration",
+        "work culture"
+      ],
+      "idioms": [
+        "nine-to-five",
+        "office gossip",
+        "on the same page",
+        "think outside the box",
+        "in the loop"
+      ],
+      "related_mundane_terms": [
+        "staff meeting",
+        "office memo",
+        "conference call",
+        "water cooler talk",
+        "email correspondence"
+      ],
+      "cultural_references": [
+        "The Office",
+        "Office Space",
+        "Horrible Bosses",
+        "9 to 5",
+        "The Intern"
+      ]
+    },
+    "sticking out of an office desk": {
+      "synonyms": [
+        "protruding",
+        "jutting",
+        "emerging",
+        "standing upright",
+        "inserting"
+      ],
+      "antonyms": [
+        "recessed",
+        "hidden",
+        "concealed",
+        "sunken",
+        "withdrawn"
+      ],
+      "word_groups": [
+        "sword on the desk",
+        "intriguing placement",
+        "unexpected decor",
+        "office oddity",
+        "quirky workspace"
+      ],
+      "same_vibe": [
+        "strange occurrences",
+        "absurdity in routine",
+        "unusual presentations",
+        "curiosity factor",
+        "surreal surprise"
+      ],
+      "idioms": [
+        "sticking your neck out",
+        "standing out like a sore thumb",
+        "out of place",
+        "pushing the envelope",
+        "poking fun"
+      ],
+      "related_mundane_terms": [
+        "desk decor",
+        "office design",
+        "workspace arrangement",
+        "workspace surprises",
+        "creative design choices"
+      ],
+      "cultural_references": [
+        "A Series of Unfortunate Events",
+        "Alice in Wonderland",
+        "The Addams Family",
+        "Pulp Fiction",
+        "The Hitchhiker's Guide to the Galaxy"
+      ]
+    }
+  },
+  {
+    "contest number": 217,
+    "Swimming_pool": {
+      "synonyms": [
+        "aqua center",
+        "water feature",
+        "swim basin",
+        "lido",
+        "natatorium"
+      ],
+      "antonyms": [
+        "dry land",
+        "desert",
+        "arid zone",
+        "barren ground",
+        "parched earth"
+      ],
+      "word_groups": [
+        "swimming class",
+        "pool party",
+        "water aerobics",
+        "synchronized swimming",
+        "poolside relaxation"
+      ],
+      "same_vibe": [
+        "beach day",
+        "spa retreat",
+        "vacation resort",
+        "tropical getaway",
+        "summer fun"
+      ],
+      "idioms": [
+        "make a splash",
+        "dive into something",
+        "swim against the tide",
+        "sink or swim",
+        "to dip one's toes in"
+      ],
+      "related_mundane_terms": [
+        "pool maintenance",
+        "swim cap",
+        "diving board",
+        "chlorine levels",
+        "lifeguard training"
+      ],
+      "cultural_references": [
+        "The Swimmer (film)",
+        "Finding Nemo",
+        "Baywatch",
+        "Pool House (TV show)",
+        "Wet Hot American Summer"
+      ]
+    },
+    "Businessperson": {
+      "synonyms": [
+        "executive",
+        "professional",
+        "entrepreneur",
+        "corporate worker",
+        "office worker"
+      ],
+      "antonyms": [
+        "unemployed",
+        "layabout",
+        "amateur",
+        "non-worker",
+        "idler"
+      ],
+      "word_groups": [
+        "business meeting",
+        "office attire",
+        "corporate ladder",
+        "work environment",
+        "9-to-5 job"
+      ],
+      "same_vibe": [
+        "power lunch",
+        "networking event",
+        "business conference",
+        "corporate retreat",
+        "startup pitch"
+      ],
+      "idioms": [
+        "climbing the corporate ladder",
+        "dressed to the nines",
+        "burning the midnight oil",
+        "business as usual",
+        "when the chips are down"
+      ],
+      "related_mundane_terms": [
+        "office supplies",
+        "meeting room",
+        "conference call",
+        "coffee break",
+        "team building"
+      ],
+      "cultural_references": [
+        "The Office (TV show)",
+        "Mad Men",
+        "Wall Street (film)",
+        "Silicon Valley (TV show)",
+        "The Devil Wears Prada"
+      ]
+    },
+    "diving into the pool": {
+      "synonyms": [
+        "jumping into the water",
+        "taking a plunge",
+        "leaping into the pool",
+        "splashing into the water",
+        "hopping in"
+      ],
+      "antonyms": [
+        "staying dry",
+        "keeping out",
+        "avoiding the water",
+        "remaining on land",
+        "not engaging"
+      ],
+      "word_groups": [
+        "water entry",
+        "synchronized diving",
+        "competitive diving",
+        "diving technique",
+        "graceful leap"
+      ],
+      "same_vibe": [
+        "taking risks",
+        "embracing spontaneity",
+        "leaping into adventure",
+        "going for it",
+        "making bold moves"
+      ],
+      "idioms": [
+        "plunging headfirst",
+        "taking the plunge",
+        "jumping in with both feet",
+        "diving into the unknown",
+        "going off the deep end"
+      ],
+      "related_mundane_terms": [
+        "splash zone",
+        "dive suit",
+        "water entry point",
+        "shallow end",
+        "deep end"
+      ],
+      "cultural_references": [
+        "Return of the Jedi (swimming scenes)",
+        "The Big Lebowski (pool scene)",
+        "Jaws (beach panic)",
+        "Aqua Man (comics)",
+        "Finding Dory (underwater adventure)"
+      ]
+    },
+    "office room": {
+      "synonyms": [
+        "workspace",
+        "cubicle",
+        "workstation",
+        "office space",
+        "administrative room"
+      ],
+      "antonyms": [
+        "home",
+        "outdoor space",
+        "vacation spot",
+        "unoccupied space",
+        "social area"
+      ],
+      "word_groups": [
+        "office layout",
+        "work environment",
+        "corporate workspace",
+        "administrative task",
+        "office supplies"
+      ],
+      "same_vibe": [
+        "business environment",
+        "formal setting",
+        "productivity zone",
+        "meeting spot",
+        "collaborative space"
+      ],
+      "idioms": [
+        "the corner office",
+        "office politics",
+        "think outside the box",
+        "take a meeting",
+        "cubicle life"
+      ],
+      "related_mundane_terms": [
+        "desk organization",
+        "filing cabinet",
+        "computer monitor",
+        "printer paper",
+        "break room"
+      ],
+      "cultural_references": [
+        "The Office (TV show)",
+        "Horrible Bosses (film)",
+        "9 to 5 (film)",
+        "Office Space (film)",
+        "Mad Men"
+      ]
+    }
+  },
+  {
+    "contest number": 711,
+    "baseball": {
+      "synonyms": [
+        "game",
+        "sport",
+        "diamond",
+        "bat and ball",
+        "national pastime"
+      ],
+      "antonyms": [
+        "football",
+        "basketball",
+        "hockey",
+        "cricket",
+        "tennis"
+      ],
+      "word_groups": [
+        "baseball bat",
+        "baseball glove",
+        "baseball season",
+        "baseball card",
+        "baseball field"
+      ],
+      "same_vibe": [
+        "softball",
+        "kickball",
+        "wiffle ball",
+        "pitch",
+        "catch"
+      ],
+      "idioms": [
+        "hit it out of the park",
+        "throw a curveball",
+        "step up to the plate",
+        "hit for the cycle",
+        "touch base"
+      ],
+      "related_mundane_terms": [
+        "home run",
+        "strike out",
+        "full count",
+        "infield fly",
+        "walk-off home run"
+      ],
+      "cultural_references": [
+        "Field of Dreams",
+        "The Sandlot",
+        "Moneyball",
+        "Ken Burns' Baseball",
+        "Major League"
+      ]
+    },
+    "telephone_call": {
+      "synonyms": [
+        "phone call",
+        "conversation",
+        "communication",
+        "gossip",
+        "chat"
+      ],
+      "antonyms": [
+        "silence",
+        "neglect",
+        "uncommunicative",
+        "isolation",
+        "solitude"
+      ],
+      "word_groups": [
+        "phone line",
+        "phone booth",
+        "conference call",
+        "cellular call",
+        "business call"
+      ],
+      "same_vibe": [
+        "text message",
+        "video call",
+        "email",
+        "letter",
+        "voicemail"
+      ],
+      "idioms": [
+        "ring a bell",
+        "on the line",
+        "pick up the phone",
+        "give someone a buzz",
+        "call it a day"
+      ],
+      "related_mundane_terms": [
+        "dial tone",
+        "caller ID",
+        "landline",
+        "hang up",
+        "call waiting"
+      ],
+      "cultural_references": [
+        "You've Got Mail",
+        "The Godfather (phone calls)",
+        "The Big Bang Theory (phone scenes)",
+        "Dial M for Murder",
+        "The Phone Booth"
+      ]
+    },
+    "obliviousness": {
+      "synonyms": [
+        "inattentiveness",
+        "unawareness",
+        "indifference",
+        "distraction",
+        "unconsciousness"
+      ],
+      "antonyms": [
+        "awareness",
+        "consciousness",
+        "alertness",
+        "attention",
+        "mindfulness"
+      ],
+      "word_groups": [
+        "oblivious to details",
+        "oblivious to surroundings",
+        "oblivious behavior",
+        "human obliviousness",
+        "oblivious state"
+      ],
+      "same_vibe": [
+        "naivet\u00e9",
+        "disinterest",
+        "disengagement",
+        "apathy",
+        "ignorance"
+      ],
+      "idioms": [
+        "lost in the sauce",
+        "in the dark",
+        "out to lunch",
+        "blind to the facts",
+        "on another planet"
+      ],
+      "related_mundane_terms": [
+        "spacing out",
+        "zoning out",
+        "daydreaming",
+        "lost in thought",
+        "missing the point"
+      ],
+      "cultural_references": [
+        "Dumb and Dumber (characters)",
+        "The Office (Michael Scott)",
+        "Ferris Bueller's Day Off (skipping school)",
+        "Finding Nemo (Dory's forgetfulness)",
+        "The Three Stooges (slapstick obliviousness)"
+      ]
+    },
+    "living_room": {
+      "synonyms": [
+        "sitting room",
+        "salon",
+        "family room",
+        "den",
+        "lounge"
+      ],
+      "antonyms": [
+        "garage",
+        "basement",
+        "bathroom",
+        "kitchen",
+        "office"
+      ],
+      "word_groups": [
+        "living room furniture",
+        "living room decor",
+        "living room set",
+        "living room layout",
+        "living room design"
+      ],
+      "same_vibe": [
+        "home theater",
+        "cozy corner",
+        "library nook",
+        "study space",
+        "patio"
+      ],
+      "idioms": [
+        "make yourself at home",
+        "the heart of the home",
+        "home away from home",
+        "home sweet home",
+        "a place to hang your hat"
+      ],
+      "related_mundane_terms": [
+        "sofa",
+        "coffee table",
+        "television",
+        "area rug",
+        "bookshelf"
+      ],
+      "cultural_references": [
+        "Friends (Central Perk)",
+        "The Simpsons (living room scenes)",
+        "Everybody Loves Raymond (set)",
+        "The Brady Bunch (living room)",
+        "The Fresh Prince of Bel-Air (house)"
+      ]
+    }
+  },
+  {
+    "contest number": 71,
+    "Sawing_a_woman_in_half": {
+      "synonyms": [
+        "dissection",
+        "partition",
+        "halving",
+        "splitting",
+        "severing"
+      ],
+      "antonyms": [
+        "joining",
+        "whole",
+        "uniting",
+        "completing",
+        "repairing"
+      ],
+      "word_groups": [
+        "sawing act",
+        "stage magic",
+        "illusion trick",
+        "performance art",
+        "optical illusion"
+      ],
+      "same_vibe": [
+        "magic show",
+        "circus act",
+        "suspense thriller",
+        "dark humor",
+        "shock comedy"
+      ],
+      "idioms": [
+        "pulling a rabbit out of a hat",
+        "sleight of hand",
+        "the show must go on",
+        "cutting corners",
+        "showstopper"
+      ],
+      "related_mundane_terms": [
+        "theatrical performance",
+        "magic act",
+        "stage fright",
+        "audience reaction",
+        "performance review"
+      ],
+      "cultural_references": [
+        "David Copperfield",
+        "Harry Houdini",
+        "The Prestige",
+        "magic kit",
+        "Cirque du Soleil"
+      ]
+    },
+    "Magic_(illusion)": {
+      "synonyms": [
+        "sorcery",
+        "wizardry",
+        "enchantment",
+        "sleight",
+        "mystique"
+      ],
+      "antonyms": [
+        "reality",
+        "truth",
+        "authenticity",
+        "genuineness",
+        "honesty"
+      ],
+      "word_groups": [
+        "magic trick",
+        "illusionist's performance",
+        "stage magic",
+        "visual deception",
+        "mystical arts"
+      ],
+      "same_vibe": [
+        "marvels of science",
+        "fantasy realm",
+        "pantomime drama",
+        "dream sequence",
+        "whimsical tales"
+      ],
+      "idioms": [
+        "magic touch",
+        "vanishing act",
+        "making something disappear",
+        "under a spell",
+        "sleight of hand"
+      ],
+      "related_mundane_terms": [
+        "magic show",
+        "illusionist",
+        "card trick",
+        "conjuring",
+        "disappearing act"
+      ],
+      "cultural_references": [
+        "The Magic Castle",
+        "Merlin the Wizard",
+        "Fantasia",
+        "magic wands",
+        "Harry Potter"
+      ]
+    },
+    "doctor's office": {
+      "synonyms": [
+        "clinic",
+        "healthcare facility",
+        "medical practice",
+        "examination room",
+        "surgery center"
+      ],
+      "antonyms": [
+        "field",
+        "infirmity",
+        "chaos",
+        "abandonment",
+        "neglect"
+      ],
+      "word_groups": [
+        "doctor visit",
+        "medical examination",
+        "patient consultation",
+        "insurance paperwork",
+        "waiting room"
+      ],
+      "same_vibe": [
+        "hospital",
+        "urgent care",
+        "physical therapy",
+        "wellness check",
+        "diagnostic center"
+      ],
+      "idioms": [
+        "doctor's orders",
+        "in the doctor's hands",
+        "second opinion",
+        "medical advice",
+        "face the doctor"
+      ],
+      "related_mundane_terms": [
+        "appointment scheduling",
+        "medical records",
+        "waiting time",
+        "prescription refill",
+        "follow-up visit"
+      ],
+      "cultural_references": [
+        "Grey's Anatomy",
+        "House, M.D.",
+        "The Doctor (from Doctor Who)",
+        "Scrubs",
+        "ER"
+      ]
+    },
+    "body in three parts": {
+      "synonyms": [
+        "disjointed body",
+        "fragmented figure",
+        "divided structure",
+        "disassembled form",
+        "severed body"
+      ],
+      "antonyms": [
+        "whole body",
+        "united form",
+        "complete structure",
+        "intact figure",
+        "single entity"
+      ],
+      "word_groups": [
+        "body parts",
+        "anatomical puzzle",
+        "mysterious anatomy",
+        "unusual dissection",
+        "bizarre configuration"
+      ],
+      "same_vibe": [
+        "dismemberment",
+        "horror tales",
+        "macabre art",
+        "eerie spectacle",
+        "strange occurrence"
+      ],
+      "idioms": [
+        "piece by piece",
+        "broken apart",
+        "a body to fear",
+        "two halves make a whole",
+        "clicking into place"
+      ],
+      "related_mundane_terms": [
+        "anatomical study",
+        "forensic analysis",
+        "body imagery",
+        "surgical procedure",
+        "reassembly"
+      ],
+      "cultural_references": [
+        "Frankenstein",
+        "The Human Body Exhibition",
+        "The Parts of the Body Song",
+        "Body Worlds",
+        "The Thing"
+      ]
+    }
+  },
+  {
+    "contest number": 712,
+    "dinosaur": {
+      "synonyms": [
+        "reptile",
+        "saurian",
+        "beast",
+        "creature",
+        "lizard"
+      ],
+      "antonyms": [
+        "mammal",
+        "bird",
+        "fish",
+        "insect",
+        "human"
+      ],
+      "word_groups": [
+        "dinosaur fossil",
+        "dinosaur museum",
+        "dinosaur eggs",
+        "dinosaur bones",
+        "dinosaur scale"
+      ],
+      "same_vibe": [
+        "prehistoric",
+        "evolution",
+        "extinction",
+        "massive",
+        "ancient"
+      ],
+      "idioms": [
+        "big fish in a small pond",
+        "like a bull in a china shop",
+        "walking on eggshells",
+        "stubborn as a mule",
+        "eating like a horse"
+      ],
+      "related_mundane_terms": [
+        "office hours",
+        "water cooler talk",
+        "team meeting",
+        "business attire",
+        "coffee break"
+      ],
+      "cultural_references": [
+        "Jurassic Park",
+        "The Flintstones",
+        "Dinosaur (Disney film)",
+        "Godzilla",
+        "Barney the Dinosaur"
+      ]
+    },
+    "meteoroid": {
+      "synonyms": [
+        "meteor",
+        "komet",
+        "space rock",
+        "celestial body",
+        "asteroid"
+      ],
+      "antonyms": [
+        "earth",
+        "ground",
+        "universe",
+        "planet",
+        "star"
+      ],
+      "word_groups": [
+        "meteoroid shower",
+        "meteoroid impact",
+        "meteoroid belt",
+        "interstellar meteoroid",
+        "meteoroid drift"
+      ],
+      "same_vibe": [
+        "cosmic",
+        "celestial",
+        "apocalyptic",
+        "dangerous",
+        "fast-moving"
+      ],
+      "idioms": [
+        "star-crossed",
+        "shooting star",
+        "hit the ground running",
+        "the sky is falling",
+        "catching a falling star"
+      ],
+      "related_mundane_terms": [
+        "space exploration",
+        "rocket launch",
+        "telescope observation",
+        "night sky",
+        "planetarium visit"
+      ],
+      "cultural_references": [
+        "Armageddon",
+        "Deep Impact",
+        "Meteor (film)",
+        "The Day the Earth Stood Still",
+        "Space Invaders"
+      ]
+    },
+    "office": {
+      "synonyms": [
+        "workplace",
+        "cubicle",
+        "business center",
+        "studio",
+        "workroom"
+      ],
+      "antonyms": [
+        "home",
+        "vacation",
+        "wilderness",
+        "table",
+        "park"
+      ],
+      "word_groups": [
+        "office supplies",
+        "office politics",
+        "office party",
+        "office hours",
+        "office space"
+      ],
+      "same_vibe": [
+        "professional",
+        "corporate",
+        "businesslike",
+        "formal",
+        "structured"
+      ],
+      "idioms": [
+        "climbing the corporate ladder",
+        "dress for success",
+        "putting out fires",
+        "big cheese",
+        "keeping your nose to the grindstone"
+      ],
+      "related_mundane_terms": [
+        "meetings and agendas",
+        "business casual",
+        "performance review",
+        "office memo",
+        "staff meeting"
+      ],
+      "cultural_references": [
+        "The Office (TV series)",
+        "9 to 5 (film)",
+        "Office Space (film)",
+        "Mad Men",
+        "Dilbert"
+      ]
+    },
+    "handing papers": {
+      "synonyms": [
+        "passing documents",
+        "transmitting files",
+        "delivering paperwork",
+        "exchanging documents",
+        "sharing sheets"
+      ],
+      "antonyms": [
+        "withholding",
+        "keeping",
+        "hiding",
+        "hoarding",
+        "losing"
+      ],
+      "word_groups": [
+        "handing out flyers",
+        "handing down decisions",
+        "handing in reports",
+        "handing over control",
+        "handing back feedback"
+      ],
+      "same_vibe": [
+        "collaboration",
+        "communication",
+        "business exchange",
+        "transaction",
+        "formal interaction"
+      ],
+      "idioms": [
+        "crossing the T's and dotting the I's",
+        "not playing with a full deck",
+        "a paper trail",
+        "all in a day's work",
+        "cutting through the red tape"
+      ],
+      "related_mundane_terms": [
+        "document review",
+        "file organization",
+        "presentation delivery",
+        "report submission",
+        "email communication"
+      ],
+      "cultural_references": [
+        "The Paper Chase (film)",
+        "The Proposal (film)",
+        "Thank You for Smoking (film)",
+        "The West Wing",
+        "The Secretary (film)"
+      ]
+    }
+  },
+  {
+    "contest number": 61,
+    "hand": {
+      "synonyms": [
+        "palm",
+        "grasp",
+        "appendage",
+        "digit",
+        "claw"
+      ],
+      "antonyms": [
+        "foot",
+        "leg",
+        "stump",
+        "torso",
+        "body"
+      ],
+      "word_groups": [
+        "handshake",
+        "handwriting",
+        "handful",
+        "hand over",
+        "hand in glove"
+      ],
+      "same_vibe": [
+        "clown hand",
+        "giant puppetry",
+        "oversized toys",
+        "whimsical art",
+        "cartoonish proportions"
+      ],
+      "idioms": [
+        "at hand",
+        "give a hand",
+        "hand over fist",
+        "hands down",
+        "hand in hand"
+      ],
+      "related_mundane_terms": [
+        "hand lotion",
+        "hand sanitizer",
+        "handrail",
+        "hand mirror",
+        "handcuffs"
+      ],
+      "cultural_references": [
+        "The Handmaid's Tale",
+        "The Addams Family (Thing)",
+        "Spider-Man (web-slinger)",
+        "Aesop's Fables (the animal hand)",
+        "Fifty Shades of Grey (the handcuffs)"
+      ]
+    },
+    "physician": {
+      "synonyms": [
+        "doctor",
+        "medic",
+        "practitioner",
+        "healer",
+        "clinician"
+      ],
+      "antonyms": [
+        "patient",
+        "layperson",
+        "injured",
+        "sick",
+        "diseased"
+      ],
+      "word_groups": [
+        "medical examination",
+        "family physician",
+        "physician's assistant",
+        "medical practice",
+        "physician's code"
+      ],
+      "same_vibe": [
+        "medical malpractice",
+        "cartoon doctors",
+        "quirky hospitals",
+        "absurdist comedy",
+        "whacky health guidelines"
+      ],
+      "idioms": [
+        "the doctor is in",
+        "an apple a day",
+        "playing doctor",
+        "physician heal thyself",
+        "bedside manner"
+      ],
+      "related_mundane_terms": [
+        "medical record",
+        "doctor's appointment",
+        "surgery room",
+        "diagnosis",
+        "prescription pad"
+      ],
+      "cultural_references": [
+        "Patch Adams",
+        "House, M.D.",
+        "Grey's Anatomy",
+        "The Good Doctor",
+        "Scrubs"
+      ]
+    },
+    "doctor's office": {
+      "synonyms": [
+        "clinic",
+        "medical office",
+        "healthcare facility",
+        "consulting room",
+        "physician's office"
+      ],
+      "antonyms": [
+        "hospital",
+        "lab",
+        "emergency room",
+        "waiting area",
+        "home"
+      ],
+      "word_groups": [
+        "waiting room",
+        "exam room",
+        "doctor's note",
+        "check-up",
+        "health insurance"
+      ],
+      "same_vibe": [
+        "unusual workplaces",
+        "quirky offices",
+        "satirical settings",
+        "humorous clinics",
+        "cottage industry"
+      ],
+      "idioms": [
+        "in good hands",
+        "waiting for the other shoe to drop",
+        "just what the doctor ordered",
+        "under the weather",
+        "too much on my plate"
+      ],
+      "related_mundane_terms": [
+        "patient files",
+        "waiting list",
+        "scheduling appointment",
+        "insurance claim",
+        "office hours"
+      ],
+      "cultural_references": [
+        "The Doctor's Dilemma",
+        "The Doctor (Doctor Who)",
+        "The Doctor's Wife",
+        "Dr. Jekyll and Mr. Hyde",
+        "Dr. Strangelove"
+      ]
+    },
+    "checking pulse": {
+      "synonyms": [
+        "measuring heartbeat",
+        "feeling pulse",
+        "monitoring vital signs",
+        "check circulation",
+        "assessing heart rate"
+      ],
+      "antonyms": [
+        "i.d. not respond",
+        "absence of heartbeat",
+        "unconscious",
+        "lifeless",
+        "heart failure"
+      ],
+      "word_groups": [
+        "pulse rate",
+        "heart check",
+        "blood flow",
+        "life signs",
+        "medical assessment"
+      ],
+      "same_vibe": [
+        "absurd examinations",
+        "wonderful curiosity",
+        "curious situations",
+        "playful interactions",
+        "light-hearted health checks"
+      ],
+      "idioms": [
+        "keep your finger on the pulse",
+        "a pulse check",
+        "the heart skips a beat",
+        "dead on arrival",
+        "quiet as a heartbeat"
+      ],
+      "related_mundane_terms": [
+        "stethoscope",
+        "vital signs monitor",
+        "heart rate monitor",
+        "clinical observation",
+        "check-up procedures"
+      ],
+      "cultural_references": [
+        "ER (TV series)",
+        "Grey's Anatomy",
+        "House, M.D.",
+        "The Heart is a Lonely Hunter",
+        "The Heartbreak Kid"
+      ]
+    }
+  },
+  {
+    "contest number": 230,
+    "Roman_numerals": {
+      "synonyms": [
+        "numbering system",
+        "ancient numbers",
+        "numerical representation",
+        "classical digits",
+        "historical numerals"
+      ],
+      "antonyms": [
+        "Arabic numerals",
+        "modern numbers",
+        "digital representation",
+        "contemporary figures",
+        "scientific notation"
+      ],
+      "word_groups": [
+        "Roman numeral system",
+        "Roman numeral conversion",
+        "Roman numeral chart",
+        "Roman numeral calculator",
+        "Roman numeral values"
+      ],
+      "same_vibe": [
+        "ancient history",
+        "classical architecture",
+        "scholarly pursuits",
+        "historical artifacts",
+        "cultural heritage"
+      ],
+      "idioms": [
+        "not worth a dime (X)",
+        "out of the loop (III)",
+        "the whole nine yards (IX)",
+        "six of one, half a dozen of another (VI)",
+        "a penny for your thoughts (I)"
+      ],
+      "related_mundane_terms": [
+        "number line",
+        "multiplier effect",
+        "counting method",
+        "measurement system",
+        "number theory"
+      ],
+      "cultural_references": [
+        "Roman Empire",
+        "Julius Caesar",
+        "Colosseum",
+        "Caesar salad",
+        "Asterix and Obelix"
+      ]
+    },
+    "Ancient_Roman_architecture": {
+      "synonyms": [
+        "classical architecture",
+        "Roman design",
+        "historical structures",
+        "architectural heritage",
+        "ancient constructions"
+      ],
+      "antonyms": [
+        "modern architecture",
+        "contemporary design",
+        "futuristic buildings",
+        "current styles",
+        "postmodern structures"
+      ],
+      "word_groups": [
+        "Roman architectural style",
+        "ancient building techniques",
+        "Roman aqueducts",
+        "Roman temples",
+        "Roman forums"
+      ],
+      "same_vibe": [
+        "historical significance",
+        "timelessness",
+        "cultural richness",
+        "elegance in decay",
+        "patina of age"
+      ],
+      "idioms": [
+        "build castles in the air",
+        "architecture of society",
+        "the shape of things to come",
+        "form follows function",
+        "a house of cards"
+      ],
+      "related_mundane_terms": [
+        "column structure",
+        "arch design",
+        "bluprint planning",
+        "edifice construction",
+        "stone masonry"
+      ],
+      "cultural_references": [
+        "Pantheon",
+        "Roman Forum",
+        "Coliseum",
+        "Marcus Aurelius",
+        "Vitruvius"
+      ]
+    },
+    "road": {
+      "synonyms": [
+        "pathway",
+        "route",
+        "street",
+        "thoroughfare",
+        "highway"
+      ],
+      "antonyms": [
+        "junction",
+        "dead end",
+        "cul-de-sac",
+        "blockage",
+        "detour"
+      ],
+      "word_groups": [
+        "road trip",
+        "roadmap",
+        "country road",
+        "road sign",
+        "main road"
+      ],
+      "same_vibe": [
+        "journey",
+        "adventure",
+        "freedom of travel",
+        "open highways",
+        "exploration"
+      ],
+      "idioms": [
+        "the road less traveled",
+        "hit the road",
+        "long and winding road",
+        "roads lead to Rome",
+        "road to nowhere"
+      ],
+      "related_mundane_terms": [
+        "traffic signs",
+        "speed limit",
+        "road work",
+        "shoulder lane",
+        "detour signs"
+      ],
+      "cultural_references": [
+        "Route 66",
+        "Easy Rider",
+        "On the Road by Jack Kerouac",
+        "Mad Max: Fury Road",
+        "Thelma and Louise"
+      ]
+    },
+    "driving": {
+      "synonyms": [
+        "operating a vehicle",
+        "steering",
+        "navigating",
+        "transporting",
+        "traveling"
+      ],
+      "antonyms": [
+        "stopping",
+        "parking",
+        "idling",
+        "resting",
+        "ceasing"
+      ],
+      "word_groups": [
+        "driving lesson",
+        "driving test",
+        "driving license",
+        "driving record",
+        "driving experience"
+      ],
+      "same_vibe": [
+        "freedom",
+        "journeying",
+        "escape",
+        "road trips",
+        "adventure"
+      ],
+      "idioms": [
+        "drive someone up the wall",
+        "take the wheel",
+        "drive on the right side",
+        "hit the gas",
+        "drive safely"
+      ],
+      "related_mundane_terms": [
+        "gas station",
+        "traffic rules",
+        "car maintenance",
+        "dashboard controls",
+        "vehicle registration"
+      ],
+      "cultural_references": [
+        "Fast & Furious films",
+        "The Great Gatsby",
+        "Ferris Bueller's Day Off",
+        "Cars (movie)",
+        "Gone in 60 Seconds"
+      ]
+    }
+  },
+  {
+    "contest number": 355,
+    "Turkey_(bird)": {
+      "synonyms": [
+        "fowl",
+        "poultry",
+        "gobbler",
+        "bird",
+        "hen"
+      ],
+      "antonyms": [
+        "predator",
+        "wolf",
+        "cat",
+        "eagle",
+        "hawk"
+      ],
+      "word_groups": [
+        "turkey dinner",
+        "turkey trot",
+        "turkey shoot",
+        "thanksgiving turkey",
+        "wild turkey"
+      ],
+      "same_vibe": [
+        "bizarre",
+        "comical",
+        "uncanny",
+        "absurd",
+        "playful"
+      ],
+      "idioms": [
+        "a turkey shoot",
+        "in the chicken coop",
+        "nobody's perfect",
+        "dressed to the nines",
+        "last one in's a rotten egg"
+      ],
+      "related_mundane_terms": [
+        "fowl play",
+        "bird watching",
+        "poultry barn",
+        "farmyard",
+        "thanksgiving dinner"
+      ],
+      "cultural_references": [
+        "A Charlie Brown Thanksgiving",
+        "turkey in the straw",
+        "the Thanksgiving song",
+        "Macy's Thanksgiving Day Parade",
+        "the turkey leg at theme parks"
+      ]
+    },
+    "High-heeled_shoe": {
+      "synonyms": [
+        "stiletto",
+        "pump",
+        "heeled shoe",
+        "fashion shoe",
+        "dress shoe"
+      ],
+      "antonyms": [
+        "flats",
+        "sneakers",
+        "boots",
+        "loafers",
+        "slippers"
+      ],
+      "word_groups": [
+        "high heel boots",
+        "high heel fashion",
+        "high heel addiction",
+        "high heel pain",
+        "high heel rack"
+      ],
+      "same_vibe": [
+        "sassy",
+        "elegant",
+        "provocative",
+        "stylish",
+        "bold"
+      ],
+      "idioms": [
+        "put your best foot forward",
+        "step up your game",
+        "walking on air",
+        "heel and toe",
+        "kick up your heels"
+      ],
+      "related_mundane_terms": [
+        "fashion statement",
+        "wardrobe choice",
+        "shoe rack",
+        "footwear style",
+        "dress code"
+      ],
+      "cultural_references": [
+        "Sex and the City",
+        "Cinderella",
+        "the high heel race",
+        "Legally Blonde",
+        "The Devil Wears Prada"
+      ]
+    },
+    "fenced area": {
+      "synonyms": [
+        "enclosed space",
+        "pen",
+        "corral",
+        "compound",
+        "enclosure"
+      ],
+      "antonyms": [
+        "open field",
+        "freedom",
+        "wide space",
+        "outdoors",
+        "vacuum"
+      ],
+      "word_groups": [
+        "fenced garden",
+        "play area",
+        "animal pen",
+        "secure perimeter",
+        "privacy fence"
+      ],
+      "same_vibe": [
+        "contained",
+        "restricted",
+        "safe",
+        "isolated",
+        "defensive"
+      ],
+      "idioms": [
+        "behind closed doors",
+        "stay within the lines",
+        "foot in the door",
+        "a fair game",
+        "a wall of separation"
+      ],
+      "related_mundane_terms": [
+        "backyard",
+        "chicken coop",
+        "wire fence",
+        "garden boundary",
+        "pet enclosure"
+      ],
+      "cultural_references": [
+        "The Great Escape",
+        "The Shawshank Redemption",
+        "Jurassic Park",
+        "Caged Bird",
+        "The Truman Show"
+      ]
+    },
+    "depicted situation": {
+      "synonyms": [
+        "scene",
+        "event",
+        "circumstance",
+        "situation",
+        "occurrence"
+      ],
+      "antonyms": [
+        "inactivity",
+        "stagnation",
+        "quiescence",
+        "stillness",
+        "calm"
+      ],
+      "word_groups": [
+        "social gathering",
+        "comic scene",
+        "unusual encounter",
+        "curious event",
+        "absurd situation"
+      ],
+      "same_vibe": [
+        "unreal",
+        "suspenseful",
+        "humorous",
+        "unexpected",
+        "odd"
+      ],
+      "idioms": [
+        "a picture speaks a thousand words",
+        "once in a blue moon",
+        "the last straw",
+        "the icing on the cake",
+        "out of the ordinary"
+      ],
+      "related_mundane_terms": [
+        "funny incident",
+        "cartoon moment",
+        "humorous vignette",
+        "oddities of life",
+        "quirky character"
+      ],
+      "cultural_references": [
+        "Saturday Night Live skits",
+        "cartoons like Looney Tunes",
+        "Animal Farm",
+        "Pigs in Space",
+        "Duck Dynasty"
+      ]
+    }
+  },
+  {
+    "contest number": 384,
+    "Godzilla": {
+      "synonyms": [
+        "kaiju",
+        "behemoth",
+        "monster",
+        "titan",
+        "creature"
+      ],
+      "antonyms": [
+        "hero",
+        "savior",
+        "angel",
+        "protector",
+        "defender"
+      ],
+      "word_groups": [
+        "Godzilla movie",
+        "Godzilla roar",
+        "Godzilla attack",
+        "Godzilla vs. Kong",
+        "Godzilla franchise"
+      ],
+      "same_vibe": [
+        "mass destruction",
+        "epic battles",
+        "urban chaos",
+        "fantasy creatures",
+        "mythical horrors"
+      ],
+      "idioms": [
+        "a big fish in a small pond",
+        "facing the monster under the bed",
+        "a storm brewing",
+        "making a mountain out of a molehill",
+        "the elephant in the room"
+      ],
+      "related_mundane_terms": [
+        "monster movie",
+        "special effects",
+        "Hollywood blockbuster",
+        "action figure",
+        "pop culture icon"
+      ],
+      "cultural_references": [
+        "Toho films",
+        "King Kong vs. Godzilla",
+        "Godzilla: King of the Monsters",
+        "Godzilla in pop culture",
+        "Godzilla merchandise"
+      ]
+    },
+    "White-collar_worker": {
+      "synonyms": [
+        "office worker",
+        "professional",
+        "employee",
+        "staff member",
+        "corporate worker"
+      ],
+      "antonyms": [
+        "blue-collar worker",
+        "laborer",
+        "manual worker",
+        "craftsman",
+        "tradesperson"
+      ],
+      "word_groups": [
+        "white-collar crime",
+        "white-collar job",
+        "white-collar workforce",
+        "white-collar society",
+        "white-collar profession"
+      ],
+      "same_vibe": [
+        "corporate life",
+        "office politics",
+        "9-to-5 routine",
+        "business meetings",
+        "professional networking"
+      ],
+      "idioms": [
+        "climbing the corporate ladder",
+        "burning the midnight oil",
+        "dot the i's and cross the t's",
+        "think outside the box",
+        "in the driver's seat"
+      ],
+      "related_mundane_terms": [
+        "office supplies",
+        "water cooler talk",
+        "team meeting",
+        "deadline pressure",
+        "business casual"
+      ],
+      "cultural_references": [
+        "The Office",
+        "Mad Men",
+        "Wall Street",
+        "Office Space",
+        "Dilbert comic strip"
+      ]
+    },
+    "meeting room": {
+      "synonyms": [
+        "conference room",
+        "boardroom",
+        "discussion space",
+        "classroom",
+        "assembly area"
+      ],
+      "antonyms": [
+        "lounge",
+        "break room",
+        "waiting area",
+        "outdoor space",
+        "private office"
+      ],
+      "word_groups": [
+        "meeting room decor",
+        "meeting room equipment",
+        "meeting room booking",
+        "meeting room layout",
+        "meeting room agenda"
+      ],
+      "same_vibe": [
+        "business discussions",
+        "formal gatherings",
+        "team collaboration",
+        "decision-making",
+        "brainstorming sessions"
+      ],
+      "idioms": [
+        "the table is set",
+        "on the same page",
+        "crossing bridges",
+        "putting heads together",
+        "getting everyone in the room"
+      ],
+      "related_mundane_terms": [
+        "conference call",
+        "agenda item",
+        "brainstorming session",
+        "minutes of the meeting",
+        "corporate training"
+      ],
+      "cultural_references": [
+        "The Conference Room in The Office",
+        "boardroom scenes in Mad Men",
+        "meeting rooms in hotels",
+        "parliament sessions",
+        "strategy meetings in business novels"
+      ]
+    },
+    "being shocked": {
+      "synonyms": [
+        "surprised",
+        "astonished",
+        "astounded",
+        "dismayed",
+        "startled"
+      ],
+      "antonyms": [
+        "unmoved",
+        "indifferent",
+        "calm",
+        "unperturbed",
+        "composed"
+      ],
+      "word_groups": [
+        "shocked reaction",
+        "shocked silence",
+        "shocked expression",
+        "shocked response",
+        "shocked audience"
+      ],
+      "same_vibe": [
+        "unexpected twists",
+        "sudden revelations",
+        "dramatic moments",
+        "emotional turmoil",
+        "shock value"
+      ],
+      "idioms": [
+        "caught off guard",
+        "thrown for a loop",
+        "out of left field",
+        "hit like a ton of bricks",
+        "taken aback"
+      ],
+      "related_mundane_terms": [
+        "office gossip",
+        "unexpected news",
+        "breaking news",
+        "shocking announcement",
+        "startling fact"
+      ],
+      "cultural_references": [
+        "Shocker film genre",
+        "Surprise twist in a movie",
+        "The Twilight Zone",
+        "Plot twists in horror stories",
+        "Shocking moments in reality TV"
+      ]
+    }
+  },
+  {
+    "contest number": 276,
+    "dining": {
+      "synonyms": [
+        "eating",
+        "feasting",
+        "banqueting",
+        "supper",
+        "mealtime"
+      ],
+      "antonyms": [
+        "fasting",
+        "skipping",
+        "avoiding",
+        "disregarding",
+        "ignoring"
+      ],
+      "word_groups": [
+        "dining experience",
+        "dining etiquette",
+        "dining table",
+        "fine dining",
+        "dining companion"
+      ],
+      "same_vibe": [
+        "romantic dinner",
+        "candlelit dinner",
+        "elegant soir\u00e9e",
+        "gourmet meal",
+        "dinner date"
+      ],
+      "idioms": [
+        "breaking bread",
+        "having a bite",
+        "on the menu",
+        "dinner is served",
+        "dish it out"
+      ],
+      "related_mundane_terms": [
+        "chef's special",
+        "menu selection",
+        "table setting",
+        "meal course",
+        "restaurant reservation"
+      ],
+      "cultural_references": [
+        "Beauty and the Beast (dinner scene)",
+        "The Godfather (Italian dinner)",
+        "Ratatouille (fine dining)",
+        "Eat Pray Love (dining in Italy)",
+        "Dinner for Schmucks (comedic dinner)"
+      ]
+    },
+    "man": {
+      "synonyms": [
+        "male",
+        "gentleman",
+        "guy",
+        "fellow",
+        "dude"
+      ],
+      "antonyms": [
+        "woman",
+        "female",
+        "girl",
+        "lady",
+        "girl"
+      ],
+      "word_groups": [
+        "man of the hour",
+        "man of his word",
+        "family man",
+        "man cave",
+        "man power"
+      ],
+      "same_vibe": [
+        "classic gentleman",
+        "dapper dude",
+        "romantic lead",
+        "stoic figure",
+        "vulnerable hero"
+      ],
+      "idioms": [
+        "man about town",
+        "a man's world",
+        "the man upstairs",
+        "man of many talents",
+        "man for all seasons"
+      ],
+      "related_mundane_terms": [
+        "male attire",
+        "men's grooming",
+        "male bonding",
+        "men's night",
+        "male perspectives"
+      ],
+      "cultural_references": [
+        "Don Draper (Mad Men)",
+        "James Bond (007)",
+        "The Notebook (Ryan Gosling)",
+        "Hercules (myth)",
+        "Field of Dreams (Kevin Costner)"
+      ]
+    },
+    "woman": {
+      "synonyms": [
+        "female",
+        "lady",
+        "girl",
+        "madam",
+        "goddess"
+      ],
+      "antonyms": [
+        "man",
+        "male",
+        "boy",
+        "gentleman",
+        "dude"
+      ],
+      "word_groups": [
+        "woman of influence",
+        "woman's intuition",
+        "leading lady",
+        "women's rights",
+        "woman power"
+      ],
+      "same_vibe": [
+        "feminine charm",
+        "strong character",
+        "romantic heroine",
+        "sophisticated spirit",
+        "confident figure"
+      ],
+      "idioms": [
+        "woman of the hour",
+        "behind every great man",
+        "a woman's touch",
+        "make a woman swoon",
+        "like a woman scorned"
+      ],
+      "related_mundane_terms": [
+        "female empowerment",
+        "women's health",
+        "female perspective",
+        "women's fashion",
+        "ladies night"
+      ],
+      "cultural_references": [
+        "Wonder Woman (DC Comics)",
+        "Meg Ryan (romantic comedies)",
+        "Cinderella (fairy tale)",
+        "Matilda (Roald Dahl)",
+        "Pride and Prejudice (Jane Austen)"
+      ]
+    },
+    "physical_restraint": {
+      "synonyms": [
+        "bindings",
+        "constraint",
+        "captivity",
+        "detention",
+        "trapping"
+      ],
+      "antonyms": [
+        "freedom",
+        "liberation",
+        "release",
+        "emancipation",
+        "independence"
+      ],
+      "word_groups": [
+        "physical control",
+        "restraint system",
+        "self-restraint",
+        "emotional restraint",
+        "restraint measures"
+      ],
+      "same_vibe": [
+        "confinement",
+        "power dynamics",
+        "tension",
+        "control",
+        "vulnerability"
+      ],
+      "idioms": [
+        "binding ties",
+        "tied up in knots",
+        "can't escape",
+        "held captive",
+        "under lock and key"
+      ],
+      "related_mundane_terms": [
+        "security measures",
+        "captive audience",
+        "handcuffs",
+        "restraint device",
+        "tight situation"
+      ],
+      "cultural_references": [
+        "The Silence of the Lambs (buffalo bill)",
+        "Saw (traps)",
+        "Escape Room (challenge)",
+        "Fifty Shades of Grey (BDSM)",
+        "The Great Escape (prisoners)"
+      ]
+    },
+    "restaurant": {
+      "synonyms": [
+        "diner",
+        "eatery",
+        "bistro",
+        "caf\u00e9",
+        "establishment"
+      ],
+      "antonyms": [
+        "home",
+        "fast food",
+        "takeout",
+        "street food",
+        "cafeteria"
+      ],
+      "word_groups": [
+        "fine dining",
+        "family restaurant",
+        "restaurant review",
+        "dining experience",
+        "restaurant menu"
+      ],
+      "same_vibe": [
+        "gourmet experience",
+        "casual dining",
+        "culinary adventure",
+        "social gathering",
+        "celebratory feast"
+      ],
+      "idioms": [
+        "hit the town",
+        "dine in style",
+        "the chef's special",
+        "out for a meal",
+        "living it up"
+      ],
+      "related_mundane_terms": [
+        "table reservation",
+        "occurring moments",
+        "wait staff",
+        "meal prep",
+        "order up"
+      ],
+      "cultural_references": [
+        "Cheers (TV show)",
+        "Friends (Central Perk)",
+        "Ratatouille (animated film)",
+        "The Hundred-Foot Journey (cross-cultural dining)",
+        "Julie & Julia (home cooking vs. fine dining)"
+      ]
+    }
+  },
+  {
+    "contest number": 418,
+    "monster": {
+      "synonyms": [
+        "beast",
+        "creature",
+        "fiend",
+        "goblin",
+        "ogre"
+      ],
+      "antonyms": [
+        "angel",
+        "hero",
+        "gentleman",
+        "friend",
+        "protector"
+      ],
+      "word_groups": [
+        "monster truck",
+        "monster mash",
+        "monster movie",
+        "monster under the bed",
+        "monster energy"
+      ],
+      "same_vibe": [
+        "halloween spirit",
+        "nightmare fuel",
+        "spooky tales",
+        "creepy crawlers",
+        "fantasy fright"
+      ],
+      "idioms": [
+        "the monster under the bed",
+        "facing your demons",
+        "the stuff of nightmares",
+        "running with the wolves",
+        "barking up the wrong tree"
+      ],
+      "related_mundane_terms": [
+        "monster costume",
+        "monster book",
+        "monster high",
+        "monster drink",
+        "monster show"
+      ],
+      "cultural_references": [
+        "Monsters, Inc.",
+        "Godzilla",
+        "Frankenstein",
+        "Where the Wild Things Are",
+        "Cloverfield"
+      ]
+    },
+    "couch": {
+      "synonyms": [
+        "sofa",
+        "settee",
+        "divan",
+        "lounge",
+        "futon"
+      ],
+      "antonyms": [
+        "chair",
+        "stool",
+        "bench",
+        "table",
+        "floor"
+      ],
+      "word_groups": [
+        "couch potato",
+        "sectional couch",
+        "couch surfing",
+        "love seat",
+        "reclining couch"
+      ],
+      "same_vibe": [
+        "living room",
+        "home comfort",
+        "relaxation zone",
+        "hangout spot",
+        "chill area"
+      ],
+      "idioms": [
+        "couch surfing",
+        "sitting on the fence",
+        "putting your feet up",
+        "taking a load off",
+        "off the couch"
+      ],
+      "related_mundane_terms": [
+        "couch cushions",
+        "couch cover",
+        "couch throw",
+        "couch fort",
+        "couch talk"
+      ],
+      "cultural_references": [
+        "Friends (the Central Perk couch)",
+        "The Simpsons (living room)",
+        "House of Cards (the couch scene)",
+        "The Big Bang Theory (the couch)",
+        "How I Met Your Mother (the couch at MacLaren's)"
+      ]
+    },
+    "living room": {
+      "synonyms": [
+        "sitting room",
+        "den",
+        "parlor",
+        "family room",
+        "lounge"
+      ],
+      "antonyms": [
+        "bedroom",
+        "kitchen",
+        "bathroom",
+        "garage",
+        "closet"
+      ],
+      "word_groups": [
+        "living room furniture",
+        "living room decor",
+        "living room layout",
+        "living room set",
+        "living room design"
+      ],
+      "same_vibe": [
+        "home sweet home",
+        "family gathering",
+        "cozy nook",
+        "social space",
+        "entertainment area"
+      ],
+      "idioms": [
+        "make yourself at home",
+        "the heart of the home",
+        "a warm welcome",
+        "live and let live",
+        "home is where the heart is"
+      ],
+      "related_mundane_terms": [
+        "living room carpet",
+        "living room lighting",
+        "living room television",
+        "living room artwork",
+        "living room plants"
+      ],
+      "cultural_references": [
+        "The Brady Bunch (the living room)",
+        "Friends (the apartment)",
+        "That '70s Show (the basement)",
+        "The Fresh Prince of Bel-Air (the living room)",
+        "The Office (the break room)"
+      ]
+    },
+    "sitting on a couch": {
+      "synonyms": [
+        "resting on a sofa",
+        "lounging on a couch",
+        "relaxing on a settee",
+        "perched on a divan",
+        "reclining on a sofa"
+      ],
+      "antonyms": [
+        "standing",
+        "walking",
+        "sitting on the floor",
+        "running",
+        "jumping"
+      ],
+      "word_groups": [
+        "sitting posture",
+        "sitting arrangement",
+        "sitting together",
+        "sitting comfortably",
+        "sitting for a long time"
+      ],
+      "same_vibe": [
+        "chill session",
+        "movie night",
+        "cozy evening",
+        "laid-back atmosphere",
+        "home gathering"
+      ],
+      "idioms": [
+        "putting your feet up",
+        "kicking back",
+        "taking a breather",
+        "on the couch for a bit",
+        "sitting pretty"
+      ],
+      "related_mundane_terms": [
+        "watching TV",
+        "snacking",
+        "chatting with friends",
+        "scrolling social media",
+        "reading a book"
+      ],
+      "cultural_references": [
+        "Netflix binge",
+        "couch time with family",
+        "TV marathon",
+        "game night",
+        "Sunday football on the couch"
+      ]
+    }
+  },
+  {
+    "contest number": 582,
+    "tandem_bicycle": {
+      "synonyms": [
+        "double bike",
+        "two-seater bicycle",
+        "paired bicycle",
+        "duo bike",
+        "shared cycle"
+      ],
+      "antonyms": [
+        "single bike",
+        "unicycle",
+        "solo bicycle",
+        "independent bike",
+        "individual cycle"
+      ],
+      "word_groups": [
+        "tandem ride",
+        "tandem cycling",
+        "tandem team",
+        "tandem seating",
+        "tandem adventure"
+      ],
+      "same_vibe": [
+        "elongated vehicle",
+        "collaborative effort",
+        "dual experience",
+        "joint activity",
+        "synchronized movement"
+      ],
+      "idioms": [
+        "in tandem",
+        "two heads are better than one",
+        "sharing the load",
+        "working in sync",
+        "going double time"
+      ],
+      "related_mundane_terms": [
+        "bike lane",
+        "group ride",
+        "bicycle trail",
+        "cycling gear",
+        "road trip"
+      ],
+      "cultural_references": [
+        "The Tour de France",
+        "Breaking Away (film)",
+        "Easy Rider (film)",
+        "Pedal Power (movement)",
+        "Bike Messenger (urban culture)"
+      ]
+    },
+    "road": {
+      "synonyms": [
+        "street",
+        "route",
+        "way",
+        "highway",
+        "path"
+      ],
+      "antonyms": [
+        "off-road",
+        "cross-country",
+        "trail",
+        "sidewalk",
+        "pathless"
+      ],
+      "word_groups": [
+        "main road",
+        "country road",
+        "road trip",
+        "road safety",
+        "road signs"
+      ],
+      "same_vibe": [
+        "open highway",
+        "travel journey",
+        "commute route",
+        "urban pathway",
+        "winding lane"
+      ],
+      "idioms": [
+        "hit the road",
+        "the long and winding road",
+        "paved with gold",
+        "on the right track",
+        "smooth sailing"
+      ],
+      "related_mundane_terms": [
+        "traffic light",
+        "speed limit",
+        "road sign",
+        "road construction",
+        "detour"
+      ],
+      "cultural_references": [
+        "Route 66",
+        "The Great American Road Trip",
+        "Cars (film)",
+        "On the Road (novel)",
+        "Fast & Furious (franchise)"
+      ]
+    },
+    "using cell phones": {
+      "synonyms": [
+        "talking",
+        "communicating",
+        "messaging",
+        "texting",
+        "chatting"
+      ],
+      "antonyms": [
+        "ignoring",
+        "silence",
+        "disconnection",
+        "disengagement",
+        "absence"
+      ],
+      "word_groups": [
+        "cell phone call",
+        "text message",
+        "phone conversation",
+        "mobile app",
+        "video chat"
+      ],
+      "same_vibe": [
+        "digital communication",
+        "connected lifestyle",
+        "modern interaction",
+        "virtual socializing",
+        "remote chatting"
+      ],
+      "idioms": [
+        "on the line",
+        "ringing off the hook",
+        "talk is cheap",
+        "stay connected",
+        "putting out feelers"
+      ],
+      "related_mundane_terms": [
+        "signal tower",
+        "smartphone",
+        "texting while driving",
+        "mobile plan",
+        "cell service"
+      ],
+      "cultural_references": [
+        "Texting and Driving awareness",
+        "The Social Network (film)",
+        "Mobile Phone Revolution",
+        "Black Mirror (series)",
+        "Smartphone Addiction"
+      ]
+    }
+  },
+  {
+    "contest number": 240,
+    "man": {
+      "synonyms": [
+        "guy",
+        "male",
+        "individual",
+        "fellow",
+        "person"
+      ],
+      "antonyms": [
+        "woman",
+        "girl",
+        "female",
+        "child",
+        "infant"
+      ],
+      "word_groups": [
+        "man cave",
+        "manpower",
+        "man of the hour",
+        "man in charge",
+        "man on a mission"
+      ],
+      "same_vibe": [
+        "everyday hero",
+        "casual observer",
+        "dedicated worker",
+        "neighborhood dude",
+        "outdoor enthusiast"
+      ],
+      "idioms": [
+        "man of few words",
+        "man on the street",
+        "man after my own heart",
+        "man up",
+        "man down"
+      ],
+      "related_mundane_terms": [
+        "average joe",
+        "working man",
+        "family man",
+        "gentleman caller",
+        "local handyman"
+      ],
+      "cultural_references": [
+        "John Doe",
+        "Superman",
+        "the Everyman",
+        "gentleman thief",
+        "Peter Pan"
+      ]
+    },
+    "hedges": {
+      "synonyms": [
+        "bushes",
+        "shrubs",
+        "fences",
+        "borders",
+        "dividers"
+      ],
+      "antonyms": [
+        "open space",
+        "vacuum",
+        "clear field",
+        "bare land",
+        "emptiness"
+      ],
+      "word_groups": [
+        "hedge trimming",
+        "hedge maze",
+        "hedge fund",
+        "hedge row",
+        "hedge clipping"
+      ],
+      "same_vibe": [
+        "garden lushness",
+        "landscaped beauty",
+        "outdoor greenery",
+        "nature's frame",
+        "yard charm"
+      ],
+      "idioms": [
+        "hedge your bets",
+        "beyond the pale",
+        "hedge your bets",
+        "keep one\u2019s options open",
+        "make no bones about it"
+      ],
+      "related_mundane_terms": [
+        "garden care",
+        "landscaping project",
+        "yard work",
+        "outdoor design",
+        "bush maintenance"
+      ],
+      "cultural_references": [
+        "Alice in Wonderland (hedge maze)",
+        "The Secret Garden",
+        "Edward Scissorhands",
+        "Groundskeeper Willie (The Simpsons)",
+        "Little Red Riding Hood"
+      ]
+    },
+    "garden_sculpture": {
+      "synonyms": [
+        "yard art",
+        "landscape sculpture",
+        "garden ornament",
+        "outdoor sculpture",
+        "decorative piece"
+      ],
+      "antonyms": [
+        "plain ground",
+        "barren land",
+        "non-decorative item",
+        "ordinary object",
+        "minimalist design"
+      ],
+      "word_groups": [
+        "sighting sculpture",
+        "abstract garden art",
+        "topiary art",
+        "decorative landscape",
+        " sculptural garden design"
+      ],
+      "same_vibe": [
+        "artistic expression",
+        "creative landscaping",
+        "outdoor installation",
+        "unique decoration",
+        "nature's art"
+      ],
+      "idioms": [
+        "a sight for sore eyes",
+        "art imitates life",
+        "living sculpture",
+        "art in nature",
+        "beauty is in the eye of the beholder"
+      ],
+      "related_mundane_terms": [
+        "art installation",
+        "yard display",
+        "garden feature",
+        "sculptural design",
+        "pathway decoration"
+      ],
+      "cultural_references": [
+        "The Thinker (Rodin)",
+        "David (Michelangelo)",
+        "American Gothic",
+        "Garden of Forking Paths",
+        "Christ the Redeemer"
+      ]
+    },
+    "landscaping": {
+      "synonyms": [
+        "gardening",
+        "yard work",
+        "land design",
+        "land management",
+        "outdoor planning"
+      ],
+      "antonyms": [
+        "destruction",
+        "dilapidation",
+        "neglect",
+        "barren",
+        "disorder"
+      ],
+      "word_groups": [
+        "landscaping design",
+        "landscaping project",
+        "landscaping service",
+        "landscaping company",
+        "landscaping plan"
+      ],
+      "same_vibe": [
+        "outdoor aesthetics",
+        "nature\u2019s layout",
+        "green space development",
+        "garden planning",
+        "environmental beautification"
+      ],
+      "idioms": [
+        "putting down roots",
+        "cultivating beauty",
+        "growing pains",
+        "nurturing nature",
+        "branching out"
+      ],
+      "related_mundane_terms": [
+        "yard upgrade",
+        "garden improvement",
+        "landscape architecture",
+        "outdoor renovation",
+        "green thumb"
+      ],
+      "cultural_references": [
+        "The Secret Garden",
+        "Home and Garden (magazine)",
+        "Better Homes and Gardens",
+        "Groundskeeping (The Simpsons)",
+        "The Great British Bake Off (landscaping challenges)"
+      ]
+    },
+    "home": {
+      "synonyms": [
+        "house",
+        "dwelling",
+        "residence",
+        "abode",
+        "place"
+      ],
+      "antonyms": [
+        "workplace",
+        "public area",
+        "vacation",
+        "away",
+        "outside"
+      ],
+      "word_groups": [
+        "home sweet home",
+        "home base",
+        "home improvement",
+        "home decor",
+        "home life"
+      ],
+      "same_vibe": [
+        "sanctuary",
+        "comfort zone",
+        "safe haven",
+        "lovely retreat",
+        "personal space"
+      ],
+      "idioms": [
+        "make yourself at home",
+        "home is where the heart is",
+        "there\u2019s no place like home",
+        "bring it home",
+        "hitting home"
+      ],
+      "related_mundane_terms": [
+        "living room",
+        "kitchen space",
+        "family room",
+        "backyard",
+        "entryway"
+      ],
+      "cultural_references": [
+        "Home Alone",
+        "The Simpsons' house",
+        "The Addams Family home",
+        "House Hunters",
+        "Friends (Central Perk)"
+      ]
+    },
+    "woman": {
+      "synonyms": [
+        "lady",
+        "female",
+        "girl",
+        "womanhood",
+        "gal"
+      ],
+      "antonyms": [
+        "man",
+        "boy",
+        "male",
+        "gentleman",
+        "fellow"
+      ],
+      "word_groups": [
+        "woman power",
+        "woman of the hour",
+        "woman in charge",
+        "women\u2019s rights",
+        "women\u2019s league"
+      ],
+      "same_vibe": [
+        "everyday queen",
+        "observant guardian",
+        "connected member",
+        "friendly neighbor",
+        "supportive figure"
+      ],
+      "idioms": [
+        "behind every great man",
+        "a woman\u2019s touch",
+        "saving grace",
+        "girl power",
+        "woman on a mission"
+      ],
+      "related_mundane_terms": [
+        "average woman",
+        "working mom",
+        "neighborhood lady",
+        "housewife",
+        "local citizen"
+      ],
+      "cultural_references": [
+        "Wonder Woman",
+        "Diana Prince",
+        "Frida Kahlo",
+        "The Handmaid\u2019s Tale",
+        "The Little Mermaid (Ariel)"
+      ]
+    },
+    "cutting hedges": {
+      "synonyms": [
+        "trimming",
+        "clipping",
+        "pruning",
+        "shaping",
+        "snipping"
+      ],
+      "antonyms": [
+        "growing",
+        "neglecting",
+        "allowing",
+        "extending",
+        "leaving"
+      ],
+      "word_groups": [
+        "hedge maintenance",
+        "garden upkeep",
+        "plant care",
+        "lawn service",
+        "yard grooming"
+      ],
+      "same_vibe": [
+        "gardening duty",
+        "outdoor task",
+        "green thumb work",
+        "nature care",
+        "landscaping chore"
+      ],
+      "idioms": [
+        "cutting to the chase",
+        "cutting corners",
+        "cutting a rug",
+        "cutting loose",
+        "cut from the same cloth"
+      ],
+      "related_mundane_terms": [
+        "yard work",
+        "pruning trees",
+        "lawn care",
+        "garden maintenance",
+        "plant shaping"
+      ],
+      "cultural_references": [
+        "Edward Scissorhands (trimming)",
+        "The Secret Garden (gardening)",
+        "Groundskeeping (The Simpsons)",
+        "The Joy of Gardening (TV Show)",
+        "The Garden of Eden"
+      ]
+    }
+  },
+  {
+    "contest number": 739,
+    "Dog_fashion": {
+      "synonyms": [
+        "canine attire",
+        "dog wear",
+        "fashionable pooch",
+        "pet clothing",
+        "dog ensemble"
+      ],
+      "antonyms": [
+        "naked dog",
+        "unfashionable pet",
+        "plain canine",
+        "dog without clothes",
+        "simple attire"
+      ],
+      "word_groups": [
+        "dog show",
+        "pet fashion",
+        "fancy dress",
+        "animal costume",
+        "pup attire"
+      ],
+      "same_vibe": [
+        "quirky style",
+        "playful spirit",
+        "whimsical garb",
+        "unconventional fashion",
+        "lighthearted vibe"
+      ],
+      "idioms": [
+        "dressed to the nines",
+        "put on the dog",
+        "dog's life",
+        "barking up the wrong tree",
+        "let sleeping dogs lie"
+      ],
+      "related_mundane_terms": [
+        "pet supplies",
+        "dog park",
+        "training day",
+        "grooming session",
+        "walk time"
+      ],
+      "cultural_references": [
+        "The Secret Life of Pets",
+        "Dog Day Afternoon",
+        "Beethoven (movie)",
+        "Scooby-Doo",
+        "The Dogfather"
+      ]
+    },
+    "Parenting": {
+      "synonyms": [
+        "child-rearing",
+        "raising kids",
+        "mothering",
+        "fathering",
+        "guardian duties"
+      ],
+      "antonyms": [
+        "neglect",
+        "abandonment",
+        "childlessness",
+        "indifference",
+        "irresponsibility"
+      ],
+      "word_groups": [
+        "parenting style",
+        "single parenting",
+        "helicopter parenting",
+        "parent-teacher meeting",
+        "stay-at-home dad"
+      ],
+      "same_vibe": [
+        "nurturing love",
+        "family bond",
+        "responsible guidance",
+        "caretaker role",
+        "emotional support"
+      ],
+      "idioms": [
+        "it takes a village",
+        "the apple of my eye",
+        "like father, like son",
+        "spare the rod, spoil the child",
+        "don't count your chickens before they hatch"
+      ],
+      "related_mundane_terms": [
+        "bedtime stories",
+        "school drop-off",
+        "playdates",
+        "family outings",
+        "discipline techniques"
+      ],
+      "cultural_references": [
+        "The Parent Trap",
+        "Modern Family",
+        "Daddy Day Care",
+        "Mary Poppins",
+        "What to Expect When You're Expecting"
+      ]
+    },
+    "action": {
+      "synonyms": [
+        "holding hands",
+        "grasping",
+        "clutching",
+        "interlocking",
+        "linking"
+      ],
+      "antonyms": [
+        "releasing",
+        "letting go",
+        "withdrawing",
+        "disconnecting",
+        "untangling"
+      ],
+      "word_groups": [
+        "hand in hand",
+        "hold my hand",
+        "give a hand",
+        "hold on tight",
+        "take my hand"
+      ],
+      "same_vibe": [
+        "togetherness",
+        "unity",
+        "affection",
+        "bonding moment",
+        "comfort"
+      ],
+      "idioms": [
+        "hand in glove",
+        "two peas in a pod",
+        "sticking together",
+        "joined at the hip",
+        "holding the fort"
+      ],
+      "related_mundane_terms": [
+        "family walk",
+        "supportive gesture",
+        "friendly touch",
+        "sibling rivalry",
+        "parental guidance"
+      ],
+      "cultural_references": [
+        "The Lion King (Circle of Life)",
+        "Frozen (Sisters)",
+        "The Little Prince",
+        "Peter Pan (Neverland)",
+        "Finding Nemo (Father-Son Bond)"
+      ]
+    },
+    "location": {
+      "synonyms": [
+        "outdoors",
+        "open air",
+        "exterior",
+        "public space",
+        "natural setting"
+      ],
+      "antonyms": [
+        "indoors",
+        "enclosed space",
+        "building",
+        "interior",
+        "room"
+      ],
+      "word_groups": [
+        "outdoor adventure",
+        "picnic area",
+        "playground setting",
+        "garden space",
+        "street scene"
+      ],
+      "same_vibe": [
+        "fresh air",
+        "nature's embrace",
+        "freedom",
+        "spontaneity",
+        "wild exploration"
+      ],
+      "idioms": [
+        "take a breath of fresh air",
+        "outside the box",
+        "in the open air",
+        "under the sky",
+        "out and about"
+      ],
+      "related_mundane_terms": [
+        "public park",
+        "sidewalk stroll",
+        "backyard gathering",
+        "camping trip",
+        "nature walk"
+      ],
+      "cultural_references": [
+        "The Great Outdoors (movie)",
+        "Into the Wild",
+        "A Walk in the Woods",
+        "The Secret Garden",
+        "The Sound of Music"
+      ]
+    }
+  },
+  {
+    "contest number": 518,
+    "man": {
+      "synonyms": [
+        "individual",
+        "guy",
+        "person",
+        "fellow",
+        "human"
+      ],
+      "antonyms": [
+        "woman",
+        "child",
+        "enemy",
+        "rival",
+        "stranger"
+      ],
+      "word_groups": [
+        "man of the hour",
+        "man power",
+        "man cave",
+        "man-made",
+        "man about town"
+      ],
+      "same_vibe": [
+        "lost traveler",
+        "desperate explorer",
+        "chasing dreams",
+        "under pressure",
+        "stumbling hero"
+      ],
+      "idioms": [
+        "man up",
+        "what a man wants",
+        "the man in charge",
+        "man on a mission",
+        "one man army"
+      ],
+      "related_mundane_terms": [
+        "adult supervision",
+        "man hours",
+        "hands-on approach",
+        "man power",
+        "workforce"
+      ],
+      "cultural_references": [
+        "The Man Who Knew Too Much",
+        "The Absence of the Man",
+        "Man vs. Wild",
+        "A Man Called Ove",
+        "The Man in the Iron Mask"
+      ]
+    },
+    "sandpit": {
+      "synonyms": [
+        "sandbox",
+        "play area",
+        "sand box",
+        "sand area",
+        "playground"
+      ],
+      "antonyms": [
+        "solid ground",
+        "concrete",
+        "water",
+        "tile",
+        "asphalt"
+      ],
+      "word_groups": [
+        "sandcastle building",
+        "sandbox playtime",
+        "sandbox toys",
+        "sandbox adventures",
+        "sandbox fun"
+      ],
+      "same_vibe": [
+        "childhood innocence",
+        "imagination unleashed",
+        "summer joy",
+        "playful exploration",
+        "carefree laughter"
+      ],
+      "idioms": [
+        "playing in the sand",
+        "not my sandbox",
+        "sand between the toes",
+        "digging in the sand",
+        "sand in the gears"
+      ],
+      "related_mundane_terms": [
+        "outdoor play",
+        "children's zone",
+        "messy fun",
+        "play equipment",
+        "sandbox rules"
+      ],
+      "cultural_references": [
+        "Sandlot",
+        "Sandy Cheeks (SpongeBob SquarePants)",
+        "sandcastle competition",
+        "The Sandman (comic)",
+        "The Sandman (movie)"
+      ]
+    },
+    "desert": {
+      "synonyms": [
+        "wasteland",
+        "barren land",
+        "dry land",
+        "arid region",
+        "drought area"
+      ],
+      "antonyms": [
+        "oasis",
+        "forest",
+        "rainforest",
+        "wetland",
+        "fertile ground"
+      ],
+      "word_groups": [
+        "desert landscape",
+        "desert heat",
+        "desert safari",
+        "desert plants",
+        "desertification effects"
+      ],
+      "same_vibe": [
+        "solitary journey",
+        "survival struggles",
+        "harsh conditions",
+        "endless horizon",
+        "desolation"
+      ],
+      "idioms": [
+        "like a desert out there",
+        "walking in the desert",
+        "left high and dry",
+        "in the desert of despair",
+        "dry as a bone"
+      ],
+      "related_mundane_terms": [
+        "dune walking",
+        "sandstorm warnings",
+        "desert exploration",
+        "heat exhaustion",
+        "survival mode"
+      ],
+      "cultural_references": [
+        "Lawrence of Arabia",
+        "The Alchemist",
+        "Dune",
+        "Mad Max: Fury Road",
+        "The English Patient"
+      ]
+    },
+    "crawling": {
+      "synonyms": [
+        "crawling",
+        "scrabbling",
+        "scooting",
+        "slithering",
+        "slinking"
+      ],
+      "antonyms": [
+        "running",
+        "walking",
+        "leaping",
+        "jumping",
+        "standing"
+      ],
+      "word_groups": [
+        "crawling pace",
+        "crawling nightmare",
+        "crawling with excitement",
+        "crawling sensation",
+        "crawling baby"
+      ],
+      "same_vibe": [
+        "struggling forward",
+        "slow progress",
+        "determined effort",
+        "overcoming obstacles",
+        "tenacious moves"
+      ],
+      "idioms": [
+        "crawling through life",
+        "crawling out of the woodwork",
+        "crawl before you walk",
+        "crawled under the rock",
+        "a crawling pace"
+      ],
+      "related_mundane_terms": [
+        "getting on hands and knees",
+        "low to the ground",
+        "military crawl",
+        "crawling infant",
+        "tummy time"
+      ],
+      "cultural_references": [
+        "The Crawling Eye",
+        "Crawlspace (movie)",
+        "Crawling King Snake (song)",
+        "Crawling (Linkin Park)",
+        "Crawling Chaos (Lovecraft)"
+      ]
+    },
+    "rooftop": {
+      "synonyms": [
+        "top floor",
+        "building summit",
+        "roof",
+        "upper level",
+        "skyline"
+      ],
+      "antonyms": [
+        "ground floor",
+        "basement",
+        "entrance",
+        "lower level",
+        "foundation"
+      ],
+      "word_groups": [
+        "rooftop garden",
+        "rooftop party",
+        "rooftop view",
+        "rooftop terrace",
+        "rooftop escape"
+      ],
+      "same_vibe": [
+        "urban adventure",
+        "city life",
+        "sky-high perspective",
+        "sandwich between worlds",
+        "elevated solitude"
+      ],
+      "idioms": [
+        "on the rooftop of the world",
+        "held up by the rooftops",
+        "living on the roof",
+        "keeping it under the roof",
+        "rooftop views and blues"
+      ],
+      "related_mundane_terms": [
+        "building height",
+        "city skyline",
+        "urban living",
+        "top-level access",
+        "high-rise apartments"
+      ],
+      "cultural_references": [
+        "Rooftop Rhythms",
+        "Rooftop Cinema Club",
+        "Rooftop Garden (toxic plant)",
+        "Romeo and Juliet (balcony)",
+        "The Rooftop (movie)"
+      ]
+    }
+  },
+  {
+    "contest number": 143,
+    "sex_doll": {
+      "synonyms": [
+        "blow-up doll",
+        "inflatable figure",
+        "adult toy",
+        "novelty doll",
+        "sex toy"
+      ],
+      "antonyms": [
+        "real person",
+        "living being",
+        "humanoid",
+        "genuine",
+        "authentic"
+      ],
+      "word_groups": [
+        "doll collector",
+        "party prop",
+        "inflatable friend",
+        "bachelor party",
+        "novelty gift"
+      ],
+      "same_vibe": [
+        "absurdity",
+        "humor",
+        "awkwardness",
+        "surrealism",
+        "irony"
+      ],
+      "idioms": [
+        "having a play date",
+        "in over one's head",
+        "fooling around",
+        "light-hearted jest",
+        "more than meets the eye"
+      ],
+      "related_mundane_terms": [
+        "toy store",
+        "adult section",
+        "party supplies",
+        "gag gift",
+        "novelty shop"
+      ],
+      "cultural_references": [
+        "Friends (Joey's doll)",
+        "A Christmas Story (leg lamp)",
+        "Austin Powers",
+        "Ted (the talking bear)",
+        "Team America: World Police"
       ]
     },
     "businessperson": {
@@ -408,131 +3882,1601 @@
         "executive",
         "entrepreneur",
         "professional",
-        "manager",
-        "corporate leader"
+        "office worker",
+        "corporate worker"
       ],
       "antonyms": [
-        "employee",
-        "worker",
-        "intern",
-        "junior",
-        "subordinate"
+        "unemployed",
+        "student",
+        "informal worker",
+        "hustler",
+        "freeloader"
       ],
       "word_groups": [
-        "business meeting",
         "business attire",
-        "business strategy",
-        "business card",
-        "business proposal"
+        "office politics",
+        "corporate ladder",
+        "network meeting",
+        "career advancement"
       ],
       "same_vibe": [
-        "corporate culture",
-        "office politics",
-        "power dynamics",
-        "boardroom decisions",
-        "networking events"
+        "diligence",
+        "seriousness",
+        "professionalism",
+        "stress",
+        "ambition"
       ],
       "idioms": [
         "climbing the corporate ladder",
-        "think outside the box",
-        "cut to the chase",
-        "get down to business",
-        "bring home the bacon"
+        "playing the field",
+        "cutting corners",
+        "burning the midnight oil",
+        "business as usual"
+      ],
+      "related_mundane_terms": [
+        "office meeting",
+        "coffee break",
+        "networking event",
+        "business trip",
+        "corporate seminar"
       ],
       "cultural_references": [
-        "Wall Street",
         "The Office",
         "Mad Men",
-        "The Wolf of Wall Street",
-        "Silicon Valley"
+        "Wall Street (Gordon Gekko)",
+        "Silicon Valley",
+        "The Intern"
       ]
     },
-    "corporate office": {
+    "walking down a hall": {
       "synonyms": [
-        "office space",
-        "workspace",
-        "business hub",
+        "strolling",
+        "marching",
+        "striding",
+        "traversing",
+        "navigating"
+      ],
+      "antonyms": [
+        "standing still",
+        "sitting",
+        "resting",
+        "idling",
+        "loitering"
+      ],
+      "word_groups": [
+        "long hallway",
+        "corridor walk",
+        "office stroll",
+        "business walk",
+        "meeting march"
+      ],
+      "same_vibe": [
+        "routine",
+        "monotony",
+        "formality",
+        "urgency",
+        "professionalism"
+      ],
+      "idioms": [
+        "walking on thin ice",
+        "going down a long road",
+        "taking steps",
+        "one step at a time",
+        "down the hallway of life"
+      ],
+      "related_mundane_terms": [
+        "office layout",
+        "hallway decor",
+        "team walk",
+        "daily commute",
+        "path to success"
+      ],
+      "cultural_references": [
+        "The Shining (hallway scene)",
+        "Hall Pass",
+        "The Office (walking to the conference room)",
+        "Jurassic Park (the hallway)",
+        "Fight Club (office scenes)"
+      ]
+    },
+    "office building": {
+      "synonyms": [
+        "corporate building",
         "workplace",
-        "administrative center"
+        "commercial space",
+        "business center",
+        "skyscraper"
       ],
       "antonyms": [
         "home",
-        "field",
-        "remote work",
-        "non-office",
-        "outdoor"
+        "residence",
+        "vacation spot",
+        "abode",
+        "leisure space"
+      ],
+      "word_groups": [
+        "office space",
+        "business district",
+        "work environment",
+        "corporate headquarters",
+        "shared office"
+      ],
+      "same_vibe": [
+        "professionalism",
+        "busyness",
+        "team collaboration",
+        "networking",
+        "ambition"
+      ],
+      "idioms": [
+        "office politics",
+        "work hard, play hard",
+        "pushing papers",
+        "stuck in an office grind",
+        "business hours"
+      ],
+      "related_mundane_terms": [
+        "cubicle",
+        "meeting room",
+        "water cooler",
+        "HR department",
+        "copy machine"
+      ],
+      "cultural_references": [
+        "The Office",
+        "Office Space",
+        "9 to 5 (Dolly Parton)",
+        "Mad Men",
+        "Workaholics"
+      ]
+    }
+  },
+  {
+    "contest number": 78,
+    "prisoner": {
+      "synonyms": [
+        "inmate",
+        "convict",
+        "detainee",
+        "offender",
+        "felon"
+      ],
+      "antonyms": [
+        "free person",
+        "citizen",
+        "innocent",
+        "bystander",
+        "bail"
+      ],
+      "word_groups": [
+        "prisoner of war",
+        "political prisoner",
+        "prisoner's dilemma",
+        "prisoner transport",
+        "prisoner's rights"
+      ],
+      "same_vibe": [
+        "captive",
+        "isolated",
+        "restricted",
+        "trapped",
+        "confined"
+      ],
+      "idioms": [
+        "behind bars",
+        "doing time",
+        "locked up",
+        "in the clink",
+        "paying one's debt to society"
+      ],
+      "related_mundane_terms": [
+        "cell mate",
+        "warden's office",
+        "visitation hours",
+        "solitary confinement",
+        "parole hearing"
+      ],
+      "cultural_references": [
+        "Alcatraz",
+        "Orange Is the New Black",
+        "The Shawshank Redemption",
+        "Prison Break",
+        "Escape from Alcatraz"
+      ]
+    },
+    "sex": {
+      "synonyms": [
+        "intercourse",
+        "coitus",
+        "copulation",
+        "intimacy",
+        "sexual activity"
+      ],
+      "antonyms": [
+        "abstinence",
+        "celibacy",
+        "infertility",
+        "purity",
+        "virginity"
+      ],
+      "word_groups": [
+        "sex appeal",
+        "sex education",
+        "sex worker",
+        "safe sex",
+        "sex drive"
+      ],
+      "same_vibe": [
+        "passion",
+        "romance",
+        "desire",
+        "entanglement",
+        "heat"
+      ],
+      "idioms": [
+        "make love",
+        "hit it off",
+        "roll in the hay",
+        "get lucky",
+        "between the sheets"
+      ],
+      "related_mundane_terms": [
+        "bedroom",
+        "one-night stand",
+        "love affair",
+        "flirtation",
+        "hookup"
+      ],
+      "cultural_references": [
+        "Fifty Shades of Grey",
+        "Friends (Ross and Rachel)",
+        "Sex and the City",
+        "The Notebook",
+        "Friends (Joey's pickup lines)"
+      ]
+    },
+    "prison": {
+      "synonyms": [
+        "jail",
+        "lockup",
+        "correctional facility",
+        "detention center",
+        "penitentiary"
+      ],
+      "antonyms": [
+        "freedom",
+        "liberty",
+        "release",
+        "open space",
+        "public life"
+      ],
+      "word_groups": [
+        "maximum security prison",
+        "prison sentence",
+        "prison guard",
+        "prison break",
+        "juvenile detention"
+      ],
+      "same_vibe": [
+        "confinement",
+        "restraint",
+        "captivity",
+        "isolation",
+        "desperation"
+      ],
+      "idioms": [
+        "doing hard time",
+        "in the doghouse",
+        "padded cell",
+        "locked away",
+        "no way out"
+      ],
+      "related_mundane_terms": [
+        "visitation rights",
+        "inmate regulations",
+        "jailhouse rock",
+        "bail bond",
+        "court date"
+      ],
+      "cultural_references": [
+        "The Green Mile",
+        "Prison Break",
+        "Cool Hand Luke",
+        "The Great Escape",
+        "A Clockwork Orange"
+      ]
+    },
+    "having sex": {
+      "synonyms": [
+        "engaging in intimacy",
+        "making love",
+        "copulating",
+        "sharing a bed",
+        "having relations"
+      ],
+      "antonyms": [
+        "abstaining",
+        "ignoring",
+        "rejecting",
+        "withholding",
+        "refusing"
+      ],
+      "word_groups": [
+        "one-night stand",
+        "marital relations",
+        "passionate encounter",
+        "romantic rendezvous",
+        "secret liaison"
+      ],
+      "same_vibe": [
+        "romantic",
+        "spontaneous",
+        "adventurous",
+        "discreet",
+        "euphoric"
+      ],
+      "idioms": [
+        "hit the sheets",
+        "share a bed",
+        "time between the sheets",
+        "set the mood",
+        "strike a romantic chord"
+      ],
+      "related_mundane_terms": [
+        "bedtime",
+        "intimate moment",
+        "couple\u2019s retreat",
+        "relationship goals",
+        "sleepover shenanigans"
+      ],
+      "cultural_references": [
+        "Casablanca (time together)",
+        "The Notebook (passionate scenes)",
+        "Titanic (romantic moments)",
+        "When Harry Met Sally (intimacy)",
+        "50 First Dates (romantic gestures)"
+      ]
+    }
+  },
+  {
+    "contest_number": 214,
+    "decapitation": {
+      "synonyms": [
+        "beheading",
+        "amputation",
+        "loss of head",
+        "severing",
+        "disconnection"
+      ],
+      "antonyms": [
+        "connection",
+        "union",
+        "integration",
+        "restoration",
+        "healing"
+      ],
+      "word_groups": [
+        "decapitation risk",
+        "decapitation fantasy",
+        "decapitation scene",
+        "decapitation anxiety",
+        "decapitation protocol"
+      ],
+      "same_vibe": [
+        "surreal experience",
+        "absurd situation",
+        "bizarre occurrence",
+        "dark humor moment",
+        "eerie atmosphere"
+      ],
+      "idioms": [
+        "heads will roll",
+        "in over one's head",
+        "off with his head",
+        "head and shoulders above",
+        "keep your head above water"
+      ],
+      "related_mundane_terms": [
+        "surgery",
+        "procedure",
+        "body politics",
+        "mannequin effect",
+        "completion of tasks"
+      ],
+      "cultural_references": [
+        "Beheading scene from 'Game of Thrones'",
+        "The Headless Horseman",
+        "Medusa from Greek mythology",
+        "Decapitation scene in 'The Princess Bride'",
+        "The Neckless Man from 'The Twilight Zone'"
+      ]
+    },
+    "chief_executive_officer": {
+      "synonyms": [
+        "CEO",
+        "company leader",
+        "executive director",
+        "chief",
+        "business head"
+      ],
+      "antonyms": [
+        "employee",
+        "subordinate",
+        "follower",
+        "underling",
+        "assistant"
+      ],
+      "word_groups": [
+        "CEO report",
+        "CEO decision",
+        "CEO meeting",
+        "CEO performance",
+        "CEO strategy"
+      ],
+      "same_vibe": [
+        "corporate culture",
+        "business attire",
+        "leadership meeting",
+        "office environment",
+        "professional demeanor"
+      ],
+      "idioms": [
+        "climbing the corporate ladder",
+        "by the book",
+        "big cheese",
+        "face time",
+        "jumping through hoops"
+      ],
+      "related_mundane_terms": [
+        "board meeting",
+        "quarterly earnings",
+        "strategic planning",
+        "annual review",
+        "business proposal"
+      ],
+      "cultural_references": [
+        "Jeff Bezos - Amazon",
+        "Steve Jobs - Apple",
+        "Tim Cook - Apple",
+        "Elon Musk - Tesla",
+        "Howard Schultz - Starbucks"
+      ]
+    },
+    "executive_search": {
+      "synonyms": [
+        "head-hunting",
+        "talent acquisition",
+        "executive recruitment",
+        "leadership hiring",
+        "top-tier search"
+      ],
+      "antonyms": [
+        "low-level recruitment",
+        "casual hiring",
+        "mass hiring",
+        "automated selection",
+        "entry-level selection"
+      ],
+      "word_groups": [
+        "executive search firm",
+        "executive search process",
+        "executive search strategy",
+        "executive search consultant",
+        "executive search service"
+      ],
+      "same_vibe": [
+        "competitive hiring",
+        "human resources",
+        "talent management",
+        "high-stakes recruitment",
+        "business strategy"
+      ],
+      "idioms": [
+        "find a needle in a haystack",
+        "casting a wide net",
+        "the cream rises to the top",
+        "selling ice to Eskimos",
+        "turning over every stone"
+      ],
+      "related_mundane_terms": [
+        "candidate pool",
+        "job listing",
+        "interview process",
+        "talent pipeline",
+        "employment contract"
+      ],
+      "cultural_references": [
+        "The Office - executive recruiting episode",
+        "Mad Men - hiring practices",
+        "Silicon Valley - venture capital",
+        "The Apprentice - Donald Trump's show",
+        "Moneyball - talent evaluation"
+      ]
+    },
+    "office": {
+      "synonyms": [
+        "workspace",
+        "workplace",
+        "business center",
+        "corporate office",
+        "administrative space"
+      ],
+      "antonyms": [
+        "home",
+        "classroom",
+        "factory",
+        "workshop",
+        "outdoor space"
       ],
       "word_groups": [
         "office supplies",
-        "office politics",
-        "open office",
         "office hours",
-        "office setup"
+        "office politics",
+        "office meeting",
+        "office environment"
       ],
       "same_vibe": [
-        "professional environment",
-        "working atmosphere",
-        "corporate culture",
-        "business district",
-        "commercial space"
+        "9 to 5 life",
+        "cubicle atmosphere",
+        "professional strife",
+        "daily grind",
+        "business casual"
       ],
       "idioms": [
-        "office gossip",
-        "in the loop",
-        "on the same page",
-        "think on your feet",
-        "a paper trail"
+        "keeping a stiff upper lip",
+        "burning the midnight oil",
+        "putting out fires",
+        "in the pipeline",
+        "thinking outside the box"
+      ],
+      "related_mundane_terms": [
+        "desk",
+        "cubicle",
+        "water cooler",
+        "staff meeting",
+        "break room"
       ],
       "cultural_references": [
-        "Dunder Mifflin",
-        "The Office (US)",
-        "Office Space",
-        "9 to 5",
-        "Horrible Bosses"
+        "The Office - Dunder Mifflin",
+        "Mad Men - Sterling Cooper",
+        "Parks and Recreation - Pawnee",
+        "Brooklyn Nine-Nine - NYPD",
+        "Dilbert - office humor comic"
       ]
-    },
-    "sticking sword out of desk": {
+    }
+  },
+  {
+    "contest number": 459,
+    "Desk": {
       "synonyms": [
-        "sword lodged",
-        "blade embedded",
-        "weapon protruding",
-        "sword insertion",
-        "instrument stuck"
+        "table",
+        "workstation",
+        "surface",
+        "counter",
+        "platform"
       ],
       "antonyms": [
-        "sword removed",
-        "weapon withdrawn",
-        "deserted desk",
-        "empty space",
-        "pristine surface"
+        "floor",
+        "ground",
+        "chaos",
+        "disorder",
+        "mess"
       ],
       "word_groups": [
-        "sword in the stone",
-        "embedded weapon",
-        "improvised decor",
-        "office oddity",
-        "medieval confidence"
+        "desk lamp",
+        "office desk",
+        "writing desk",
+        "executive desk",
+        "corner desk"
       ],
       "same_vibe": [
-        "unexpected surprise",
-        "quirky humor",
-        "absurd situation",
-        "humorous conflict",
-        "ironical twist"
+        "workspace",
+        "conference area",
+        "office setting",
+        "professional space",
+        "business environment"
       ],
       "idioms": [
-        "a knife in the back",
-        "bury the hatchet",
-        "cutting remarks",
-        "a double-edged sword",
-        "sharp end of the stick"
+        "behind the desk",
+        "putting my desk in order",
+        "under the table",
+        "on the level",
+        "the desk job"
+      ],
+      "related_mundane_terms": [
+        "office supplies",
+        "workspace layout",
+        "cubicle",
+        "open office",
+        "meeting room"
       ],
       "cultural_references": [
-        "Monty Python",
+        "The Office",
+        "Dilbert",
+        "Mad Men",
+        "9 to 5",
+        "Freaky Friday"
+      ]
+    },
+    "Meeting": {
+      "synonyms": [
+        "gathering",
+        "conference",
+        "assembly",
+        "discussion",
+        "session"
+      ],
+      "antonyms": [
+        "separation",
+        "disbandment",
+        "dismissal",
+        "disconnection",
+        "division"
+      ],
+      "word_groups": [
+        "business meeting",
+        "team meeting",
+        "annual meeting",
+        "video conference",
+        "board meeting"
+      ],
+      "same_vibe": [
+        "brainstorming session",
+        "collaboration",
+        "group discussion",
+        "forum",
+        "networking event"
+      ],
+      "idioms": [
+        "let's touch base",
+        "circle back",
+        "at the table",
+        "meeting of the minds",
+        "face to face"
+      ],
+      "related_mundane_terms": [
+        "agenda",
+        "minutes",
+        "presentation",
+        "notes",
+        "conference call"
+      ],
+      "cultural_references": [
+        "Office Space",
+        "The Internship",
+        "The Meeting",
+        "Horrible Bosses",
+        "The Big Short"
+      ]
+    },
+    "Talking": {
+      "synonyms": [
+        "speaking",
+        "discussing",
+        "addressing",
+        "communicating",
+        "chatting"
+      ],
+      "antonyms": [
+        "silence",
+        "quiet",
+        "muteness",
+        "reticence",
+        "hush"
+      ],
+      "word_groups": [
+        "talking points",
+        "one-on-one",
+        "public speaking",
+        "team huddle",
+        "office banter"
+      ],
+      "same_vibe": [
+        "debating",
+        "discourse",
+        "dialogue",
+        "conversation",
+        "exchange"
+      ],
+      "idioms": [
+        "talk the talk",
+        "talk through it",
+        "shoot the breeze",
+        "have a heart-to-heart",
+        "chew the fat"
+      ],
+      "related_mundane_terms": [
+        "discussion thread",
+        "feedback session",
+        "group chat",
+        "Q&A",
+        "briefing"
+      ],
+      "cultural_references": [
+        "Ted Talks",
+        "The View",
+        "Saturday Night Live",
+        "Jerry Springer Show",
+        "Inside the Actors Studio"
+      ]
+    },
+    "Office": {
+      "synonyms": [
+        "workspace",
+        "administrative area",
+        "workplace",
+        "business center",
+        "suite"
+      ],
+      "antonyms": [
+        "home",
+        "warehouse",
+        "factory",
+        "outdoor",
+        "market"
+      ],
+      "word_groups": [
+        "office space",
+        "office culture",
+        "office supplies",
+        "home office",
+        "corporate office"
+      ],
+      "same_vibe": [
+        "business environment",
+        "commercial space",
+        "professional setting",
+        "cubicle farm",
+        "open-plan office"
+      ],
+      "idioms": [
+        "office politics",
+        "water cooler talk",
+        "in the trenches",
+        "climbing the corporate ladder",
+        "the corner office"
+      ],
+      "related_mundane_terms": [
+        "desk",
+        "chair",
+        "computer",
+        "printer",
+        "meeting room"
+      ],
+      "cultural_references": [
+        "The Office",
+        "Dilbert",
+        "9 to 5",
+        "Office Space",
+        "Mad Men"
+      ]
+    }
+  },
+  {
+    "contest number": 692,
+    "Wolf_in_sheep's_clothing": {
+      "synonyms": [
+        "imposter",
+        "pretender",
+        "deceiver",
+        "fraud",
+        "faker"
+      ],
+      "antonyms": [
+        "authentic",
+        "genuine",
+        "real",
+        "truthful",
+        "honest"
+      ],
+      "word_groups": [
+        "wolf costume",
+        "sheep disguise",
+        "costume party",
+        "undercover wolf",
+        "animal masquerade"
+      ],
+      "same_vibe": [
+        "smuggler in disguise",
+        "masked villain",
+        "cunning trickster",
+        "sly operator",
+        "surprise reveal"
+      ],
+      "idioms": [
+        "a wolf in sheep's clothing",
+        "playing both sides",
+        "wearing many hats",
+        "dressed to deceive",
+        "hiding in plain sight"
+      ],
+      "related_mundane_terms": [
+        "costume fitting",
+        "party attire",
+        "dress-up day",
+        "clothing rack",
+        "dress rehearsal"
+      ],
+      "cultural_references": [
+        "William Golding's 'Lord of the Flies'",
+        "Aesop's Fables",
+        "Little Red Riding Hood",
+        "The Boy Who Cried Wolf",
+        "The Three Little Pigs"
+      ]
+    },
+    "Man": {
+      "synonyms": [
+        "male",
+        "guy",
+        "fellow",
+        "gentleman",
+        "dude"
+      ],
+      "antonyms": [
+        "woman",
+        "girl",
+        "female",
+        "lady",
+        "child"
+      ],
+      "word_groups": [
+        "store clerk",
+        "mannequin model",
+        "costume assistant",
+        "sales representative",
+        "personal shopper"
+      ],
+      "same_vibe": [
+        "helpful guide",
+        "fashion expert",
+        "dapper gentleman",
+        "sartorial advisor",
+        "stylish companion"
+      ],
+      "idioms": [
+        "man of many talents",
+        "man about town",
+        "every man for himself",
+        "the right man for the job",
+        "putting on a brave face"
+      ],
+      "related_mundane_terms": [
+        "shopping assistant",
+        "clothing retailer",
+        "costume selection",
+        "customer service",
+        "fashion advice"
+      ],
+      "cultural_references": [
+        "Hugh Jackman in 'The Greatest Showman'",
+        "Jim Halpert from 'The Office'",
+        "Mr. Darcy from 'Pride and Prejudice'",
+        "Clark Kent from 'Superman'",
+        "Tony Stark from 'Iron Man'"
+      ]
+    },
+    "store": {
+      "synonyms": [
+        "shop",
+        "boutique",
+        "retail outlet",
+        "market",
+        "emporium"
+      ],
+      "antonyms": [
+        "warehouse",
+        "factory",
+        "supply center",
+        "distributor",
+        "dump"
+      ],
+      "word_groups": [
+        "clothing store",
+        "hardware store",
+        "grocery store",
+        "online shop",
+        "pawn shop"
+      ],
+      "same_vibe": [
+        "mall",
+        "marketplace",
+        "trendy boutique",
+        "superstore",
+        "flea market"
+      ],
+      "idioms": [
+        "store of dreams",
+        "one-stop shop",
+        "hit the shops",
+        "shop till you drop",
+        "shop around"
+      ],
+      "related_mundane_terms": [
+        "checkout counter",
+        "shopping spree",
+        "product display",
+        "store window",
+        "customer loyalty"
+      ],
+      "cultural_references": [
+        "Macy's Thanksgiving Day Parade",
+        "Wal-Mart commercials",
+        "Target shopping experience",
+        "Kirkland brand at Costco",
+        "Flea market flip on HGTV"
+      ]
+    },
+    "trying on outfits": {
+      "synonyms": [
+        "trying on clothes",
+        "fitting garments",
+        "experimenting with styles",
+        "modeling outfits",
+        "wardrobe selection"
+      ],
+      "antonyms": [
+        "taking off",
+        "removing clothes",
+        "discarding outfits",
+        "going without",
+        "staying bare"
+      ],
+      "word_groups": [
+        "fashion fitting",
+        "styling session",
+        "clothing trial",
+        "outfit test",
+        "dress rehearsal"
+      ],
+      "same_vibe": [
+        "wardrobe process",
+        "personal styling",
+        "fashion show",
+        "charity gala attire",
+        "red carpet look"
+      ],
+      "idioms": [
+        "putting on a show",
+        "dressed to the nines",
+        "dressing up the occasion",
+        "tailored for success",
+        "in fashion"
+      ],
+      "related_mundane_terms": [
+        "fitting room",
+        "mirror test",
+        "dress up",
+        "style guide",
+        "fashion consultation"
+      ],
+      "cultural_references": [
+        "Project Runway",
+        "Fashion Police",
+        "America's Next Top Model",
+        "The Devil Wears Prada",
+        "Queer Eye"
+      ]
+    }
+  },
+  {
+    "contest number": 327,
+    "dragon": {
+      "synonyms": [
+        "serpent",
+        "beast",
+        "monster",
+        "creature",
+        "wyvern"
+      ],
+      "antonyms": [
+        "angel",
+        "friend",
+        "pet",
+        "harmlessness",
+        "safety"
+      ],
+      "word_groups": [
+        "dragon's lair",
+        "fire-breathing beast",
+        "legendary creature",
+        "fantasy monster",
+        "winged serpent"
+      ],
+      "same_vibe": [
+        "nightmare fuel",
+        "anxiety",
+        "tension",
+        "fear",
+        "chaos"
+      ],
+      "idioms": [
+        "the dragon's den",
+        "like a dragon in a china shop",
+        "fire-breathing anger",
+        "raining fire",
+        "chasing away dragons"
+      ],
+      "related_mundane_terms": [
+        "scaly skin",
+        "mythical story",
+        "fire hazard",
+        "creature feature",
+        "fear factor"
+      ],
+      "cultural_references": [
         "Game of Thrones",
-        "The Hitchhiker's Guide to the Galaxy",
-        "The Office (UK)",
-        "RoboCop"
+        "How to Train Your Dragon",
+        "Dragon Ball Z",
+        "The Hobbit",
+        "The NeverEnding Story"
+      ]
+    },
+    "swimming pool": {
+      "synonyms": [
+        "pool",
+        "waterway",
+        "aqua area",
+        "swimming area",
+        "recreation pond"
+      ],
+      "antonyms": [
+        "desert",
+        "dry land",
+        "drought",
+        "arid region",
+        "wasteland"
+      ],
+      "word_groups": [
+        "pool party",
+        "swimming lessons",
+        "infinity pool",
+        "public pool",
+        "backyard oasis"
+      ],
+      "same_vibe": [
+        "relaxation",
+        "vacation",
+        "escape",
+        "holiday",
+        "leisure"
+      ],
+      "idioms": [
+        "swimming with the sharks",
+        "dive in",
+        "take the plunge",
+        "make a splash",
+        "float on"
+      ],
+      "related_mundane_terms": [
+        "lifeguard duties",
+        "poolside lounge",
+        "sunblock application",
+        "water games",
+        "pool maintenance"
+      ],
+      "cultural_references": [
+        "The Shape of Water",
+        "Caddyshack",
+        "Baywatch",
+        "Splash",
+        "Aquaman"
+      ]
+    },
+    "sun tanning": {
+      "synonyms": [
+        "bronzing",
+        "sunbathing",
+        "skin tanning",
+        "suntanning",
+        "sun exposure"
+      ],
+      "antonyms": [
+        "sun avoidance",
+        "pale skin",
+        "shade",
+        "caution",
+        "protection"
+      ],
+      "word_groups": [
+        "sunscreen application",
+        "tan line",
+        "beach day",
+        "summer glow",
+        "sun-kissed skin"
+      ],
+      "same_vibe": [
+        "relaxation",
+        "leisure",
+        "vacation vibes",
+        "carefree",
+        "pleasure"
+      ],
+      "idioms": [
+        "basking in the sun",
+        "sipping cocktails",
+        "catching rays",
+        "laying low",
+        "sunny disposition"
+      ],
+      "related_mundane_terms": [
+        "beach towel",
+        "sun hat",
+        "flip-flops",
+        "swimwear",
+        "sunglasses"
+      ],
+      "cultural_references": [
+        "Baywatch",
+        "The Beach",
+        "Mamma Mia!",
+        "Forgetting Sarah Marshall",
+        "The Secret Life of Walter Mitty"
+      ]
+    },
+    "angry dragon": {
+      "synonyms": [
+        "furious beast",
+        "irate creature",
+        "enraged monster",
+        "livid leviathan",
+        "fuming serpent"
+      ],
+      "antonyms": [
+        "calm",
+        "peaceful",
+        "serene",
+        "placid",
+        "unbothered"
+      ],
+      "word_groups": [
+        "scorching rage",
+        "fiery temper",
+        "wrath of the beast",
+        "volatile creature",
+        "stormy demeanor"
+      ],
+      "same_vibe": [
+        "tension",
+        "conflict",
+        "disruption",
+        "anxiety",
+        "chaos"
+      ],
+      "idioms": [
+        "fury of the dragon",
+        "smoke coming from nostrils",
+        "fighting fire with fire",
+        "wrath unleashed",
+        "anger management"
+      ],
+      "related_mundane_terms": [
+        "rising heat",
+        "boiling point",
+        "hot temper",
+        "short fuse",
+        " explosive situation"
+      ],
+      "cultural_references": [
+        "Angry Birds",
+        "The Hobbit",
+        "Shrek",
+        "Dragonheart",
+        "Reign of Fire"
+      ]
+    }
+  },
+  {
+    "contest number": 457,
+    "rowing": {
+      "synonyms": [
+        "paddling",
+        "sculling",
+        "propelling",
+        "oaring",
+        "hauling"
+      ],
+      "antonyms": [
+        "floating",
+        "drifting",
+        "sinking",
+        "sitting",
+        "abandoning"
+      ],
+      "word_groups": [
+        "rowing crew",
+        "rowing boat",
+        "rowing competition",
+        "rowing technique",
+        "rowing machine"
+      ],
+      "same_vibe": [
+        "struggle",
+        "effort",
+        "teamwork",
+        "resistance",
+        "sweat"
+      ],
+      "idioms": [
+        "row against the tide",
+        "make waves",
+        "in the same boat",
+        "pull together",
+        "rock the boat"
+      ],
+      "related_mundane_terms": [
+        "exercise routine",
+        "water activity",
+        "crew team",
+        "boat launch",
+        "oar handle"
+      ],
+      "cultural_references": [
+        "The Oxford-Cambridge Boat Race",
+        "Row, Row, Row Your Boat",
+        "The Wind in the Willows",
+        "Paddle to Seattle",
+        "The Rowing Blazer"
+      ]
+    },
+    "slavery": {
+      "synonyms": [
+        "bondage",
+        "servitude",
+        "enslavement",
+        "subjugation",
+        "oppression"
+      ],
+      "antonyms": [
+        "freedom",
+        "liberty",
+        "independence",
+        "emancipation",
+        "release"
+      ],
+      "word_groups": [
+        "slave trade",
+        "abolition of slavery",
+        "slave narrative",
+        "human trafficking",
+        "forced labor"
+      ],
+      "same_vibe": [
+        "suffering",
+        "inequality",
+        "injustice",
+        "despair",
+        "struggle"
+      ],
+      "idioms": [
+        "break the chains",
+        "catch a break",
+        "under someone's thumb",
+        "throw off the shackles",
+        "speak out"
+      ],
+      "related_mundane_terms": [
+        "historical context",
+        "human rights",
+        "civil rights movement",
+        "working conditions",
+        "exploitation"
+      ],
+      "cultural_references": [
+        "12 Years a Slave",
+        "Roots",
+        "The Narrative of the Life of Frederick Douglass",
+        "Amistad",
+        "Gone with the Wind"
+      ]
+    },
+    "businessperson": {
+      "synonyms": [
+        "entrepreneur",
+        "executive",
+        "professional",
+        "business owner",
+        "manager"
+      ],
+      "antonyms": [
+        "worker",
+        "employee",
+        "unemployed",
+        "laborer",
+        "consumer"
+      ],
+      "word_groups": [
+        "business attire",
+        "business strategy",
+        "business ethics",
+        "small business",
+        "corporate leader"
+      ],
+      "same_vibe": [
+        "ambition",
+        "success",
+        "formality",
+        "networking",
+        "decision-making"
+      ],
+      "idioms": [
+        "think outside the box",
+        "cutting corners",
+        "get down to business",
+        "on the same page",
+        "bring something to the table"
+      ],
+      "related_mundane_terms": [
+        "office environment",
+        "business plan",
+        "corporate culture",
+        "meeting agenda",
+        "professional development"
+      ],
+      "cultural_references": [
+        "The Wolf of Wall Street",
+        "The Office",
+        "Wall Street",
+        "Mad Men",
+        "Silicon Valley"
+      ]
+    },
+    "galley ship": {
+      "synonyms": [
+        "vessel",
+        "boat",
+        "craft",
+        "ship",
+        "watercraft"
+      ],
+      "antonyms": [
+        "land",
+        "ground",
+        "shore",
+        "stagnation",
+        "inactivity"
+      ],
+      "word_groups": [
+        "fishing boat",
+        "cargo ship",
+        "warship",
+        "sailing ship",
+        "cruise ship"
+      ],
+      "same_vibe": [
+        "adventure",
+        "exploration",
+        "journey",
+        "navigation",
+        "crew life"
+      ],
+      "idioms": [
+        "shipshape",
+        "on board",
+        "all hands on deck",
+        "hit the high seas",
+        "sail close to the wind"
+      ],
+      "related_mundane_terms": [
+        "nautical terms",
+        "ship's log",
+        "crew quarters",
+        "navigation chart",
+        "life at sea"
+      ],
+      "cultural_references": [
+        "Pirates of the Caribbean",
+        "Treasure Island",
+        "Moby Dick",
+        "The Maersk Alabama",
+        "Master and Commander: The Far Side of the World"
+      ]
+    }
+  },
+  {
+    "contest number": 480,
+    "shootout": {
+      "synonyms": [
+        "gunfight",
+        "battle",
+        "duel",
+        "confrontation",
+        "showdown"
+      ],
+      "antonyms": [
+        "peace",
+        "truce",
+        "calm",
+        "agreement",
+        "reconciliation"
+      ],
+      "word_groups": [
+        "shootout scene",
+        "shootout at high noon",
+        "shootout competition",
+        "wild west shootout",
+        "gunfight showdown"
+      ],
+      "same_vibe": [
+        "tension-filled standoff",
+        "vigilante justice",
+        "law vs. outlaw",
+        "showdown with a twist",
+        "dangerous encounter"
+      ],
+      "idioms": [
+        "draw the line",
+        "bet your boots",
+        "in the line of fire",
+        "putting up one\u2019s dukes",
+        "playing with fire"
+      ],
+      "related_mundane_terms": [
+        "gun range",
+        "firing practice",
+        "quick draw",
+        "safety clearance",
+        "firearm training"
+      ],
+      "cultural_references": [
+        "Westerns in cinema",
+        "The Good, The Bad and The Ugly",
+        "High Noon",
+        "Django Unchained",
+        "The Magnificent Seven"
+      ]
+    },
+    "balloon": {
+      "synonyms": [
+        "inflatable",
+        "airbag",
+        "blimp",
+        "vessel",
+        "float"
+      ],
+      "antonyms": [
+        "deflation",
+        "vacuum",
+        "collapse",
+        "shrinkage",
+        "absent"
+      ],
+      "word_groups": [
+        "party balloon",
+        "helium balloon",
+        "balloon animal",
+        "hot air balloon",
+        "balloon ride"
+      ],
+      "same_vibe": [
+        "childhood nostalgia",
+        "lightness",
+        "celebration",
+        "whimsy",
+        "playfulness"
+      ],
+      "idioms": [
+        "walk on air",
+        "burst your bubble",
+        "up in the air",
+        "full of hot air",
+        "a breath of fresh air"
+      ],
+      "related_mundane_terms": [
+        "birthday party",
+        "celebration d\u00e9cor",
+        "balloon release",
+        "party favor",
+        "inflation process"
+      ],
+      "cultural_references": [
+        "Up (Pixar)",
+        "It (Stephen King)",
+        "clown at a circus",
+        "Winnie the Pooh",
+        "characters at a fair"
+      ]
+    },
+    "noon": {
+      "synonyms": [
+        "midday",
+        "12 PM",
+        "high noon",
+        "noontime",
+        "solar noon"
+      ],
+      "antonyms": [
+        "midnight",
+        "dusk",
+        "nightfall",
+        "early morning",
+        "twilight"
+      ],
+      "word_groups": [
+        "lunch break",
+        "noon sun",
+        "noon hour",
+        "high noon duel",
+        "noon meeting"
+      ],
+      "same_vibe": [
+        "bright daylight",
+        "bustling activity",
+        "golden hour",
+        "time for tasks",
+        "warmth of sun"
+      ],
+      "idioms": [
+        "the witching hour",
+        "kicking off the day",
+        "clock strikes twelve",
+        "call it a day",
+        "putting one\u2019s best foot forward"
+      ],
+      "related_mundane_terms": [
+        "time management",
+        "sun position",
+        "break time",
+        "schedule planning",
+        "daily routine"
+      ],
+      "cultural_references": [
+        "Noon at the Oasis",
+        "high noon standoffs in movies",
+        "noon in literature",
+        "daylight saving time",
+        "solar noon festivals"
+      ]
+    },
+    "street": {
+      "synonyms": [
+        "road",
+        "avenue",
+        "boulevard",
+        "lane",
+        "path"
+      ],
+      "antonyms": [
+        "wilderness",
+        "wild",
+        "field",
+        "forest",
+        "isolated area"
+      ],
+      "word_groups": [
+        "residential street",
+        "city street",
+        "busy street",
+        "quiet street",
+        "main street"
+      ],
+      "same_vibe": [
+        "urban setting",
+        "community hub",
+        "social gathering spot",
+        "everyday life",
+        "locality of action"
+      ],
+      "idioms": [
+        "walking the streets",
+        "street smarts",
+        "hit the pavement",
+        "on the corner",
+        "down the street"
+      ],
+      "related_mundane_terms": [
+        "traffic patterns",
+        "public transport",
+        "local businesses",
+        "sidewalk cafe",
+        "urban planning"
+      ],
+      "cultural_references": [
+        "Sesame Street",
+        "Abbey Road",
+        "Champs-\u00c9lys\u00e9es",
+        "Wall Street",
+        "Fleet Street"
       ]
     }
   }
