@@ -1,0 +1,122 @@
+[
+  {
+    "contest number": 601,
+    "winner": "I thought you said it wouldn't need much attention.",
+    "challenger": "Sure, he's keeping up now; wait 'til we get to the bike and the swim.",
+    "chosen_by_llm": "Candidate A: I thought you said it wouldn't need much attention.",
+    "correct": false,
+    "reason": "This caption humorously implies a disconnect between the expectation and the reality of caring for something, possibly a pet or a project. It plays on the common experience of underestimating the effort required, making it relatable and funny."
+  },
+  {
+    "contest number": 639,
+    "winner": "Earl of Cowlick. And you are?",
+    "challenger": "If this lasts more than four hours I'll have to see my doctor.",
+    "chosen_by_llm": "Earl of Cowlick. And you are?",
+    "correct": true,
+    "reason": "This caption cleverly plays on the word 'cowlick' to create a humorous persona, making it witty and lighthearted. It invites the reader to imagine an amusing character while also eliciting a playful interaction. In contrast, Candidate B has a more serious connotation linked to a medical condition, which may not resonate as funny."
+  },
+  {
+    "contest number": 692,
+    "winner": "First day on Wall Street, sir?",
+    "challenger": "Is my intent showing?",
+    "chosen_by_llm": "First day on Wall Street, sir?",
+    "correct": true,
+    "reason": "This caption is funnier because it plays on the stereotype of a fresh-faced, inexperienced newcomer navigating the serious and intense environment of Wall Street. The juxtaposition of the traditional corporate setting with a na\u00efve question adds humor and visualizes the contrasts in a relatable way."
+  },
+  {
+    "contest number": 541,
+    "winner": "Let me guess...the Gym Reaper?",
+    "challenger": "Sure. Just let me get his Netflix password before you talk to him.",
+    "chosen_by_llm": "Let me guess...the Gym Reaper?",
+    "correct": true,
+    "reason": "This caption is a clever wordplay on the stereotype of gym-goers facing their fears or challenges as if they're confronting a grim figure. The term 'Gym Reaper' humorously conveys the notion that the gym can be daunting, making it relatable and funny to those who've experienced the struggles of workouts."
+  },
+  {
+    "contest number": 704,
+    "winner": "Forget everything you've ever thought about elevator music.",
+    "challenger": "The acoustics in here are incredible!",
+    "chosen_by_llm": "Candidate A: Forget everything you've ever thought about elevator music.",
+    "correct": false,
+    "reason": "This caption subverts the common perception of elevator music as dull and uneventful, suggesting that something unexpected or humorous is happening. It plays on the anticipation of surprising content, making it a funnier choice."
+  },
+  {
+    "contest number": 642,
+    "winner": "Linda suddenly realized she had entered the hallucinatory phase of her low-carb diet.",
+    "challenger": "Of course it\u2019s hot. It\u2019s stollen.",
+    "chosen_by_llm": "Of course it\u2019s hot. It\u2019s stollen.",
+    "correct": false,
+    "reason": "This caption is funnier because it uses a clever play on words with 'stollen,' a type of cake, suggesting that it is 'hot' in both temperature and popularity. The humor lies in the unexpected twist, making it more relatable and amusing."
+  },
+  {
+    "contest number": 763,
+    "winner": "You can use the loaner corn dog while you wait. Can you drive a stick?",
+    "challenger": "Unfortunately, ordering parts is difficult because no one knows what these things are made of.",
+    "chosen_by_llm": "You can use the loaner corn dog while you wait. Can you drive a stick?",
+    "correct": true,
+    "reason": "This caption is funnier because it presents a whimsical and absurd scenario involving a 'loaner corn dog,' which is unexpected and humorous. The play on words with 'drive a stick' adds a layer of comedic confusion, making it more entertaining than the frustration expressed in Candidate B's caption."
+  },
+  {
+    "contest number": 665,
+    "winner": "Lunch is on me.",
+    "challenger": "If you liked our food delivery service, please give me 5 stars.",
+    "chosen_by_llm": "Lunch is on me.",
+    "correct": true,
+    "reason": "This caption is funnier because it plays on the common phrase about treating someone to a meal, which can create humor in the context of casual dining or unexpected generosity. It sets a lighthearted tone compared to Candidate B's focus on customer service ratings."
+  },
+  {
+    "contest number": 680,
+    "winner": "Is the salmon fresh?",
+    "challenger": "It's always 'climate change'. It's never 'Sorry I'm late'.",
+    "chosen_by_llm": "Is the salmon fresh?",
+    "correct": true,
+    "reason": "This caption plays on a common situation where one might expect a straightforward answer, but the absurdity of the question implies an unexpected or humorous response about freshness. It's a classic moment of misunderstanding that can be relatable and funny."
+  },
+  {
+    "contest number": 584,
+    "winner": "Hold on, the Senate Committee on Women's Health is getting out.",
+    "challenger": "There was a typo on his resume. Apparently he's \"one AND a million\".",
+    "chosen_by_llm": "Hold on, the Senate Committee on Women's Health is getting out.",
+    "correct": true,
+    "reason": "Candidate A humorously plays on the idea of a Senate committee being a place where serious discussions can lead to comedic misunderstandings, especially regarding women's health, which can be a sensitive topic. The absurdity of a committee 'getting out' suggests a ridiculous or unexpected scenario in a serious context, making it more layered and socially relevant compared to Candidate B's straightforward pun about a resume typo."
+  },
+  {
+    "contest number": 599,
+    "winner": "I dreamt last night that some day judges might just require a small plastic bracelet",
+    "challenger": "He's been extinct for 65 million years so I'm just as surprised to see him as you are.",
+    "chosen_by_llm": "I dreamt last night that some day judges might just require a small plastic bracelet",
+    "correct": true,
+    "reason": "This caption uses absurdity and surreal imagery to evoke humor, suggesting a ridiculous future reality about judges. It plays on contemporary trends of wearable tech in a whimsical manner. In contrast, Candidate B's caption about dinosaurs, while humorous, doesn't have the same level of creativity or unexpectedness as A."
+  },
+  {
+    "contest number": 581,
+    "winner": "Expect a chilly reception at the circumcision symposium.",
+    "challenger": "Read them over; if I say you need a sweater, you need a sweater.",
+    "chosen_by_llm": "Expect a chilly reception at the circumcision symposium.",
+    "correct": true,
+    "reason": "This caption cleverly plays on the double meaning of 'chilly reception,' making a pun related to both the literal coldness one might expect at a symposium and the figurative coldness associated with circumcision. The humor lies in the unexpected connection between the two situations, which adds layers to the joke."
+  },
+  {
+    "contest number": 583,
+    "winner": "So much for the suggestion box being anonymous",
+    "challenger": "Mitch, for what it's worth, I actually loved that Facebook post.",
+    "chosen_by_llm": "Candidate A: So much for the suggestion box being anonymous",
+    "correct": false,
+    "reason": "This caption implies a humorous situation where someone has revealed their identity in a typically anonymous context, suggesting a comedic twist on privacy. It resonates with anyone who's seen how feedback can backfire, making it relatable and funny."
+  },
+  {
+    "contest number": 737,
+    "winner": "I thought you said the cloud was secure.",
+    "challenger": "Young man, I like your style. A bean counter with high aspirations willing to go out on a limb for the company.",
+    "chosen_by_llm": "I thought you said the cloud was secure.",
+    "correct": true,
+    "reason": "This caption is funnier because it cleverly plays on the double meaning of 'cloud' \u2014 both as a data storage concept and a literal cloud. It highlights a common concern in technology with a humorous twist, making it relatable and more easily understood."
+  },
+  {
+    "contest number": 563,
+    "winner": "Listen, I've got to run.",
+    "challenger": "Sorry. Can't talk. Gotta run.",
+    "chosen_by_llm": "Candidate A: Listen, I've got to run.",
+    "correct": false,
+    "reason": "Candidate A is funnier because the phrasing suggests urgency in a humorous way, implying a more dramatic situation, while Candidate B feels more straightforward and lacks the same flair."
+  }
+]
