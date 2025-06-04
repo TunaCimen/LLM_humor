@@ -1,14 +1,13 @@
-import torch
 import json
 import random
 import argparse
 from PIL import Image
-from trl import SFTTrainer, SFTConfig
-
-from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, default_data_collator, AutoTokenizer
+from unsloth import FastVisionModel
+import torch
 from unsloth import is_bf16_supported
 from unsloth.trainer import UnslothVisionDataCollator
-from unsloth import FastVisionModel # FastLanguageModel for LLMs
+from trl import SFTTrainer, SFTConfig
+
 
 
 random.seed(42)
@@ -29,14 +28,14 @@ def build_prompt_for_caption_pair(caption_a_text, caption_b_text):
 def parse_args():
     parser = argparse.ArgumentParser(description="Fine-tune Qwen2-VL model with SFT.")
     parser.add_argument("--model_size", choices=["7b", "72b"], default="7b", help="Model size: 7b or 72b.")
-    parser.add_argument("--dataset_path", type=str, default="dataset.json", help="Path to JSON dataset.")
+    parser.add_argument("--dataset_path", type=str, default="sft_data_50.json", help="Path to JSON dataset.")
     return parser.parse_args()
 
 def load_qwen2vl(model_size, device_map=None):
     if model_size == "7b":
-        model_id = "Qwen/Qwen2-VL-7B-Instruct"
+        model_id = "unsloth/Qwen2.5-VL-7B-Instruct-bnb-4bit"
     else:
-        model_id = "Qwen/Qwen2-VL-72B-Instruct"
+        model_id = "unsloth/Qwen2.5-VL-72B-Instruct-bnb-4bit"
 
     model, tokenizer = FastVisionModel.from_pretrained(
         model_id,
@@ -104,7 +103,10 @@ def main():
 
     dataset = load_data(args.dataset_path)
     converted_dataset = [convert_to_conversation(sample) for sample in dataset]
-    val_dataset = random.sample(converted_dataset, 200)
+    val_dataset = converted_dataset[:10]
+    train_dataset = converted_dataset[10:]
+    
+
     FastVisionModel.for_training(model)
     
     trainer_args = SFTConfig(
@@ -113,8 +115,8 @@ def main():
         warmup_steps=5,
         max_steps=500,
         learning_rate=2e-4,
-        fp16=False,
-        bf16=True,
+        fp16 = not is_bf16_supported(),
+        bf16 = is_bf16_supported(),
         logging_steps=1,
         eval_strategy="steps",
         eval_steps=10,
@@ -140,7 +142,7 @@ def main():
         model=model,
         tokenizer=tokenizer,
         data_collator = UnslothVisionDataCollator(model, tokenizer),
-        train_dataset=converted_dataset,
+        train_dataset=train_dataset,
         eval_dataset=val_dataset,
         args=trainer_args
     )
