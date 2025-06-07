@@ -25,9 +25,9 @@ def build_prompt_for_caption_pair(caption_a_text, caption_b_text):
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Fine-tune a model with SFT.")
-    parser.add_argument("--model_name", default=None, help="Model id.")
+    parser.add_argument("--model_name", type=str, default=None, help="Model id.")
     parser.add_argument("--dataset_path", type=str, default="sft_data_50.json", help="Path to JSON dataset.")
-    parser.add_argument("--is_4_bit", type=bool, default=False, help="4-bit quantization.")
+    parser.add_argument("--is_4_bit", action="store_true", help="4-bit quantization.")
     parser.add_argument("--max_steps", type=int, default=250, help="Maximum steps for SFT.")
 
 
@@ -160,8 +160,7 @@ def main():
     trainer.train()
 
     if True: 
-        
-        model.save_pretrained_merged(f"unsloth_sft_{args.model_name}", tokenizer, save_method="merged_16bit")
+        model.save_pretrained_merged(f"sft_{args.model_name}", tokenizer, save_method="merged_16bit")
 
 
 if __name__ == "__main__":
