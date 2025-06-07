@@ -161,8 +161,9 @@ def main():
     trainer.train()
 
     if True: 
-        model.save_pretrained_merged(f"sft_{args.model_name}", tokenizer, save_method="merged_16bit")
-
+        #model.save_pretrained_merged(f"sft_{args.model_name}", tokenizer, save_method="merged_16bit")
+        model.save_pretrained(f"lsft_{args.model_name}")
+        tokenizer.save_pretrained(f"lsft_{args.model_name}")
 
 if __name__ == "__main__":
     main()
