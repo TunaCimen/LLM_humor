@@ -9,9 +9,10 @@ from unsloth.trainer import UnslothVisionDataCollator
 from trl import SFTTrainer, SFTConfig
 
 
-def build_prompt_for_caption_pair(caption_a_text, caption_b_text):
+def build_prompt_for_caption_pair(caption_a_text, caption_b_text, contest_no):
     prompt_lines = [
         f"The image is a cartoon from the New Yorker Cartoon Caption Contest.\n",
+        f"Contest number: {contest_no}.\n",
         f"I will provide you with two captions; one of them is deemed funnier by people.",
         f"Which of the following captions is funnier: A: {caption_a_text} B: {caption_b_text}?\n",
         f"A) {caption_a_text}\n",
