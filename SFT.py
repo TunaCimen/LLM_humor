@@ -101,6 +101,7 @@ def main():
         loftq_config = None, # And LoftQ
         # target_modules = "all-linear", # Optional now! Can specify a list if needed
     )
+    print(f"MODEL: {args.model_name}")
     print('Model loaded...')
 
     dataset = load_data(args.dataset_path)
