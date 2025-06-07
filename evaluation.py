@@ -123,6 +123,7 @@ def run_inference(args):
             torch_dtype="auto"
         )
         processor = AutoProcessor.from_pretrained(args.model_name_or_path)
+        model.eval()
       
     
     # Load VL model for Qwen2
@@ -133,9 +134,20 @@ def run_inference(args):
             torch_dtype="auto"
         )
         processor = AutoProcessor.from_pretrained(args.model_name_or_path)
+        model.eval()
     
     # Load other models
     else: 
+        from unsloth import FastVisionModel
+        model, tokenizer = FastVisionModel.from_pretrained(
+            model_name = args.model_name_or_path,
+            load_in_4bit = True if "4bit" in args.model_name_or_path else False,
+            dtype = None,  # Will auto-select based on GPU support
+            
+        )
+        processor = tokenizer
+        FastVisionModel.for_inference(model)
+        """
         if "4bit" in args.model_name_or_path: 
             from unsloth import FastVisionModel
             model, tokenizer = FastVisionModel.from_pretrained(
@@ -146,19 +158,21 @@ def run_inference(args):
                 dtype = None,  # Will auto-select based on GPU support
                 
             )
+            processor = tokenizer
+            FastVisionModel.for_inference(model)
         else:
             from transformers import AutoModelForCausalLM
             # Qwen2VLForConditionalGeneration
             # Qwen2_5_VLForConditionalGeneration
             # AutoModelForCausalLM
-            model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            model = AutoModelForCausalLM.from_pretrained(
                 args.model_name_or_path, device_map=device, torch_dtype="auto"
             )
-        processor = tokenizer
+            processor = AutoProcessor.from_pretrained(args.model_name_or_path)
+            model.eval()
+        """
+        
 
-
-
-    model.eval()
 
     if args.dataset_name:
         dataset = load_dataset(args.dataset_name, name=args.config_name, split=args.split)
@@ -199,7 +213,7 @@ def run_inference(args):
             "answer": a
         })
 
-    output_path = f"./{task}_{args.prompt_style}.json"
+    output_path = f"./preds/{args.model_name_or_path}.json"
     with open(output_path, "w") as f:
         json.dump(results, f, indent=2)
 
