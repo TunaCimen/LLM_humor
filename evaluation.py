@@ -122,6 +122,7 @@ def run_inference(args):
             device_map=device,
             torch_dtype="auto"
         )
+        processor = AutoProcessor.from_pretrained(args.model_name_or_path)
       
     
     # Load VL model for Qwen2
@@ -131,15 +132,32 @@ def run_inference(args):
             device_map=device,
             torch_dtype="auto"
         )
+        processor = AutoProcessor.from_pretrained(args.model_name_or_path)
     
     # Load other models
     else: 
-        from transformers import AutoModelForCausalLM
-        model = Qwen2VLForConditionalGeneration.from_pretrained(
-            args.model_name_or_path, device_map=device, torch_dtype="auto"
-        )
+        if "4bit" in args.model_name_or_path: 
+            from unsloth import FastVisionModel
+            model, tokenizer = FastVisionModel.from_pretrained(
+                model_name = args.model_name_or_path[5:],
+                # This tells Unsloth where your fine-tuned LoRA weights are:
+                adapter_name = args.model_name_or_path,
+                load_in_4bit = True if "4bit" in args.model_name_or_path else False,
+                dtype = None,  # Will auto-select based on GPU support
+                
+            )
+        else:
+            from transformers import AutoModelForCausalLM
+            # Qwen2VLForConditionalGeneration
+            # Qwen2_5_VLForConditionalGeneration
+            # AutoModelForCausalLM
+            model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+                args.model_name_or_path, device_map=device, torch_dtype="auto"
+            )
+        processor = tokenizer
 
-    processor = AutoProcessor.from_pretrained(args.model_name_or_path)
+
+
     model.eval()
 
     if args.dataset_name:
@@ -168,7 +186,7 @@ def run_inference(args):
         image_inputs, video_inputs = process_vision_info(messages)
 
         inputs = processor(text=[text_input], images=image_inputs if image_inputs else None, videos=video_inputs if video_inputs else None, return_tensors="pt").to(device)
-        generated_ids = model.generate(**inputs, max_new_tokens=800)
+        generated_ids = model.generate(**inputs, max_new_tokens=800, do_sample=True, temperature=0.7, top_p=0.9, repetition_penalty=1.2)
         generated_ids_trimmed = [out[len(inp):] for inp, out in zip(inputs.input_ids, generated_ids)]
         prediction = processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True)[0].strip()
         r, a = extract_reasoning_and_answer(prediction)
