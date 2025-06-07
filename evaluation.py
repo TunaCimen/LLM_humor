@@ -186,7 +186,7 @@ def run_inference(args):
         image_inputs, video_inputs = process_vision_info(messages)
 
         inputs = processor(text=[text_input], images=image_inputs if image_inputs else None, videos=video_inputs if video_inputs else None, return_tensors="pt").to(device)
-        generated_ids = model.generate(**inputs, max_new_tokens=800, do_sample=True, temperature=0.7, top_p=0.9, repetition_penalty=1.2)
+        generated_ids = model.generate(**inputs, max_new_tokens=800, do_sample=False, repetition_penalty=1.2)
         generated_ids_trimmed = [out[len(inp):] for inp, out in zip(inputs.input_ids, generated_ids)]
         prediction = processor.batch_decode(generated_ids_trimmed, skip_special_tokens=True)[0].strip()
         r, a = extract_reasoning_and_answer(prediction)
