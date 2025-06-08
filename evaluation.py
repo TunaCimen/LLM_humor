@@ -212,16 +212,26 @@ def run_inference(args):
             "prediction": prediction,
             "answer": a
         })
-
-    output_path = f"./preds/{args.model_name_or_path}/{task}.json"
-    with open(output_path, "w") as f:
-        json.dump(results, f, indent=2)
-
-    print(f"Saved predictions to {output_path}")
-
+        
     acc, nones = calculate_accuracy_alternative(results)
     print(f"Accuracy for ranking: {acc}")
     print(f"None for ranking / total: {nones}, {len(results)}")
+    
+    
+    try: 
+        with open(args.output_path, "w") as f:
+            json.dump(results, f, indent=2)
+
+        print(f"Saved predictions to {args.output_path}")
+    
+    except Exception as e:
+        print(f"Error saving to {args.output_path}: {e}")
+        fallback = "default.json"
+        with open(fallback, "w") as f:
+            json.dump(results, f, indent=2)
+        print(f"Saved results to fallback file: {fallback}")
+
+    
 
 
 def calculate_accuracy(data_task):
@@ -274,10 +284,11 @@ if __name__ == "__main__":
     group = parser.add_mutually_exclusive_group(required=True)
     group.add_argument("--dataset_name", type=str, help="HuggingFace dataset name")
     group.add_argument("--dataset_path", type=str, help="Path to dataset JSON file")
-    parser.add_argument("--config_name", type=str, required=False, help="Config name for multi-config datasets")
+    parser.add_argument("--config_name", type=str, default="ranking_from_pixels", required=False, help="Config name for multi-config datasets")
     parser.add_argument("--split", type=str, default="test", help="Dataset split (train, test, validation)")
     parser.add_argument("--task_type", type=str, choices=["matching", "ranking", "explanation_from_pixels"], default="ranking", help="Optional task filter")
     parser.add_argument("--prompt_style", type=str, default="alternative", help="Prompt style to use")
+    parser.add_argument("--output_path", type=str, required=True, help="Output path")
     args = parser.parse_args()
 
     run_inference(args)
