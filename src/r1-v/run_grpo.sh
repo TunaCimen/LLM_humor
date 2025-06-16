@@ -21,7 +21,7 @@ torchrun --nproc_per_node="2" \
     --node_rank="0" \
     --master_addr="127.0.0.1" \
     --master_port="12345" \
-    grpo_humor.py \
+    grpo.py \
     --output_dir ./outputs_hum_tmp_more_epochs1 \
     --model_name_or_path "Qwen/Qwen2.5-VL-7B-Instruct" \
     --dataset_name mervehmv/my-subset-grpo1 \
