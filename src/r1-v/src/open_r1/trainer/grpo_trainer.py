@@ -37,6 +37,7 @@ from transformers import (
     Trainer,
     TrainerCallback,
     is_wandb_available,
+    BitsAndBytesConfig,
 )
 from transformers.integrations.deepspeed import is_deepspeed_zero3_enabled
 from transformers.utils import is_peft_available
@@ -50,7 +51,7 @@ import copy
 
 
 if is_peft_available():
-    from peft import PeftConfig, get_peft_model
+    from peft import PeftConfig, get_peft_model, LoraConfig, PeftModel
 
 if is_wandb_available():
     import wandb
@@ -158,7 +159,7 @@ class Qwen2VLGRPOTrainer(Trainer):
         peft_config: Optional["PeftConfig"] = None,
         max_pixels: Optional[int] = 12845056,
         min_pixels: Optional[int] = 3136,
-        attn_implementation: str = "flash_attention_2",
+        attn_implementation: str = "torch",
     ):
         # Args
         if args is None:
@@ -184,16 +185,32 @@ class Qwen2VLGRPOTrainer(Trainer):
                     f"a `torch.dtype` (e.g., 'float32'), but got {torch_dtype}."
                 )
             # Disable caching if gradient checkpointing is enabled (not supported)
-            model_init_kwargs["use_cache"] = (
-                False if args.gradient_checkpointing else model_init_kwargs.get("use_cache")
-            )
+            
             if "Qwen2-VL" in model_id:
-                model = Qwen2VLForConditionalGeneration.from_pretrained(model, **model_init_kwargs)
+                model_init_kwargs["use_cache"] = (
+                    False if args.gradient_checkpointing else model_init_kwargs.get("use_cache")
+                )
+                model = Qwen2VLForConditionalGeneration.from_pretrained(model, **model_init_kwargs, torch_dtype=torch_dtype)
+                
+
             elif "Qwen2.5-VL" in model_id:
+                model_init_kwargs["use_cache"] = (
+                    False if args.gradient_checkpointing else model_init_kwargs.get("use_cache")
+                )
+                """
+                bnb_config = BitsAndBytesConfig(
+                    load_in_4bit=True,                    # turn on 4-bit loading
+                    bnb_4bit_quant_type="nf4",            # or "fp4", "nf4" gives better accuracy/size tradeoff
+                    bnb_4bit_compute_dtype=torch.float16, # compute in fp16 to preserve dynamic range
+                    bnb_4bit_use_double_quant=True,       # extra “double quant” step reduces quantization error
+                )
+                """
                 model = Qwen2_5_VLForConditionalGeneration.from_pretrained(model, **model_init_kwargs)
+   
             elif "Aria" in model_id:
                 model_init_kwargs.pop("use_cache")
                 model = AriaForConditionalGeneration.from_pretrained(model, **model_init_kwargs)
+
             else:
                 model = AutoModelForCausalLM.from_pretrained(model, **model_init_kwargs)
         else:
@@ -207,16 +224,31 @@ class Qwen2VLGRPOTrainer(Trainer):
         if peft_config is not None:
             model = get_peft_model(model, peft_config)
 
+        if hasattr(model, "enable_input_require_grads"):
+            model.enable_input_require_grads()
+        else:
+            def make_inputs_require_grad(module, input, output):
+                output.requires_grad_(True)
+
+            model.get_input_embeddings().register_forward_hook(make_inputs_require_grad)
+            
+          
+        model.train()
         # Reference model
-        if is_deepspeed_zero3_enabled():
+        
+        if peft_config is not None:
+            self.ref_model = None
+
+        elif is_deepspeed_zero3_enabled():
             if "Qwen2-VL" in model_id:
-                self.ref_model = Qwen2VLForConditionalGeneration.from_pretrained(model_id, **model_init_kwargs)
+                self.ref_model = Qwen2VLForConditionalGeneration.from_pretrained(model_id, **model_init_kwargs, torch_dtype=torch_dtype)
             elif "Qwen2.5-VL" in model_id:
                 self.ref_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(model_id, **model_init_kwargs)
             elif "Aria" in model_id:
                 self.ref_model = AriaForConditionalGeneration.from_pretrained(model_id, **model_init_kwargs)
             else:
                 self.ref_model = AutoModelForCausalLM.from_pretrained(model_id, **model_init_kwargs)
+
         elif peft_config is None:
             # If PEFT configuration is not provided, create a reference model based on the initial model.
             self.ref_model = create_reference_model(model)
@@ -228,7 +260,12 @@ class Qwen2VLGRPOTrainer(Trainer):
         # Processing class
         if processing_class is None:
             if "Qwen2-VL" in model_id or "Qwen2.5-VL" in model_id or "Aria" in model_id:
-                processing_class = AutoProcessor.from_pretrained(model_id)
+                print("LOAD THE MODEL\n")
+                processing_class = AutoProcessor.from_pretrained(model_id, padding_side="left")
+                processing_class.image_processor.padding = True
+                processing_class.tokenizer.padding_side = "left"
+                processing_class.return_tensors = "pt"
+                print(f"{processing_class.tokenizer.padding_side}\n")
                 pad_token_id = processing_class.tokenizer.pad_token_id
                 processing_class.pad_token_id = pad_token_id
                 processing_class.eos_token_id = processing_class.tokenizer.eos_token_id
@@ -261,7 +298,9 @@ class Qwen2VLGRPOTrainer(Trainer):
         for i, (reward_processing_class, reward_func) in enumerate(zip(reward_processing_classes, reward_funcs)):
             if isinstance(reward_func, PreTrainedModel):
                 if reward_processing_class is None:
-                    reward_processing_class = AutoTokenizer.from_pretrained(reward_func.config._name_or_path)
+                    reward_processing_class = AutoTokenizer.from_pretrained(reward_func.config._name_or_path, padding_side="left")
+                    print(f"{processing_class.tokenizer.padding_side}\n")
+                    processing_class.tokenizer.padding_side = "left"
                 if reward_processing_class.pad_token_id is None:
                     reward_processing_class.pad_token = reward_processing_class.eos_token
                 # The reward model computes the reward for the latest non-padded token in the input sequence.
@@ -308,6 +347,8 @@ class Qwen2VLGRPOTrainer(Trainer):
             callbacks=callbacks,
             optimizers=optimizers,
         )
+        
+
 
         # Gradient accumulation requires scaled loss. Normally, loss scaling in the parent class depends on whether the
         # model accepts loss-related kwargs. Since we compute our own loss, this check is irrelevant. We set
@@ -336,6 +377,7 @@ class Qwen2VLGRPOTrainer(Trainer):
     # Get the per-token log probabilities for the completions for the model and the reference model
     def _get_per_token_logps(self, model, input_ids, attention_mask, pixel_values, image_grid_thw):
         logits = model(input_ids, attention_mask=attention_mask, pixel_values=pixel_values, image_grid_thw=image_grid_thw).logits  # (B, L, V)
+
         logits = logits[:, :-1, :]  # (B, L-1, V), exclude the last logit: it corresponds to the next token pred
         input_ids = input_ids[:, 1:]  # (B, L-1), exclude the first input ID since we don't have logits for it
         # Compute the log probabilities for the input tokens. Use a loop to reduce memory peak.
@@ -359,11 +401,15 @@ class Qwen2VLGRPOTrainer(Trainer):
         prompts = [x["prompt"] for x in inputs]
         prompts_text = [maybe_apply_chat_template(example, self.processing_class)["prompt"] for example in inputs]
         images = [x["image"] for x in inputs]
+        
+        assert self.processing_class.tokenizer.padding_side == "left", "Tokenization will fail due to right-padding!"
+        
+    
         prompt_inputs = self.processing_class(
             text=prompts_text,
             images=images,
-            return_tensors="pt",
             padding=True,
+            return_tensors="pt",
             padding_side="left",
             add_special_tokens=False,
         )
@@ -372,6 +418,7 @@ class Qwen2VLGRPOTrainer(Trainer):
         prompt_ids, prompt_mask = prompt_inputs["input_ids"], prompt_inputs["attention_mask"]
         pixel_values = prompt_inputs["pixel_values"]
         image_grid_thw = prompt_inputs["image_grid_thw"]
+        
 
         
         if self.max_prompt_length is not None:
@@ -404,7 +451,7 @@ class Qwen2VLGRPOTrainer(Trainer):
         # Get rid of the prompt (-1 because of the shift done in get_per_token_logps)
         per_token_logps = per_token_logps[:, prompt_length - 1 :]
 
-        with torch.inference_mode():
+        with torch.no_grad(): #torch.inference_mode():
             if self.ref_model is not None:
                 ref_per_token_logps = self._get_per_token_logps(self.ref_model, prompt_completion_ids, attention_mask, pixel_values, image_grid_thw)
             else:
@@ -485,6 +532,8 @@ class Qwen2VLGRPOTrainer(Trainer):
         mean_kl = ((per_token_kl * completion_mask).sum(dim=1) / completion_mask.sum(dim=1)).mean()
         self._metrics["kl"].append(self.accelerator.gather_for_metrics(mean_kl).mean().item())
 
+        raw = loss.item()
+        print(f"[compute_loss] raw loss = {raw:.6f}", flush=True)
         return loss
 
     def log(self, logs: dict[str, float], start_time: Optional[float] = None) -> None:
