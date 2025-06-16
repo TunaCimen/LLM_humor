@@ -11,7 +11,7 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+import hf_xet
 import os
 import re
 from datetime import datetime
@@ -22,8 +22,9 @@ from datasets import load_dataset, load_from_disk
 from transformers import Qwen2VLForConditionalGeneration
 
 from math_verify import parse, verify
-from open_r1.trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer, Qwen2VLGRPOVLLMTrainerModified
+from trainer import Qwen2VLGRPOTrainer, Qwen2VLGRPOVLLMTrainer, Qwen2VLGRPOVLLMTrainerModified
 from trl import GRPOConfig, GRPOTrainer, ModelConfig, ScriptArguments, TrlParser, get_peft_config
+from peft import LoraConfig
 
 
 @dataclass
@@ -50,54 +51,76 @@ class GRPOScriptArguments(ScriptArguments):
     )
 
 
-def accuracy_reward(completions, solution, **kwargs):
+def accuracy_reward(completions, solution, contest_number, **kwargs):
     """Reward function that checks if the completion is correct using either symbolic verification or exact string matching."""
     contents = [completion[0]["content"] for completion in completions]
     rewards = []
     current_time = datetime.now().strftime("%d-%H-%M-%S-%f")
-    for content, sol in zip(contents, solution):
+    for content, sol, contest in zip(contents, solution, contest_number):
+        parts = content.split("assistant", 1)
+        if len(parts) == 2:
+            content = parts[1]
+        else:
+            # fallback if "assistant" isn’t found
+            content = parts[0]
         reward = 0.0
-        # Try symbolic verification first
-        try:
-            answer = parse(content)
-            if float(verify(answer, parse(sol))) > 0:
-                reward = 1.0
-        except Exception:
-            pass  # Continue to next verification method if this fails
-
-        # If symbolic verification failed, try string matching
+        student_answer = ""
         if reward == 0.0:
             try:
                 # Extract answer from solution if it has think/answer tags
-                sol_match = re.search(r'<answer>(.*?)</answer>', sol)
-                ground_truth = sol_match.group(1).strip() if sol_match else sol.strip()
+                #sol_match = re.search(r'<answer>(.*?)</answer>', sol)
+                #ground_truth = sol_match.group(1).strip() if sol_match else sol.strip()
+                ground_truth = sol.strip()
                 
                 # Extract answer from content if it has think/answer tags
-                content_match = re.search(r'<answer>(.*?)</answer>', content)
+                #content_match = re.search(r'<answer>(.*?)</answer>', content)
+                content_match = re.search(
+                    r"<answer>\s*([AB])\s*</answer>",
+                    content,
+                    flags=re.DOTALL,  # DOTALL makes `.` match `\n`
+                )
                 student_answer = content_match.group(1).strip() if content_match else content.strip()
-                
+                #print(f"Predicted: {student_answer}, Ground Truth: {ground_truth}")
                 # Compare the extracted answers
                 if student_answer == ground_truth:
                     reward = 1.0
             except Exception:
                 pass  # Keep reward as 0.0 if both methods fail
+            
+            if os.getenv("DEBUG_MODE") == "true":
+                log_path = os.getenv("LOG_PATH")
+                # local_rank = int(os.getenv("LOCAL_RANK", 0))
                 
+                with open(log_path, "a") as f:
+                    f.write(f"------------- {current_time} Accuracy reward: {reward} -------------\n")
+                    f.write(f"Contest number: {contest}\n")
+                    f.write(f"Content: {content}\n")
+                    f.write(f"Answer (ground truth): {sol}\n")
+                    f.write(f"Predicted: {student_answer}, Ground Truth: {ground_truth}")
+                    
         rewards.append(reward)
-        if os.getenv("DEBUG_MODE") == "true":
-            log_path = os.getenv("LOG_PATH")
-            # local_rank = int(os.getenv("LOCAL_RANK", 0))
-            with open(log_path, "a") as f:
-                f.write(f"------------- {current_time} Accuracy reward: {reward} -------------\n")
-                f.write(f"Content: {content}\n")
-                f.write(f"Solution: {sol}\n")
+        
+    
     return rewards
 
 
 def format_reward(completions, **kwargs):
     """Reward function that checks if the completion has a specific format."""
-    pattern = r"<think>.*?</think>\s*<answer>.*?</answer>"
+    #pattern = r"<think>.*?</think>\s*<answer>.*?</answer>"
+    pattern = r"^<think>.*?</think>\s*<answer>.*?</answer>$"
+
+    matches = []
     completion_contents = [completion[0]["content"] for completion in completions]
-    matches = [re.fullmatch(pattern, content, re.DOTALL) for content in completion_contents]
+    for content in completion_contents:
+        parts = content.split("assistant", 1)
+        if len(parts) == 2:
+            content = parts[1].strip()
+        else:
+            # fallback if "assistant" isn’t found
+            content = parts[0].strip()
+
+        matches.append(re.fullmatch(pattern, content, re.DOTALL))
+    #matches = [re.fullmatch(pattern, content, re.DOTALL) for content in completion_contents]
     return [1.0 if match else 0.0 for match in matches]
 
 
@@ -120,6 +143,9 @@ def main(script_args, training_args, model_args):
 
     # Load the dataset
     dataset = load_dataset(script_args.dataset_name, name=script_args.dataset_config)
+    dataset = dataset.rename_column("label", "solution")
+    dataset = dataset.shuffle(seed=42)
+
 
 
     # Format into conversation
@@ -131,30 +157,35 @@ def main(script_args, training_args, model_args):
             ],
         }
 
-    # def make_conversation_image(example):
-    #     return {
-    #         "prompt": [
-    #             {"role": "system", "content": [{"type": "text", "text": SYSTEM_PROMPT}]},
-    #             {
-    #                 "role": "user",
-    #                 "content": [
-    #                     {"type": "image"},
-    #                     {"type": "text", "text": example["problem"]},
-    #                 ],
-    #             },
-    #         ],
-    #     }
 
-    QUESTION_TEMPLATE = "{Question}  Output the thinking process in <think> </think> and final answer (number) in <answer> </answer> tags."
+    QUESTION_TEMPLATE = "{Question}  Output the thinking process in <think> </think> and final answer (A or B) in <answer> </answer> tags."
 
     def make_conversation_image(example):
+        problem = (
+                f"The image is a cartoon from the New Yorker Cartoon Caption Contest.\n",
+                f"I will provide you with two captions; one of them is deemed funnier by people.",
+                f"Which of the following captions is funnier: A: {example['caption_choices'][0]} B: {example['caption_choices'][1]}?\n",
+                f"A) {example['caption_choices'][0]}\n",
+                f"B) {example['caption_choices'][1]}\n\n",
+            )
+        
+        problem_ = (
+                f"The image is a cartoon from the New Yorker Cartoon Caption Contest.\n",
+                f"I will provide you with two captions; one of them is deemed funnier by people.",
+                f"Think step by step:\n",
+                f"1- Understand the visual setting and what makes it strange or surprising.\n",
+                f"2- Identify who is most likely speaking in the cartoon.\n",
+                f"3- Come up with a plausible story or dynamic behind the scene.\n",
+                f"4- Analyze the humor, metaphors, and wordplay in the given captions.\n",
+                f"Finally, decide which caption is funnier, and explain your reasoning.\n",
+            )
         return {
             "prompt": [
                 {
                     "role": "user",
                     "content": [
                         {"type": "image"},
-                        {"type": "text", "text": QUESTION_TEMPLATE.format(Question=example["problem"])},
+                        {"type": "text", "text": QUESTION_TEMPLATE.format(Question=problem)},
                     ],
                 },
             ],
@@ -175,6 +206,13 @@ def main(script_args, training_args, model_args):
     trainer_cls = Qwen2VLGRPOTrainer if not training_args.use_vllm else Qwen2VLGRPOVLLMTrainerModified
     print("using: ", trainer_cls)
 
+    lora_cfg = LoraConfig(
+        r=8,
+        lora_alpha=16,
+        target_modules=["q_proj", "v_proj"],  # Qwen2VL’s projection layers
+        lora_dropout=0.1,
+        bias="none",
+    )  
     # Initialize the GRPO trainer
     trainer = trainer_cls(
         model=model_args.model_name_or_path,
@@ -182,7 +220,7 @@ def main(script_args, training_args, model_args):
         args=training_args,
         train_dataset=dataset[script_args.dataset_train_split],
         eval_dataset=dataset[script_args.dataset_test_split] if training_args.eval_strategy != "no" else None,
-        peft_config=get_peft_config(model_args),
+        peft_config=lora_cfg,
         attn_implementation=model_args.attn_implementation,
         max_pixels=script_args.max_pixels,
         min_pixels=script_args.min_pixels,
