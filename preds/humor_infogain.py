@@ -8,7 +8,7 @@ import metrics
 from datasets import load_dataset
 
 model = "gpt-4o-mini"
-api_key = "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"
+api_key = "apikey"
 client = OpenAI(api_key=api_key)
 def run_llm(prompt):
     response = client.responses.create(
