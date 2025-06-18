@@ -1,0 +1,3593 @@
+[
+  {
+    "contest_number": 68,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 317,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 634,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 18,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 39,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 64,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 63,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 643,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 260,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 410,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 389,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 649,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 649,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 468,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 506,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 187,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 216,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 134,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 21,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 66,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 439,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 455,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 429,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 116,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 633,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 662,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 87,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 1,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 135,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 506,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 632,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 1,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 45,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 271,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 397,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 63,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 216,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 174,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 123,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 84,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 621,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 328,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 453,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 135,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 45,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 502,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 366,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 655,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 73,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 397,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 222,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 496,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 9,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 342,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 95,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 74,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 468,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 116,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 73,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 439,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 87,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 169,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 84,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 455,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 63,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 403,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 147,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 84,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 196,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 202,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 420,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 652,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 403,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 617,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 204,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 163,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 195,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 603,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 452,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 56,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 496,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 433,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 132,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 634,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 262,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 119,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 154,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 119,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 506,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 107,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 200,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 21,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 317,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 603,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 435,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 655,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 433,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 45,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 453,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 73,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 1,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 238,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 640,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 455,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 617,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 195,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 649,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 239,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 26,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 26,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 634,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 39,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 94,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 14,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 248,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 633,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 424,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 64,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 458,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 387,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 260,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 429,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 98,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 262,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 76,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 174,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 133,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 98,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 368,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 132,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 368,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 200,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 342,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 424,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 448,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 309,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 652,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 632,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 410,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 502,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 188,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 317,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 460,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 496,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 18,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 99,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 323,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 187,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 149,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 126,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 621,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 74,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 14,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 238,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 460,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 239,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 76,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 69,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 188,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 271,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 38,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 615,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 147,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 68,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 154,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 640,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 502,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 271,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 163,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 433,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 119,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 410,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 147,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 76,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 222,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 260,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 662,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 408,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 95,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 309,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 309,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 468,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 149,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 38,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 615,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 123,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 408,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 389,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 202,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 188,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 66,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 662,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 435,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 9,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 200,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 133,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 26,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 21,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 640,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 448,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 38,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 652,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 366,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 52,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 195,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 604,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 87,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 74,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 387,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 149,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 174,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 204,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 56,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 420,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 77,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 452,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 9,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 107,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 68,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 95,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 134,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 323,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 429,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 216,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 77,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 52,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 615,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 633,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 196,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 69,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 460,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 135,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 435,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 222,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 99,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 387,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 604,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 366,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 248,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 107,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 52,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 458,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 408,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 77,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 39,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 655,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 163,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 154,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 69,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 632,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 238,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 169,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 448,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 56,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 368,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 471,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 428,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 66,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 403,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 471,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 123,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 248,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 18,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 196,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 453,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 126,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 328,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 420,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 424,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 94,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 116,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 98,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 452,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 14,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 94,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 439,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 204,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 604,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 389,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 64,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 621,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 471,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 132,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 617,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 328,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 262,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 99,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 643,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 187,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 202,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 342,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 134,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 428,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 323,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 458,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 643,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 397,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 169,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 428,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 603,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 239,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 126,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 133,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  }
+]

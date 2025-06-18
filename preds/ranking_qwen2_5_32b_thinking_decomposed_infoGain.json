@@ -1,0 +1,593 @@
+[
+  {
+    "contest_number": 68,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        60.0,
+        70.0,
+        74.5,
+        70.0,
+        72.5,
+        63.75,
+        66.0,
+        66.0
+      ],
+      "Mean": 60.34375,
+      "Info_gain": -0.75
+    }
+  },
+  {
+    "contest_number": 694,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        52.0,
+        60.0,
+        63.75,
+        61.75,
+        61.75,
+        58.0
+      ],
+      "Mean": 50.875,
+      "Info_gain": -1.0
+    }
+  },
+  {
+    "contest_number": 317,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        35.75,
+        40.5,
+        40.5,
+        40.5,
+        42.5,
+        43.75,
+        43.25
+      ],
+      "Mean": 35.857142857142854,
+      "Info_gain": -1.0714285714285714
+    }
+  },
+  {
+    "contest_number": 18,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        58.0,
+        61.75,
+        66.0,
+        66.0,
+        63.75,
+        63.75,
+        61.75,
+        63.75
+      ],
+      "Mean": 55.84375,
+      "Info_gain": -0.71875
+    }
+  },
+  {
+    "contest_number": 64,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        74.5,
+        77.0,
+        77.0,
+        72.5,
+        70.0,
+        63.75
+      ],
+      "Mean": 60.041666666666664,
+      "Info_gain": 1.7916666666666667
+    }
+  },
+  {
+    "contest_number": 744,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        58.0,
+        61.75,
+        63.75,
+        66.0,
+        58.0
+      ],
+      "Mean": 49.9,
+      "Info_gain": 0.0
+    }
+  },
+  {
+    "contest_number": 68,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        60.0,
+        70.0,
+        74.5,
+        70.0,
+        72.5,
+        63.75,
+        66.0,
+        66.0
+      ],
+      "Mean": 60.34375,
+      "Info_gain": -0.75
+    }
+  },
+  {
+    "contest_number": 694,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        54.5,
+        63.75,
+        68.0,
+        66.0,
+        66.0,
+        61.75
+      ],
+      "Mean": 54.25,
+      "Info_gain": -1.2083333333333333
+    }
+  },
+  {
+    "contest_number": 317,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        35.75,
+        40.5,
+        40.5,
+        40.5,
+        42.5,
+        43.75,
+        43.25
+      ],
+      "Mean": 35.857142857142854,
+      "Info_gain": -1.0714285714285714
+    }
+  },
+  {
+    "contest_number": 18,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        51.25,
+        56.25,
+        58.0,
+        60.0,
+        56.25,
+        53.75,
+        53.75,
+        54.5
+      ],
+      "Mean": 49.0625,
+      "Info_gain": -0.40625
+    }
+  },
+  {
+    "contest_number": 64,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        66.0,
+        68.0,
+        66.0,
+        63.75,
+        61.75,
+        56.25
+      ],
+      "Mean": 52.625,
+      "Info_gain": 1.625
+    }
+  },
+  {
+    "contest_number": 744,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        49.75,
+        53.75,
+        53.75,
+        54.5,
+        49.75
+      ],
+      "Mean": 42.35,
+      "Info_gain": 0.0
+    }
+  },
+  {
+    "contest_number": 260,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        63.75,
+        66.0,
+        68.0,
+        56.25,
+        53.0,
+        51.25,
+        43.25,
+        44.5,
+        41.75
+      ],
+      "Mean": 47.111111111111114,
+      "Info_gain": 2.4444444444444446
+    }
+  },
+  {
+    "contest_number": 676,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        84.5,
+        84.5,
+        77.0,
+        79.5,
+        79.5,
+        77.0
+      ],
+      "Mean": 66.25,
+      "Info_gain": 1.25
+    }
+  },
+  {
+    "contest_number": 389,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        79.5,
+        90.0,
+        90.0,
+        82.0,
+        84.5,
+        84.5,
+        90.0
+      ],
+      "Mean": 74.42857142857143,
+      "Info_gain": -1.5
+    }
+  },
+  {
+    "contest_number": 666,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        99.0,
+        115.5,
+        127.0,
+        105.0,
+        102.0,
+        96.0
+      ],
+      "Mean": 90.91666666666667,
+      "Info_gain": 0.5
+    }
+  },
+  {
+    "contest_number": 649,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        36.25,
+        40.0,
+        40.5,
+        41.25,
+        39.25,
+        37.5,
+        38.0,
+        37.5,
+        37.5
+      ],
+      "Mean": 34.611111111111114,
+      "Info_gain": -0.1388888888888889
+    }
+  },
+  {
+    "contest_number": 216,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        58.0,
+        60.0,
+        61.75,
+        56.25,
+        54.5,
+        50.5,
+        49.0,
+        49.0,
+        46.0
+      ],
+      "Mean": 47.44444444444444,
+      "Info_gain": 1.3333333333333333
+    }
+  },
+  {
+    "contest_number": 710,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        43.75,
+        53.75,
+        54.5,
+        53.75,
+        50.5,
+        47.5,
+        45.25,
+        45.25,
+        47.5,
+        48.25,
+        47.5,
+        47.5
+      ],
+      "Mean": 45.104166666666664,
+      "Info_gain": -0.3125
+    }
+  },
+  {
+    "contest_number": 520,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        54.5,
+        58.0,
+        60.0,
+        58.0,
+        56.25,
+        56.25,
+        54.5
+      ],
+      "Mean": 49.0,
+      "Info_gain": 0.0
+    }
+  },
+  {
+    "contest_number": 134,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        61.75,
+        61.75,
+        61.75,
+        60.0,
+        60.0,
+        58.0,
+        54.5,
+        50.5,
+        49.75
+      ],
+      "Mean": 50.69444444444444,
+      "Info_gain": 1.3333333333333333
+    }
+  },
+  {
+    "contest_number": 669,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        70.0,
+        77.0,
+        72.5,
+        70.0,
+        72.5,
+        72.5,
+        70.0,
+        66.0,
+        61.75
+      ],
+      "Mean": 62.47222222222222,
+      "Info_gain": 0.9166666666666666
+    }
+  },
+  {
+    "contest_number": 21,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        68.0,
+        70.0,
+        82.0,
+        77.0,
+        77.0,
+        77.0,
+        72.5,
+        70.0,
+        68.0,
+        66.0,
+        70.0
+      ],
+      "Mean": 66.31818181818181,
+      "Info_gain": -0.18181818181818182
+    }
+  },
+  {
+    "contest_number": 66,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        38.75,
+        40.5,
+        42.5,
+        41.25,
+        40.0,
+        39.25,
+        40.5,
+        38.0
+      ],
+      "Mean": 35.25,
+      "Info_gain": 0.09375
+    }
+  },
+  {
+    "contest_number": 439,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        66.0,
+        70.0,
+        70.0,
+        72.5
+      ],
+      "Mean": 53.125,
+      "Info_gain": -1.625
+    }
+  },
+  {
+    "contest_number": 664,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        43.75,
+        48.25,
+        47.5,
+        45.25,
+        40.0,
+        38.75,
+        35.75
+      ],
+      "Mean": 36.5,
+      "Info_gain": 1.1428571428571428
+    }
+  },
+  {
+    "contest_number": 666,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        79.5,
+        90.0,
+        96.0,
+        90.0,
+        96.0,
+        93.0,
+        90.0,
+        90.0,
+        84.5,
+        79.5
+      ],
+      "Mean": 80.9,
+      "Info_gain": 0.0
+    }
+  },
+  {
+    "contest_number": 510,
+    "answer": "A",
+    "ground_truth": "A",
+    "information_gain_scores": {
+      "Steps": [
+        63.75,
+        70.0,
+        72.5,
+        70.0,
+        70.0,
+        72.5,
+        70.0,
+        70.0
+      ],
+      "Mean": 61.875,
+      "Info_gain": -0.78125
+    }
+  },
+  {
+    "contest_number": 621,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        70.0,
+        74.5,
+        74.5,
+        77.0,
+        72.5,
+        70.0
+      ],
+      "Mean": 61.416666666666664,
+      "Info_gain": 0.0
+    }
+  },
+  {
+    "contest_number": 684,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        50.5,
+        56.25,
+        54.5,
+        56.25,
+        54.5,
+        54.5
+      ],
+      "Mean": 46.0,
+      "Info_gain": -0.6666666666666666
+    }
+  },
+  {
+    "contest_number": 578,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        66.0,
+        77.0,
+        79.5,
+        74.5,
+        72.5,
+        70.0,
+        68.0,
+        66.0,
+        63.75
+      ],
+      "Mean": 63.47222222222222,
+      "Info_gain": 0.25
+    }
+  },
+  {
+    "contest_number": 744,
+    "answer": "B",
+    "ground_truth": "B",
+    "information_gain_scores": {
+      "Steps": [
+        74.5,
+        93.0,
+        96.0,
+        84.5,
+        79.5,
+        72.5,
+        68.0
+      ],
+      "Mean": 70.5,
+      "Info_gain": 0.9285714285714286
+    }
+  }
+]
