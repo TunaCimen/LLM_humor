@@ -1,0 +1,3593 @@
+[
+  {
+    "contest_number": 68,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) It's like you're not even trying to shovel on beat.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 317,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 634,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) He offered us a franchise, but I think it's a pyramid scheme.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 18,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I don't make the laws of physics, sir. I just enforce them.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 39,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 64,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "Answer: B) During next week's session, we'll have you paint yourself into a corner.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 63,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 643,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Looks like you woke up on the wrong side of the cone.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 260,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 410,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I'm outta' here. Half the fun is watching 'em crash.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 389,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Stop, think about your prostate.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 649,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 649,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 468,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 506,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) You're doing physical book signings, and I'm the dinosaur.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Rabbits are one thing, but making entire juries disappear is unacceptable.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 187,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 216,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 134,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 21,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 66,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 439,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) They are a train wreck waiting to happen.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 455,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 429,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) He only plays when I’m on hold.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 116,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 633,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A) Sorry, kid, but this is the corporate ladder.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 662,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 87,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 1,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 135,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 506,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 632,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 1,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) So I sign here where it says \"Lessee?\"",
+    "answer": "None"
+  },
+  {
+    "contest_number": 45,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) We know you're guilty. Now we want to know how you did it.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 271,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 397,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 63,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 216,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 174,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 123,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 84,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 621,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 328,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 453,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) No one wears their cone like that anymore Dad",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "Answer: A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 135,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) It will be worth even more when he's extinct.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 45,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "**Answer:** B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 502,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 366,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 655,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "Answer: B) As anyone can see, my opponent's reasoning is completely circular.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 73,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 397,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I mean, there are closers... and there are CLOSERS.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 222,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 496,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 9,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) And how do you feel about how she feels about how he feels?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 342,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) The hairs on my chinney chin chin got caught in your damn escalator.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 95,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 74,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I thought Ferguson hated quicksand.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 468,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) You never said anything about return tolls.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 116,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Blasting off again, sir?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I've led a good life, but now it's time to meet my raker.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 73,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 439,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 87,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Carl and Larry had been playing Hide and Seek for twenty years. Finally, it was all over.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 169,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) You know you were breaking the sound barrier back there, don't you?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I didn't say I would help. I said I'd accompany you.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 84,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 455,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) He's in the control group.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 63,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 403,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "The correct answer is A) He took one Ontology class in undergrad, and now he's unbearable.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 147,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 84,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 196,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 202,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 420,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "Answer: B) The founding fathers were clear. You must win by two.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B)....and this was just day one of the new administration.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 652,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 403,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 617,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) After you use the restroom we rotate.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 204,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) We need to fire the exterminator!\n\nExplanation: The cartoon depicts a group of men in suits sitting around a table, with one of them being a mouse. The mouse is wearing a suit and tie, and appears to be part of the group. The caption \"We need to fire the exterminator\" is humorous because it implies that the mouse is the one causing problems, and the group is discussing how to get rid of it. This is a clever play on words, as the word \"exterminator\" typically refers to a person or company that specializes in eliminating pests, but in this case, the pest is a mouse that is already present in the room. The humor comes from the unexpected twist on the usual meaning of the word \"exterminator\".",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 163,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 195,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I guess it really did kill you to call.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 603,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 452,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Can you meet him halfway?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 56,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 496,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 433,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 132,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 634,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) No, thanks--you never know who goes into those things.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) You will obey my every whim. Oh, wait—you already do.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 262,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) He's the perfect associate for a monomaniac.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 119,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 154,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 119,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 506,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 107,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 200,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 21,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) The NRA rejected renewals from Blue States this year.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 317,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 603,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "**Answer:** A) We used to offer enlightenment. Then we discovered people really preferred brunch.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 435,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 655,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 433,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 45,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 453,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I usually charge for dance lessons.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 73,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 1,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Going up?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Oh THAT's why they call it that.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 238,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Rents in this building are astronomical.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 640,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) No, I said I was a rodent scholar.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 455,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 617,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 195,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Have you been out with Botticelli again?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) You know we could've had eggs for life, right?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 649,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 239,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 26,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Well, he was tired of playing second fiddle anyway.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 26,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 634,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A) I'll admit, the grill marks really could pass for hieroglyphs.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 39,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 94,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I guess membership does have its privileges.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I should have jumped from a higher floor.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 14,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 248,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 633,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) It's a metaphor kid. Middle management, upper management, and severance pay.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 424,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 64,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 458,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) How long have you been in your current position?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 387,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) We always are late to the party, aren't we?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 260,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) We don't discuss politics, religion, or gravity.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 429,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 98,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 262,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 76,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) White man, corner pocket.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 174,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 133,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 98,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 368,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 132,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 368,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Some folks will wear anything to get attention.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 200,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 342,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 424,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 448,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I found something serious under the hood.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 309,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 652,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 632,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 410,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I'll go see what's holding things up.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 502,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 188,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 317,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 460,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 496,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 18,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 99,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Thank God they're cartoon arrows.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 323,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 187,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "The correct answer is A) The mimes were right after all.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 149,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "Answer: B) When do we tell them we're fully insured?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 126,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I didn't say I would help. I said I'd accompany you.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 621,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 74,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "The correct answer is A) Must.... kill... dog.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 14,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 238,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 460,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) The doctor says they'll be gone in a few million years.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 239,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 76,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 69,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 188,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A) You really know how to clear a room, Gary.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 271,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 38,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 615,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) A Martin? No, I think it's a Gibson.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 147,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 68,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 154,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 682,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 640,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 502,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 271,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 163,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 433,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 119,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 410,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) It won't fall until we're not around to hear it.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I know that look, you're not going to let this go.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I really would love to help but my hands are tied!\n\nExplanation: The cartoon depicts a woman standing next to two people who are tied up in buckets. The woman is holding a glass of wine and appears to be socializing with them. The caption \"I really would love to help but my hands are tied!\" is a common idiomatic expression meaning that someone is unable to assist or participate in something due to circumstances beyond their control. In this context, the humor comes from the literal interpretation of the phrase, as the people in the buckets are actually tied up, making it impossible for them to help. This unexpected twist on the usual meaning of the phrase creates a humorous connection between the literal and figurative meanings.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 147,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I'd like to submit a writ of habeas porpoise.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 76,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 222,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 260,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 662,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 408,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Sounds like a bird....no, a plane!\n\nExplanation: The cartoon depicts Superman, a superhero known for flying, being examined by a doctor. The doctor's response, \"Sounds like a bird....no, a plane!\", is a play on words referencing Superman's ability to fly and the sound of a bird flying. This caption is humorous because it takes a common phrase associated with Superman and gives it a new meaning in the context of a medical examination.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 95,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) It was worse with the lion.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 309,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I guess we know who took their Prozac today.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 309,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Is it wise for the entire presidential administration to ride in one car?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 468,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) You live in a really quiet neighborhood...",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) If he farts I'm out of here.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "Answer: A) Hostile takeovers ain’t what they used to be.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 149,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 38,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 615,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 123,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 408,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I can't diagnose your rash like this but I'll play along.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 389,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 202,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 188,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 66,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 662,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 435,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Should we lock the doors?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 576,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 9,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 200,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 133,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 26,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I'm always afraid he will drop in unexpectedly.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 676,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) One day these dinosaurs will evolve into something smaller we can barbecue.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 21,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 640,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "Answer: A) I get fourteen miles per mouse.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) You should see how my owner wears his mask.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) He did my summer cave in Lascaux, too.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 448,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Oh well, we've survived worse.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 38,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) This is nothing. You should see her perform when she's in heat.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 652,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I wish we'd noticed that before eating Bob.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 366,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 52,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Mind the whale, dear.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 195,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 604,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 87,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Well, he can kiss his security deposit goodbye.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 699,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I could never pull that off.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 74,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A) HR says he was hired as a \"floater.\"",
+    "answer": "None"
+  },
+  {
+    "contest_number": 387,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I never met a bagman for the mob before.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 149,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 174,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 204,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 56,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) He went right from crawling to stand-up!\n\nExplanation: The cartoon depicts a baby in a crib with a microphone, and the caption \"He went right from crawling to stand-up!\" is a play on words, implying that the baby has transitioned from crawling to performing stand-up comedy. This caption is humorous because it takes a common phrase used to describe a person's career advancement and applies it to a baby's development, creating an unexpected and amusing connection.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 420,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 77,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "**Answer:** A) What I would give for a glass ceiling right about now...",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "Answer: A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 452,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) All in favor, say \"Arrrrg.\"",
+    "answer": "None"
+  },
+  {
+    "contest_number": 690,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 9,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Herbal supplements...why do you ask?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 107,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 68,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 95,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 134,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 323,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Shall we skip straight to dessert, then?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) They call it crown-sizing.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 758,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) I'm glad we spent all that time on choosing drapes.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 429,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 216,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 77,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 52,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 747,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Just be glad he's not wearing his kilt today.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 615,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 633,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 196,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 69,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 460,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 713,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 135,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 435,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I thought I told you to wait in the car.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 222,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 664,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 99,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 387,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 604,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 366,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 248,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 107,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "**Step 1: Analyze the context of the cartoon.**\n\nThe cartoon depicts a man sitting at a desk, looking at a woman who is writing on a chalkboard. The woman is standing in front of a blackboard with mathematical equations written on it.\n\n**Step 2: Determine the humor in each caption.**\n\nCaption A: The good news is, she refuses to fetch the morning paper.\n\nThis caption is humorous because it implies that the man is relieved that the woman is not doing something mundane and instead focusing on more important tasks, such as teaching him complex mathematical concepts.\n\nCaption B: Trust me, my lessons have way more real-world applications.\n\nThis caption is also humorous because it implies that the man is trying to convince the woman that her lessons are relevant and useful, despite the fact that they appear to be abstract and theoretical.\n\n**Step 3: Compare the humor of each caption.**\n\nBoth captions are humorous, but Caption A is more relatable and unexpected. It's a common experience for people to be relieved when someone else takes care of a mundane task, and the punchline is unexpected and silly.\n\n**Step 4: Choose the funnier caption.**\n\nBased on the analysis, Caption A is funnier because it's more relatable and unexpected.\n\n*Answer*: A) The good news is, she refuses to fetch the morning paper.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 52,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 751,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 684,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 458,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 408,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 77,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 39,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 575,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "Answer: A) Ever get that feeling you're being followed?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) You beamed him up. You feed him.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 744,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 655,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 553,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 163,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) No, I don't know what wine would complement a peanut butter and jelly sandwich.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 154,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 69,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 632,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 510,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 590,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 238,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 169,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 448,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) We really need change our hold music.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 56,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 368,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 731,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 471,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) The decoys don't seem to be working.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 428,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 66,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 403,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I have to ask, do you feel that you could be a danger to others?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 471,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 520,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 123,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 248,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 579,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 18,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 196,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 453,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 671,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 126,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Excuse me—which way is Marcel Duchamp's urinal?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 328,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 420,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 424,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 94,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 116,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 578,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 98,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Still limiting your horizons, eh, Foster?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) \"MEET??\". I heard \"EAT\".",
+    "answer": "None"
+  },
+  {
+    "contest_number": 452,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 14,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 672,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 94,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 439,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Actually I prefer the local bars.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 204,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 604,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) I know what you're thinking -- don't quit hunting and gathering.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 389,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 64,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 752,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 621,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 471,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 132,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 617,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 328,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) So much for a safe word.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 677,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) Look what I dragged in.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 710,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 694,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 761,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 568,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 262,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 99,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) Seriously, when are you going to stop hunting with the Vice President?",
+    "answer": "None"
+  },
+  {
+    "contest_number": 643,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 187,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 202,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 342,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 600,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 134,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 666,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 428,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 669,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) He can't walk yet, but he can definitely do stand-up",
+    "answer": "None"
+  },
+  {
+    "contest_number": 323,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 458,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B) The rules say I have three tries to reset my password.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 544,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B) It wouldn't be so bad if their printers weren't in our pants.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 548,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 643,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 397,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 169,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 428,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 543,
+    "task": "ranking",
+    "ground_truth": "B",
+    "prediction": "B)",
+    "answer": "None"
+  },
+  {
+    "contest_number": 603,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "Answer: B) I'm sorry, we're booked several lifetimes in advance.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 239,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 126,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  },
+  {
+    "contest_number": 133,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "B",
+    "answer": "None"
+  },
+  {
+    "contest_number": 724,
+    "task": "ranking",
+    "ground_truth": "A",
+    "prediction": "A.",
+    "answer": "None"
+  }
+]

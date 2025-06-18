@@ -9,11 +9,10 @@ from unsloth.trainer import UnslothVisionDataCollator
 from trl import SFTTrainer, SFTConfig
 
 
-
-random.seed(42)
-def build_prompt_for_caption_pair(caption_a_text, caption_b_text):
+def build_prompt_for_caption_pair(caption_a_text, caption_b_text, contest_no):
     prompt_lines = [
         f"The image is a cartoon from the New Yorker Cartoon Caption Contest.\n",
+        f"Contest number: {contest_no}.\n",
         f"I will provide you with two captions; one of them is deemed funnier by people.",
         f"Which of the following captions is funnier: A: {caption_a_text} B: {caption_b_text}?\n",
         f"A) {caption_a_text}\n",
@@ -26,24 +25,23 @@ def build_prompt_for_caption_pair(caption_a_text, caption_b_text):
     return "\n".join(prompt_lines)
 
 def parse_args():
-    parser = argparse.ArgumentParser(description="Fine-tune Qwen2-VL model with SFT.")
-    parser.add_argument("--model_size", choices=["7b", "72b"], default="7b", help="Model size: 7b or 72b.")
+    parser = argparse.ArgumentParser(description="Fine-tune a model with SFT.")
+    parser.add_argument("--model_name", type=str, default=None, help="Model id.")
     parser.add_argument("--dataset_path", type=str, default="sft_data_50.json", help="Path to JSON dataset.")
+    parser.add_argument("--is_4_bit", action="store_true", help="4-bit quantization.")
+    parser.add_argument("--max_steps", type=int, default=250, help="Maximum steps for SFT.")
+
+
     return parser.parse_args()
 
-def load_qwen2vl(model_size, device_map=None):
-    if model_size == "7b":
-        model_id = "unsloth/Qwen2.5-VL-7B-Instruct-bnb-4bit"
-    else:
-        model_id = "unsloth/Qwen2.5-VL-72B-Instruct-bnb-4bit"
+def load_model(args, device_map=None):
 
     model, tokenizer = FastVisionModel.from_pretrained(
-        model_id,
-        load_in_4bit = False, # Use 4bit to reduce memory use. False for 16bit LoRA.
+        args.model_name,
+        load_in_4bit = args.is_4_bit, # Use 4bit to reduce memory use. False for 16bit LoRA.
         use_gradient_checkpointing = "unsloth", # True or "unsloth" for long context
     )
     return model, tokenizer
-
 
 
 def load_data(file_path):
@@ -51,16 +49,20 @@ def load_data(file_path):
         data = json.load(f)
     return data
 
-# { "image": "/path/to/somefile.jpg"}
 def load_pil_image(image_path):
     img = Image.open(image_path).convert("RGB")
     return img
 
 
-def convert_to_conversation(sample):
-    caption_a_text = sample['caption_choices']['0'][0][0]
-    caption_b_text = sample['caption_choices']['0'][0][1]
-    instruction = build_prompt_for_caption_pair(caption_a_text, caption_b_text)
+def convert_to_conversation(sample, i):
+    caption_a_text = sample['caption_choices'][i][0][0]
+    caption_b_text = sample['caption_choices'][i][0][1]
+    answer = sample['caption_choices'][i][1]
+    contest_number = sample["contest_number"]
+    instruction = build_prompt_for_caption_pair(caption_a_text, caption_b_text, contest_number)
+
+    response = sample["responses"][i]
+    txt = f"<think>{response}</think> <answer>{answer}</answer>"
 
     conversation = [
         {
@@ -73,7 +75,7 @@ def convert_to_conversation(sample):
         {
             "role": "assistant",
             "content": [
-                {"type": "text", "text": sample["response"]}
+                {"type": "text", "text": txt}
             ]
         }
     ]
@@ -82,7 +84,7 @@ def convert_to_conversation(sample):
 
 def main():
     args = parse_args()
-    model, tokenizer = load_qwen2vl(args.model_size)
+    model, tokenizer = load_model(args)
     model = FastVisionModel.get_peft_model(
         model,
         finetune_vision_layers     = False, # False if not finetuning vision layers
@@ -99,21 +101,30 @@ def main():
         loftq_config = None, # And LoftQ
         # target_modules = "all-linear", # Optional now! Can specify a list if needed
     )
-
+    print(f"MODEL: {args.model_name}")
+    print('Model loaded...')
 
     dataset = load_data(args.dataset_path)
-    converted_dataset = [convert_to_conversation(sample) for sample in dataset]
-    val_dataset = converted_dataset[:10]
-    train_dataset = converted_dataset[10:]
+    converted_dataset = []
+    dataset_path = "./sft_data4.json" # MAY CHANGE
+    dataset = load_data(dataset_path)
+    for sample in dataset:
+        for i in sample["responses"]:
+            if i in sample['caption_choices']:
+                converted_dataset.append(convert_to_conversation(sample, i))
+    val_dataset = converted_dataset[:50]
+    train_dataset = converted_dataset[50:]
+    
+    print('Dataset loaded...')
     
 
     FastVisionModel.for_training(model)
     
     trainer_args = SFTConfig(
-        per_device_train_batch_size=2,
+        per_device_train_batch_size=4,
         gradient_accumulation_steps=4,
         warmup_steps=5,
-        max_steps=500,
+        max_steps=args.max_steps,
         learning_rate=2e-4,
         fp16 = not is_bf16_supported(),
         bf16 = is_bf16_supported(),
@@ -127,7 +138,7 @@ def main():
         seed=3407,
         output_dir="outputs",
         report_to="wandb",
-        run_name=f"qwen2vl_sft_{args.model_size}",
+        run_name=f"sft_{args.model_name}",
         remove_unused_columns=False,
         dataset_text_field="",
         dataset_kwargs={"skip_prepare_dataset": True},
@@ -137,7 +148,7 @@ def main():
     )
 
 
-
+    
     trainer = SFTTrainer(
         model=model,
         tokenizer=tokenizer,
@@ -146,12 +157,24 @@ def main():
         eval_dataset=val_dataset,
         args=trainer_args
     )
-
+    
+    print('Training starts...')
     trainer.train()
 
-    if True: 
-        model.save_pretrained_merged("unsloth_sft", tokenizer, save_method="merged_16bit")
 
+    """
+    if "4bit" in args.model_name: 
+        model.save_pretrained(f"sft_{args.model_name}")
+        tokenizer.save_pretrained(f"sft_{args.model_name}")
+    else:
+        model.save_pretrained_merged(f"sft_{args.model_name}", tokenizer, save_method="merged_16bit")
+    """
+    
+    
+    model.save_pretrained(f"sft_{args.model_name}")
+    tokenizer.save_pretrained(f"sft_{args.model_name}")
+    
+    
 
 if __name__ == "__main__":
     main()
